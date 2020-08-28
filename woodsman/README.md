@@ -17,9 +17,9 @@ translation).
 </footer>
 </blockquote>
 
-![The woodsman, variously wielding the Composite Bow and the Monkey
+![A woodsman, variously wielding the Composite Bow and the Monkey
 Wrench](./woodsman.png
-"The woodsman, variously wielding the Composite Bow and the Monkey Wrench")
+"A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
 
 The **woodsman** is an odd job/odd build in MapleStory that, at its core,
 represents the ability to both competently wield weapons of archery (bows
