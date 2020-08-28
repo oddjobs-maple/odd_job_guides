@@ -11,6 +11,8 @@ hung a shield four hides thick about his shoulders; on his comely head he set
 his helmet, well wrought with a crest of horse-hair that nodded menacingly
 above it, and he grasped two redoubtable bronze-shod spears.
 
+<br />
+
 <footer>
 &mdash;Homer, <cite>Odyssey</cite> (book XXII, Samuel Butler&rsquo;s
 translation).

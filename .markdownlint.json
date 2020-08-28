@@ -13,7 +13,8 @@
       "i",
       "blockquote",
       "footer",
-      "cite"
+      "cite",
+      "br"
     ]
   },
   "MD035": { "style": "---" }
