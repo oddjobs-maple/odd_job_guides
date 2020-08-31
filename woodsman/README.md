@@ -57,7 +57,7 @@ the eyes of mortals.
         - [Eyewear](#eyewear)
         - [Facewear](#facewear)
     - [Other items](#other-items)
-        - [Potions/food](#potionsfood)
+        - [Potions/food/drinks](#potions-food-drinks)
         - [Ammunition](#ammunition)
 
 ## A quick note on the name
@@ -635,7 +635,7 @@ scrolled with AVOID scrolls.
 
 ### Other items
 
-#### Potions/food
+#### Potions/food/drinks
 
 As a woodsman, you want all of the WATK that you can get. To this end, you will
 probably want potions/food/drinks that give WATK buffs. This is true regardless
