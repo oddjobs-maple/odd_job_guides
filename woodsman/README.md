@@ -42,6 +42,23 @@ the eyes of mortals.
     - [Hunter (melee specialisation)](#hunter-melee-specialisation)
     - [Crossbowman (archery specialisation)](#crossbowman-archery-specialisation)
     - [Crossbowman (melee specialisation)](#crossbowman-melee-specialisation)
+- [Itemization](#itemization)
+    - [Equipment](#equipment)
+        - [Armaments](#armaments)
+            - [Archery](#archery)
+            - [Melee](#melee)
+        - [Shields](#shields)
+        - [Headgear](#headgear)
+        - [Clothing](#clothing)
+        - [Footwear](#footwear)
+        - [Gloves](#gloves)
+        - [Capes](#capes)
+        - [Earrings](#earrings)
+        - [Eyewear](#eyewear)
+        - [Facewear](#facewear)
+    - [Other items](#other-items)
+        - [Potions/food](#potionsfood)
+        - [Ammunition](#ammunition)
 
 ## A quick note on the name
 
@@ -136,7 +153,8 @@ many issues as many other melee jobs).
 | 22&ndash;27 | +3 Critical Shot \[**MAX**\]                           |
 | 28&ndash;30 | +3 The Blessing of Amazon \[12\]                       |
 
-By level 30:
+<details>
+<summary>By level 30</summary>
 
 | skill                  |  level | max level |
 | :--------------------- | -----: | --------: |
@@ -146,6 +164,8 @@ By level 30:
 | Focus                  |      0 |        20 |
 | **Double Shot**        | **20** |    **20** |
 | Arrow Blow             |      1 |        20 |
+
+</details>
 
 This first-job SP allocation strategy is essentially identical to your typical
 archer&rsquo;s. The only thing that might surprise some people is that we leave
@@ -178,7 +198,8 @@ everything.
 |          24 | +1 The Eye of Amazon \[**MAX**\], +2 Critical Shot \[2\] |
 | 25&ndash;30 | +3 Critical Shot \[**MAX**\]                             |
 
-By level 30:
+<details>
+<summary>By level 30</summary>
 
 | skill                      |  level | max level |
 | :------------------------- | -----: | --------: |
@@ -188,6 +209,8 @@ By level 30:
 | Focus                      |     16 |        20 |
 | Double Shot                |      0 |        20 |
 | Arrow Blow                 |      1 |        20 |
+
+</details>
 
 This build starts out with one point into Arrow Blow, because that single SP is
 enough to grant you a ranged single-target DPS skill that is significantly
@@ -228,7 +251,8 @@ prioritise The Blessing of Amazon over Focus.
 |          67 | +3 Bow Booster \[14\]                                       |
 | 68&ndash;70 | +2 Bow Booster \[**MAX**\], +1 Soul Arrow: Bow \[7\]        |
 
-By level 70:
+<details>
+<summary>By level 70</summary>
 
 | skill                      |  level | max level |
 | :------------------------- | -----: | --------: |
@@ -245,6 +269,8 @@ By level 70:
 | **Power Knock-Back**       | **20** |    **20** |
 | Soul Arrow: Bow            |      7 |        20 |
 | **Arrow Bomb**             | **30** |    **30** |
+
+</details>
 
 We start with the basics here: one point into Arrow Bomb to be able to use it,
 and then max Bow Mastery for the damage, accuracy, and damage stability. Then
@@ -317,7 +343,8 @@ first two levels of Soul Arrow somewhere earlier in the build.
 |          68 | +2 Soul Arrow: Bow \[**MAX**\], +1 Double Shot \[1\]      |
 | 69&ndash;70 | +3 Double Shot \[7\]                                      |
 
-By level 70:
+<details>
+<summary>By level 70</summary>
 
 | skill                      |  level | max level |
 | :------------------------- | -----: | --------: |
@@ -334,6 +361,8 @@ By level 70:
 | **Power Knock-Back**       | **20** |    **20** |
 | **Soul Arrow: Bow**        | **20** |    **20** |
 | **Arrow Bomb**             | **30** |    **30** |
+
+</details>
 
 This skill build ends up being more similar to the &ldquo;archery
 specialised&rdquo; hunter, in comparison to the more stark difference between
@@ -363,3 +392,318 @@ with &ldquo;Iron Arrow&rdquo;, and so on.
 Ditto of &ldquo;Hunter (melee specialisation)&rdquo;, but replace &ldquo;Bow
 Mastery&rdquo; with &ldquo;Crossbow Mastery&rdquo;, &ldquo;Arrow Bomb&rdquo;
 with &ldquo;Iron Arrow&rdquo;, and so on.
+
+## Itemization
+
+A woodsman is nothing without her equipment and her gear&hellip;
+
+### Equipment
+
+#### Armaments
+
+##### Archery
+
+The armaments of archery that are available to the woodsman are fairly obvious:
+with their base DEX permanently stuck at exactly 25, the woodsman has no choice
+but to favor armaments with no DEX requirements (or low DEX requirements). The
+breakdown, by character level, looks vaguely like this (note that, of course,
+you can always skip certain weapons, or acquire them later on):
+
+|        level | armaments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  10&ndash;11 | Just use the War Bow (or Beginner&rsquo;s War Bow, or whatever it is that Athena Pierce may give you).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|  12&ndash;14 | If you want, you can switch to the Crossbow. If you plan on advancing to crossbowman at level 30, you might want to buy up a bunch of these and try your hand at scrolling them, if possible, because it will likely have to last you until level 35, at the least.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|  15&ndash;17 | Because the Composite Bow only has a DEX requirement of 40 (thus requiring just &ge;15 DEX from your other equipment), it makes a good choice here, if you can equip it. Unlike the Crossbow, the Composite Bow actually drops from a small handful of monsters, so it is even possible to try to get some above-average ones and then try your hand at scrolling those. Or you can just buy them up from Karl and scroll those. If you choose to advance to hunter at level 30, this will likely have to suffice until level 35, at the least.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|  18&ndash;34 | If you can manage to equip the Battle Crossbow (requires &ge;55 DEX, meaning &ge;30 from equipment!), and you plan on advancing to crossbowman at level 30, you might try your hand at scrolling one here. Otherwise, just keep whatever you&rsquo;ve been using.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|  35&ndash;42 | Finally, some maple weapons. If you&rsquo;re a hunter, you&rsquo;ve the Maple Bow. If you&rsquo;re a crossbowman, you&rsquo;ve the Maple Crow.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  43&ndash;63 | If you haven&rsquo;t switched to a maple weapon already, or you just want an upgrade right now, there&rsquo;s the Maple Soul Searcher for hunters, and the Maple Crossbow for crossbowmen. If you&rsquo;re playing on an implementation that lacks maple weapons, you may want to revisit exactly which archery weapons you can equip (given the amount of DEX you&rsquo;re getting from your other equipment) and how you can optimize them as much as possible, through scrolling, and possibly also through getting above-average drops of said weapons.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|           64 | If you are fortunate enough to be playing on an implementation that has the full set of 2008 GMS Three Year Anniversary Event maple weapons, then you can make a considerable upgrade at this level: for Hunters, the Maple Kandiva Bow; for crossbowmen, the Maple Nishada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 65&ndash;200 | Again, depending on your implementation<sup>\[1\]</sup>, hunters may have an alternative to the Maple Kandiva Bow (with a level requirement of 65, rather than 64): the Bow of Magical Destruction. Whether or not this is a better choice than the Maple Kandiva Bow is situational. Assuming that both bows cost you equally much (unlikely, given that the Maple Kandiva Bow is an event-specific weapon, and the Bow of Magical Destruction drops from an ordinary monster), and assuming that both bows are completely clean and have average stats, the Maple Kandiva Bow is somewhat superior: identical WATK, a faster speed (5 (&ldquo;Fast&rdquo;) vs. the Bow of Magical Destruction&rsquo;s 6 (&ldquo;Normal&rdquo;)), a slightly better knockback rate (48% &gt; 47%), and a nifty +100 MaxHP. The Bow of Magical Destruction, on the other hand, is potentially easier to optimize (as it drops from an ordinary monster), and gives a (probably negligible, but nevertheless nice) +1 AVOID. |
+
+<details>
+<summary>Footnotes for &ldquo;Archery&rdquo;</summary>
+
+\[1\]: The earliest attestation of this weapon that I can find is from
+2007-05-04 at the latest (actually predating the 2008 GMS Three Year
+Anniversary Event (2008-05-07 &ndash; 2008-06-10) by almost exactly a year),
+[due to MapleTip][mapletip-bomd]. However, it&rsquo;s unclear at what point
+this weapon actually became _available_ in the game, as it would (at some
+point) drop from the ordinary level 64 monster, Leader B (exclusive to Zipangu)
+&mdash; yet, MapleTip lacks this knowledge, and so it is possible that the
+weapon&rsquo;s info was available in the `*.wz` files only, before the weapon
+properly existed in the game. The earliest attestation (that I could find with
+a quick search) of the Bow of Magical Destruction actually existing in the game
+is from 2011-01-07, exactly one month _after_ Big Bang. Notably, however,
+MapleLegends (v62), MapleRoyals (v62&ndash;83), and MapleSaga (v62) all have
+this bow.
+
+</details>
+
+##### Melee
+
+Because archers/hunters/crossbowmen/&amp;c. are not designed to be melee jobs,
+the choice of melee armaments for woodsmen looks fairly similar to that for a
+closely related odd job: the permabeginner. As such, this section will mostly
+just highlight the _differences_ w.r.t. melee armaments for woodsmen, as
+compared to melee armaments for permabeginners.
+
+Woodsmen obviously do not have access to any permabeginner-specific armaments;
+this means no access to any of the following:
+
+- The level 20 Frozen Tuna
+- Sake Bottle
+- Maroon Mop
+
+Woodsmen do, however, have access to a small handful of armaments that
+permabeginners do not have access to, although they are unfortunately limited
+to low levels:
+
+- Wooden Sword (level 10)
+- Metal Axe (level 10)
+- Wooden Mallet (level 10)
+- Monkey Wrench (level 25)
+
+The Monkey Wrench is of particular note due to being the highest level of these
+four, although its expected DPS (assuming zero DEX and assuming that the
+monster has zero WDEF) is roughly 98.88% that of a Fish Spear; however, the
+expected damage per hit is roughly 114.7% that of the Fish Spear under the same
+conditions. This advantage for the Monkey Wrench is, of course, amplified by
+higher monster WDEF.
+
+#### Shields
+
+An archer? Wearing a shield? Blasphemy! But with woodsmen, anything is
+possible. When engaging in melee and using a one-handed weapon, you will, of
+course, want a shield. As usual, the Maple Shield is the most powerful, simply
+because it has three extra slots, and you&rsquo;ll be wanting to scroll for
+WATK (and/or STR). More accessible are the Stolen Fence (available from an NPC
+and as a monster drop) and the Pan Lid (available as a reasonably common
+monster drop). The Palette sports better defense than the Stolen Fence or Pan
+Lid, and the LUK that it grants is useful for the accuracy (and avoidability).
+My preference is the Stone Shield, if the implementation even has it, due to
+its superior defense. The Black Phoenix Shield (again, if the implementation
+even has it) is superior to either the Stolen Fence or the Pan Lid, and has
+twice as much MDEF (and WDEF) as the Maple Shield.
+
+#### Headgear
+
+Woodsmen, unfortunately, do not have access to any of the bowman-specific
+headgear. They can, of course, equip the level 10 hats, but there is no reason
+to, considering that better hats (all with no job requirements) can be
+purchased from NPCs as well. There is, however, one notable exception: if you
+are fortunate enough to be playing on an implementation that has the extended
+first-job quests (in the archer&rsquo;s case, culminating in a battle with the
+Amdusias boss monster), you can (and must!) obtain the level 18 Amdusias Hat.
+This hat is so powerful as to almost be comparable to a good Zakum Helmet.
+
+If you cannot obtain the Amdusias Hat, you still have some good options
+(&ldquo;ordinary&rdquo; methods of availability &mdash; that is, NPCs, (party)
+quests, monster drops, and crafting &mdash; are bolded):
+
+| level | name                                                                                                                                                        | availability       | notable stats                                                             | notes                                                                                                                                                                                                                                                                                                                                                                 |
+| ----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     0 | Mark of the Beta; Genesis Bandana; Maple Bandana Yellow; Maple Bandana Red; Maple Bandana Blue; Yellow Maple Bandana; Red Maple Bandana; Blue Maple Bandana | event              | +1 all-stat, +15 WDEF; +1 all-stat; +2 all-stat; +3 all-stat; +4 all-stat | These are event-exclusive all-stat hats that range from +1 all-stat to +4 all-stat. Also, the Mark of the Beta and the Genesis Bandana in particular have 15 WDEF, which is nice (unlike the others, which lack defense entirely). These are highly desirable in the absence of the Amdusias Hat, as you can benefit from almost all of the stats (particularly DEX). |
+|     5 | Red Headband                                                                                                                                                | **NPC**            | +1 ACC                                                                    | ACC is quite useful for the woodsman, due to their DEXless nature.                                                                                                                                                                                                                                                                                                    |
+|     8 | Maple Hat \[2\]                                                                                                                                             | event              | +1 all-stat, +20 WDEF, +40 MDEF, +10 MaxHP, +10 MaxMP                     | An event-exclusive +1 all-stat hat that is superior to any of the +1 all-stat hats that are level 0.                                                                                                                                                                                                                                                                  |
+|    10 | Red Bandana                                                                                                                                                 | **drop**, gachapon | +1 ACC, +8 WDEF                                                           | Basically just the Red Headband, but with slightly better defense. If you&rsquo;re lucky, you got a +2 ACC one from a Zombie Lupin (or from a monster in China, if you&rsquo;re playing MapleLegends).                                                                                                                                                                |
+|    10 | Blue Bandana                                                                                                                                                | **drop**, gachapon | +1 STR                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
+|    10 | Yellow Bandana                                                                                                                                              | gachapon           | +1 DEX                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
+|    10 | Brown Bandana                                                                                                                                               | gachapon           | +5 ACC                                                                    | Gachapon-only ACC hat that is far superior to the Red Headband/Bandana, with +5 ACC on average.                                                                                                                                                                                                                                                                       |
+|    15 | Yellow Metal Gear                                                                                                                                           | **craft**          | +1 DEX, +12 WDEF                                                          | +1 DEX hat that can be fairly easily crafted. Better WDEF than the colored bandanas.                                                                                                                                                                                                                                                                                  |
+|    20 | Blue Old Wisconsin                                                                                                                                          | gachapon           | +7 ACC                                                                    | Gachapon-only ACC hat that is even better than the Brown Bandana, with +7 ACC on average.                                                                                                                                                                                                                                                                             |
+|    20 | White Starry Bandana                                                                                                                                        | gachapon           | +50 MaxHP, +15 WDEF, +50 MaxMP                                            | Defensive headgear.                                                                                                                                                                                                                                                                                                                                                   |
+|    25 | Ribboned Pig Headband                                                                                                                                       | **quest**          | +50 MaxHP                                                                 | +50 MaxHP hat that can be obtained from quests, unlike its gachapon-only counterparts; good for racking up HP gear for your fragile self.                                                                                                                                                                                                                             |
+|    25 | Green Bamboo Hat; Blue Bamboo Hat                                                                                                                           | **party quest**    | +3 DEX; +3 STR                                                            | A +3 DEX hat and a +3 STR hat, respectively, available from KPQ. Usually, try to get a green one. Or get one of each!                                                                                                                                                                                                                                                 |
+|    30 | Maple Hat \[3\]                                                                                                                                             | event              | +2 all-stat, +35 WDEF, +50 MDEF, +12 MaxHP, +12 MaxMP                     | An event-exclusive +2 all-stat hat that is preferable to any of the +2 all-stat hats that are level 0.                                                                                                                                                                                                                                                                |
+|    30 | Black Starry Bandana                                                                                                                                        | gachapon           | +10 ACC, +25 WDEF                                                         | Gachapon-only ACC hat that is even better than the Blue Old Wisconsin, with +10 ACC on average.                                                                                                                                                                                                                                                                       |
+|    40 | Toymaker Cap                                                                                                                                                | **quest**          | +1 all-stat, +27 WDEF, +15 MDEF                                           | +1 all-stat hat with good WDEF, and decent MDEF(!), that can be obtained from Hunted Mansion quests.                                                                                                                                                                                                                                                                  |
+|    70 | Maple Hat \[4\]                                                                                                                                             | event              | +3 all-stat, +50 WDEF, +60 MDEF, +15 MaxHP, +15 MaxMP                     | An event-exclusive, +3 all-stat hat with very good defenses.                                                                                                                                                                                                                                                                                                          |
+
+This brings us to the ideal end-game hats: Zakum Helmets, and
+&ldquo;Scar/Tar&rdquo; (Scarlion and Targar) hats. These headgears are so
+incredibly powerful that they need no introduction. Zakum Helmets are generally
+more accessible, as Zakum tends to be run fairly often in most implementations,
+and only requires level 50 (instead of the level 80 of Scar/Tar hats). Scar/Tar
+hats aren&rsquo;t really better than Zakum Helmets, although it depends on what
+you want to optimize for; obviously, the ideal Scar/Tar hat for a woodsman is
+generally a Scarlion Hat (DEX).
+
+When it comes to scrolling headgear, obviously you ideally want to scroll for
+DEX, but scrolling for ACC is similarly good, and even 10%/30% DEF scrolls can
+give a +1 ACC, which could be nice. Scrolling for HP is also viable for obvious
+reasons. All-stat hats can be effectively Chaos Scrolled, if you&rsquo;re
+feeling really saucy, or somehow have a large supply of Chaos Scrolls.
+
+#### Clothing
+
+Again, like with headgear, woodsmen unfortunately largely lack access to
+bowman-specific attire of this kind (tops, bottoms, and overalls). This, again,
+puts the woodsman in a similar situation as their permabeginner counterparts.
+The idea here is to scroll an overall for DEX &mdash; unfortunately, tops
+cannot be scrolled for DEX, although you _could_ go the unusual-but-viable
+route of scrolling a bottom for DEX and scrolling a top for STR, or similar.
+This leaves you with essentially two options: bathrobes, and sauna robes.
+
+Bathrobes:
+
+- Are able to be purchased from an NPC, and thus highly available for scrolling.
+- Have a lower level requirement (20 &lt; 30).
+- Give a nice SPEED boost (+10 SPEED), but are defensively inferior (+20 WDEF
+  &lt; +30 WDEF; +0 AVOID &lt; +10 AVOID).
+
+Sauna robes, on the other hand:
+
+- Are more difficult to acquire, since you have to do a rather difficult quest
+  (and one that has a minimum level requirement of 30) just to get one.
+- Have a higher level requirement (30 &gt; 20).
+- Are defensively superior (+30 WDEF &gt; +20 WDEF; +10 AVOID &gt; +0 AVOID),
+  but do not grant any SPEED.
+
+The fact that bathrobes can be purchased from an NPC makes them, by and large,
+the clear favorite, since we really care about the scrolling outcome, not the
+base stats of the armour.
+
+#### Footwear
+
+Again, not much bowman-specific footwear here, unless you have access to
+Amdusias Shoes, in which case, just use those. The plan here is to scroll for
+DEX (unless you end up with Facestompers, in which case you might(&#x203d;) try
+Chaos Scrolling before scrolling for DEX).
+
+The usual suspects here are:
+
+| level | name                  | availability      | notable stats                                  | notes                                                                                                                                                                                                                               |
+| ----: | :-------------------- | :---------------- | :--------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    10 | Red Christmas Sock    | event, gachapon   | +1 WATK, 7 slots, +6 MDEF                      | Facestompers Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation.                                                                                                                       |
+|    10 | Purple Christmas Sock | event, gachapon   | +1 DEX, 7 slots, +6 MDEF                       | Red Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                            |
+|    10 | Navy Christmas Sock   | event, gachapon   | +1 STR, 7 slots, +6 MDEF                       | Purple Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                         |
+|    26 | Whitebottom Boots     | **NPC**, **drop** | +3 SPEED                                       | If all else fails, a little SPEED and a little WDEF is better than nothing. They even come in four different colors!                                                                                                                |
+|    30 | Squishy Shoes         | **party quest**   | +1 all-stat, +3 SPEED, +5 MDEF                 | Nab one (or more) of these if at all possible, from KPQ.                                                                                                                                                                            |
+|    30 | Green Snowshoes       | **NPC**           | 7 slots, +5 MDEF                               | The only footwear in this table that has any job requirements. The idea here is to make use of the two extra slots to get even more DEX from scrolling. The availability from an NPC for just 29k mesos makes this really possible. |
+|    50 | Yellow Snowshoes      | **drop**          | +3 DEX, 7 slots, +10 MDEF                      | Although this is a dropped item, good luck getting it from Female Boss! Very powerful.                                                                                                                                              |
+|    50 | Facestompers          | **craft**         | +2 WATK, +5 MDEF                               | For obvious reasons, the highest potential power of any footwear. Implementations vary widely on whether or not these are obtainable, and if so, how you get them, but in GMS, these were craftable (but not easily, of course!).   |
+|    80 | Violet Snowshoes      | **drop**          | 7 slots, +5 JUMP, +5 SPEED, +20 MDEF, +50 WDEF | Mostly known for having 7 slots (instead of 5), these also have pretty decent stats. Good luck getting a pair from The Boss!                                                                                                        |
+
+#### Gloves
+
+Again, no access to bowman-specific gloves. Generally, there are two kinds of
+gloves that you might want: gloves scrolled for WATK, and gloves scrolled for
+DEX/ACC. The usual suspects here are obvious: various colors of Work Gloves,
+Green Mittens, various colors of Markers, &amp;c. Scrolling for WATK is ideal,
+although scrolling for DEX/ACC can be useful when you are having accuracy
+troubles and/or troubles getting enough DEX to equip something.
+
+#### Capes
+
+Not much to say here, since capes work essentially the same, regardless of
+build. The ideal here is a pink cape that is Chaos Scrolled for WATK and/or
+scrolled for DEX.
+
+#### Earrings
+
+You will, predictably, want to scroll your earrings for DEX. To this end,
+earrings that can be purchased from NPCs (and possibly others that are
+similarly easy to farm) are likely going to be what you end up with. However,
+there are some earrings that come with stats (particularly, DEX) right out of
+the box:
+
+| level | name                                          | availability    | notable stats            | notes                                                                                                                                           |
+| ----: | :-------------------------------------------- | :-------------- | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+|    45 | Piercing of the Free Spirit                   | **quest**       | +1 all-stat, 4 slots     | May be available if your implementation has all of the Kerning Square quests implemented. Unfortunately only 4 slots (rather than the usual 5). |
+|    50 | Altaire Earrings; Glittering Altaire Earrings | **party quest** | +1 all-stat; +2 all-stat | May be available as a reward for Ellin Party Quest.                                                                                             |
+|    80 | Gold Emerald Earrings                         | **drop**        | +2 DEX                   | Dropped by The Boss. Good luck getting a pair. Also gives +5 INT.                                                                               |
+
+#### Eyewear
+
+We&rsquo;re mostly looking for DEX and ACC here. Eyewear can be scrolled for
+ACC (and 10%/30% scrolls for eyewear for ACC will give +1 DEX on success).
+Eyewear is the same for all jobs, essentially, but of particular note here are
+Broken Glasses (+1 all-stat, available from LPQ) and Spectrum Goggles (+1 STR,
++1 DEX, gachapon-only).
+
+#### Facewear
+
+Again, mostly looking for DEX and ACC. Facewear is easier to scroll for DEX
+than Eyewear, simply because scrolls for facewear for AVOID will give DEX on
+success, even in the case of 60%/70% scrolls (as opposed to only giving DEX on
+the success of 10%/30% scrolls). Of particular note are Sad Masks, which give
+an average of +10 ACC out of the box. There are also various other face
+accessories that may or may not be available, depending on your implementation,
+and the ones that you&rsquo;ll want are generally any that give WATK and/or DEX
+and/or STR and/or ACC right out of the box. However, anything with slots can be
+scrolled with AVOID scrolls.
+
+### Other items
+
+#### Potions/food
+
+As a woodsman, you want all of the WATK that you can get. To this end, you will
+probably want potions/food/drinks that give WATK buffs. This is true regardless
+of whether you are engaging in melee, or in archery, particularly because your
+expected damage capabilities in both of these areas are going to be subpar when
+compared to ordinary (non-odd) jobs specialized in these areas (warriors and
+archers, respectively). Being smart with how you acquire and use WATK buffs can
+help to narrow this gap. For WATK buffs that are available from NPCs
+(&ldquo;WATK&sdot;s/meso&rdquo; is the magnitude of the WATK buff given,
+multiplied by the duration, divided by the price per unit, and
+&ldquo;meso/s&rdquo; is the cost of one second of the buff):
+
+| name                    | WATK | WATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              | notes                                                                                                                                                                                                                                           |
+| :---------------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mapleade                |    2 |            0.024 | 83.333 |    30:00 |   150,000 | NLC                                                                                                                                                                                                         | Not actually a good idea, of course, but just here for completeness.                                                                                                                                                                            |
+| Cherry Pie              |    2 |            0.320 |  6.250 |     8:00 |     3,000 | NLC                                                                                                                                                                                                         | Not actually a good idea, of course, but just here for completeness.                                                                                                                                                                            |
+| Warrior Potion          |    5 |            1.800 |  2.777 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |                                                                                                                                                                                                                                                 |
+| Warrior Pill            |    5 |            6.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |                                                                                                                                                                                                                                                 |
+| Chili Crab              |    8 |            0.706 | 11.333 |    10:00 |     6,800 | Singapore, Malaysia                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
+| Pepper Crab             |    8 |            0.750 | 10.667 |     5:00 |     3,200 | Singapore, Malaysia                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
+| Takoyaki (Jumbo)        |    8 |            1.143 |  7.000 |    10:00 |     4,200 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
+| Takoyaki (Octopus Ball) |    8 |            1.200 |  6.667 |     5:00 |     2,000 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
+| Kangkung Belacan        |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |                                                                                                                                                                                                                                                 |
+| Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
+| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 5 per stack, so they use up inventory space very inefficiently. |
+
+The items here are in ascending order of WATK, brekaing any ties by sorting in
+ascending order of WATK&sdot;s/meso. The two stand-out items here are the
+Warrior Pill and the Cider. Both are tied for first place w.r.t.
+WATK&sdot;s/meso, with the Warrior Pill being the low-cost but low-WATK
+alternative to the higher-cost but higher-WATK Cider. This makes Ciders great
+for doing big damage without breaking the bank or running into scarcity (as you
+might with items that give WATK buffs greater than +20), and Warrior Pills
+great for a WATK buff that you can have on at all times for a very low meso
+cost (just 0.833 meso/s!).
+
+Ciders, however, are burdened by only stacking up to 5 per inventory slot (they
+are not burdened by the &minus;5 ACC debuff, since hat is easily cancelled
+out); as a result, if you want the highest store-bought WATK buff possible,
+_and_ you haven&rsquo;t the inventory space for Ciders, Warrior Elixirs are
+your best bet. Other entries here are either not useful, or are situationally
+useful when you happen to be near an NPC that sells them.
+
+Also of note are accuracy potions/food/drinks. For woodsmen that are doing more
+of the &ldquo;melee specialised&rdquo; kind of build (see above), these are not
+really of much concern, since you get access to useful levels of the Focus
+skill relatively early on. For other woodsmen, I recommend the use of Sniper
+Pills (+10 ACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
+until you get Focus to at least level 10. Of course, you only have to use these
+on an as-needed basis.
+
+#### Ammunition
+
+Like potions/food/drinks that give WATK buffs, ammunitions that give WATK buffs
+are a useful way to eke out a few extra WATK, whenever you are engaging in
+archery. Particularly, the cheapest kind are bronzed ammunition, which grant +1
+WATK and can be purchased from various NPCs (in the Aquarium, Ludibrium, KFT,
+Leafre, and the Omega Sector) for 10 mesos per unit (20k mesos for a ream of 2k
+units). More beneficial are colored ammunition (red for arrows, blue for
+quarrels), which grant a whopping +4 WATK, and can be purchased in Showa Town
+for 40 mesos per unit (80k mesos for a ream of 2k units); diamond ammunition
+grants the same bonus for half the price, although diamond ammunition can only
+be purchased by those that are allies of the Raven Ninja Clan.
+
+Note that although we are using two thousand as a &ldquo;ream&rdquo; here
+&mdash; because that is the size of a stack of normal arrows &mdash; bronzed
+ammunition stacks up to 1.8k per slot, and colored ammunition up to 1k. Also
+note that when Soul Arrow is active, you cannot benefit from any special
+ammunition.
+
+[mapletip-bomd]: https://web.archive.org/web/20070504024305/http://mapletip.com/maplestory-equipment/bow+of+magical+destruction/1452018/
