@@ -1,6 +1,7 @@
 # The Divinely Blessed Knight-Errant, The Holy Physician Turned Armed Zealot: The STR Cleric
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote>
 War has many manifestations. It can make heroes of ordinary people. It can be
@@ -15,6 +16,10 @@ as prayers.
 &amp; Dragons 5<sup>th</sup> Edition: Player&rsquo;s Handbook</cite> (p. 63)
 </footer>
 </blockquote>
+
+![A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper
+Cordons](./str-cleric.png
+"A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
 
 The **STR cleric** is an odd job/odd build in MapleStory that represents just
 one of the three possible specializations of STR mages, the other two being the
