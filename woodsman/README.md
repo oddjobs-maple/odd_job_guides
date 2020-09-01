@@ -404,8 +404,10 @@ with &ldquo;Iron Arrow&rdquo;, and so on.
 Note that third and fourth job builds can vary considerably just depending on
 implementation, since it depends on what version of the game you are playing,
 what balance changes have been applied, and what training spots are accessible
-and/or worthwhile. Pay close attention to the skill descriptions at _all_
-levels of each skill when deciding how to modify these builds to fit.
+and/or worthwhile. Also, these builds are inherently flexible, and will
+inevitably vary from player to player. Pay close attention to the skill
+descriptions at _all_ levels of each skill when deciding how to modify these
+builds to fit.
 
 |         level | SP allocation                                           |
 | ------------: | :------------------------------------------------------ |
@@ -519,8 +521,10 @@ archery to some extent).
 Note that third and fourth job builds can vary considerably just depending on
 implementation, since it depends on what version of the game you are playing,
 what balance changes have been applied, and what training spots are accessible
-and/or worthwhile. Pay close attention to the skill descriptions at _all_
-levels of each skill when deciding how to modify these builds to fit.
+and/or worthwhile. Also, these builds are inherently flexible, and will
+inevitably vary from player to player. Pay close attention to the skill
+descriptions at _all_ levels of each skill when deciding how to modify these
+builds to fit.
 
 |         level | SP allocation                                                         |
 | ------------: | :-------------------------------------------------------------------- |
