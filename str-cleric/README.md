@@ -39,6 +39,19 @@ makes the STR cleric both an enviable ally, as well as a formidable opponent.
     - [Cleric (permadeath)](#cleric-permadeath)
     - [Priest (normal)](#priest-normal)
     - [Priest (permadeath)](#priest-permadeath)
+    - [Equipment](#equipment)
+        - [Armaments](#armaments)
+        - [Shields](#shields)
+        - [Headgear](#headgear)
+        - [Clothing](#clothing)
+        - [Footwear](#footwear)
+        - [Gloves](#gloves)
+        - [Capes](#capes)
+        - [Earrings](#earrings)
+        - [Eyewear](#eyewear)
+        - [Facewear](#facewear)
+    - [Other items](#other-items)
+        - [Potions/food/drinks](#potions-food-drinks)
 
 ## A quick note on the name
 
@@ -106,6 +119,21 @@ might need some DEX though &mdash; depending on your equipment and on what
 monsters you are fighting &mdash; in order to reduce MISS chances (ideally to
 0%, although it&rsquo;s possible to just put up with small-but-nonzero MISS
 chances).
+
+Note that although STR is obviously your main stat, with DEX being secondary to
+it, you _do_ benefit from INT and LUK as well.
+
+INT:
+
+- Increases the effectiveness of Heal.
+- Increases MDEF.
+- Increases MaxMP gain on level-up.
+
+LUK:
+
+- Increases ACC (albeit not as much as DEX does).
+- Increases the effectiveness of Heal.
+- Increases AVOID.
 
 ## Skill builds
 
@@ -376,3 +404,255 @@ case it happens to be useful defensively. This build is less advisable than the
 permadeath version of the cleric skill build, just because it puts off Holy
 Symbol in order to get a skill that is a good defensive skill, but perhaps a
 tad too situational to justify delaying Holy Symbol.
+
+### Equipment
+
+#### Armaments
+
+Because magicians/clerics/priests/&amp;c. are not designed to be melee jobs,
+the choice of melee armaments for STR mages looks fairly similar to that for a
+closely related odd job: the permabeginner. As such, this section will mostly
+just highlight the _differences_ w.r.t. melee armaments for STR mages, as
+compared to melee armaments for permabeginners.
+
+STR mages obviously do not have access to any permabeginner-specific armaments;
+this means no access to any of the following:
+
+- The level 20 Frozen Tuna
+- Sake Bottle
+- Maroon Mop
+
+STR mages do, however, have access to a small handful of armaments that
+permabeginners do not have access to, although they are unfortunately limited
+to low levels:
+
+- Mace (level 15)
+- Iron Mace (level 20)
+- Fusion Mace (level 25)
+
+Another difference for STR clerics in particular is that, unlike
+permabeginners, they can benefit from weapons like e.g. the Flaming Katana,
+which give both WATK _and_ MATK. The MATK helps to increase the effectiveness
+of your Heal.
+
+#### Shields
+
+When engaging in melee and using a one-handed weapon, you will, of course, want
+a shield. As usual, the Maple Shield is the most powerful, simply because it
+has three extra slots, and you&rsquo;ll be wanting to scroll for WATK (and/or
+STR). More accessible are the Stolen Fence (available from an NPC and as a
+monster drop) and the Pan Lid (available as a reasonably common monster drop).
+The Palette sports better defense than the Stolen Fence or Pan Lid, and the LUK
+that it grants is quite useful. My preference is the Stone Shield, if the
+implementation even has it, due to its superior defense. The Black Phoenix
+Shield (again, if the implementation even has it) is superior to either the
+Stolen Fence or the Pan Lid, and has twice as much MDEF (and WDEF) as the Maple
+Shield.
+
+Because you&rsquo;re a mage, you can use the Maple Magician Shield, a level 64
+shield with good defenses, +2 INT, and most importantly, 10 slots. This is a
+superior choice to the Maple Shield if you can manage to scroll it well. A
+well-scrolled Maple Magician Shield is _the_ endgame shield for a
+one-handed-fighting STR mage.
+
+#### Headgear
+
+STR mages, unfortunately, do not have access to any of the magician-specific
+headgear. There is, however, one notable exception: if you are fortunate enough
+to be playing on an implementation that has the extended first-job quests (in
+the magician&rsquo;s case, culminating in a battle with the Marbas boss
+monster), you should obtain the level 18 Marbas Hat. The good defenses and
+accuracy are extremely nice, and the +12 INT helps too.
+
+If you cannot obtain the Marbas Hat, or just want something that will increase
+your DPS, you still have some good options (&ldquo;ordinary&rdquo; methods of
+availability &mdash; that is, NPCs, (party) quests, monster drops, and crafting
+&mdash; are bolded):
+
+| level | name                                                                                                                                                        | availability       | notable stats                                                             | notes                                                                                                                                                                                                                                                                                                                                                                 |
+| ----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     0 | Mark of the Beta; Genesis Bandana; Maple Bandana Yellow; Maple Bandana Red; Maple Bandana Blue; Yellow Maple Bandana; Red Maple Bandana; Blue Maple Bandana | event              | +1 all-stat, +15 WDEF; +1 all-stat; +2 all-stat; +3 all-stat; +4 all-stat | These are event-exclusive all-stat hats that range from +1 all-stat to +4 all-stat. Also, the Mark of the Beta and the Genesis Bandana in particular have 15 WDEF, which is nice (unlike the others, which lack defense entirely). These are highly desirable in the absence of the Amdusias Hat, as you can benefit from almost all of the stats (particularly DEX). |
+|     5 | Red Headband                                                                                                                                                | **NPC**            | +1 ACC                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
+|     8 | Maple Hat \[2\]                                                                                                                                             | event              | +1 all-stat, +20 WDEF, +40 MDEF, +10 MaxHP, +10 MaxMP                     | An event-exclusive +1 all-stat hat that is superior to any of the +1 all-stat hats that are level 0.                                                                                                                                                                                                                                                                  |
+|    10 | Red Bandana                                                                                                                                                 | **drop**, gachapon | +1 ACC, +8 WDEF                                                           | Basically just the Red Headband, but with slightly better defense. If you&rsquo;re lucky, you got a +2 ACC one from a Zombie Lupin (or from a monster in China, if you&rsquo;re playing MapleLegends).                                                                                                                                                                |
+|    10 | Blue Bandana                                                                                                                                                | **drop**, gachapon | +1 STR                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
+|    10 | Yellow Bandana                                                                                                                                              | gachapon           | +1 DEX                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
+|    10 | Brown Bandana                                                                                                                                               | gachapon           | +5 ACC                                                                    | Gachapon-only ACC hat that is far superior to the Red Headband/Bandana, with +5 ACC on average.                                                                                                                                                                                                                                                                       |
+|    15 | Blue Metal Gear                                                                                                                                             | **craft**          | +1 STR, +12 WDEF                                                          | +1 STR hat that can be fairly easily crafted. Better WDEF than the colored bandanas.                                                                                                                                                                                                                                                                                  |
+|    20 | Blue Old Wisconsin                                                                                                                                          | gachapon           | +7 ACC                                                                    | Gachapon-only ACC hat that is even better than the Brown Bandana, with +7 ACC on average.                                                                                                                                                                                                                                                                             |
+|    20 | White Starry Bandana                                                                                                                                        | gachapon           | +50 MaxHP, +15 WDEF, +50 MaxMP                                            | Defensive headgear.                                                                                                                                                                                                                                                                                                                                                   |
+|    25 | Ribboned Pig Headband                                                                                                                                       | **quest**          | +50 MaxHP                                                                 | +50 MaxHP hat that can be obtained from quests, unlike its gachapon-only counterparts; good for racking up HP gear.                                                                                                                                                                                                                                                   |
+|    25 | Green Bamboo Hat; Blue Bamboo Hat                                                                                                                           | **party quest**    | +3 DEX; +3 STR                                                            | A +3 DEX hat and a +3 STR hat, respectively, available from KPQ. Usually, try to get a blue one. Or get one of each!                                                                                                                                                                                                                                                  |
+|    30 | Maple Hat \[3\]                                                                                                                                             | event              | +2 all-stat, +35 WDEF, +50 MDEF, +12 MaxHP, +12 MaxMP                     | An event-exclusive +2 all-stat hat that is preferable to any of the +2 all-stat hats that are level 0.                                                                                                                                                                                                                                                                |
+|    30 | Black Starry Bandana                                                                                                                                        | gachapon           | +10 ACC, +25 WDEF                                                         | Gachapon-only ACC hat that is even better than the Blue Old Wisconsin, with +10 ACC on average.                                                                                                                                                                                                                                                                       |
+|    40 | Toymaker Cap                                                                                                                                                | **quest**          | +1 all-stat, +27 WDEF, +15 MDEF                                           | +1 all-stat hat with good WDEF, and decent MDEF(!), that can be obtained from Hunted Mansion quests.                                                                                                                                                                                                                                                                  |
+|    70 | Maple Hat \[4\]                                                                                                                                             | event              | +3 all-stat, +50 WDEF, +60 MDEF, +15 MaxHP, +15 MaxMP                     | An event-exclusive, +3 all-stat hat with very good defenses.                                                                                                                                                                                                                                                                                                          |
+
+This brings us to the ideal end-game hats: Zakum Helmets, and
+&ldquo;Scar/Tar&rdquo; (Scarlion and Targar) hats. These headgears are so
+incredibly powerful that they need no introduction. Zakum Helmets are generally
+more accessible, as Zakum tends to be run fairly often in most implementations,
+and only requires level 50 (instead of the level 80 of Scar/Tar hats). Scar/Tar
+hats aren&rsquo;t really better than Zakum Helmets, although it depends on what
+you want to optimize for; obviously, the ideal Scar/Tar hat for a STR mage is
+generally a Scarlion Hat (STR).
+
+When it comes to scrolling headgear, obviously you ideally want to scroll for
+DEX, but scrolling for ACC is similarly good, and even 10%/30% DEF scrolls can
+give a +1 ACC, which could be nice. All-stat hats can be effectively Chaos
+Scrolled, if you&rsquo;re feeling really saucy, or somehow have a large supply
+of Chaos Scrolls.
+
+#### Clothing
+
+Again, like with headgear, STR mages unfortunately largely lack access to
+magician-specific attire of this kind (tops, bottoms, and overalls). This,
+again, puts the woodsman in a similar situation as their permabeginner
+counterparts. The idea here is typically to scroll an overall for DEX and/or
+STR &mdash; unfortunately, tops cannot be scrolled for DEX, although it is also
+possible to go the route of scrolling a bottom for DEX and scrolling a top for
+STR. If going the route of overalls, this leaves you with essentially two
+options: bathrobes, and sauna robes.
+
+Bathrobes:
+
+- Are able to be purchased from an NPC, and thus highly available for scrolling.
+- Have a lower level requirement (20 &lt; 30).
+- Give a nice SPEED boost (+10 SPEED), but are defensively inferior (+20 WDEF
+  &lt; +30 WDEF; +0 AVOID &lt; +10 AVOID).
+
+Sauna robes, on the other hand:
+
+- Are more difficult to acquire, since you have to do a rather difficult quest
+  (and one that has a minimum level requirement of 30) just to get one.
+- Have a higher level requirement (30 &gt; 20).
+- Are defensively superior (+30 WDEF &gt; +20 WDEF; +10 AVOID &gt; +0 AVOID),
+  but do not grant any SPEED.
+
+The fact that bathrobes can be purchased from an NPC makes them, by and large,
+the clear favorite, since we really care about the scrolling outcome, not the
+base stats of the armour.
+
+#### Footwear
+
+Again, not much magician-specific footwear here, unless you have access to
+Marbas Shoes, in which case, just use those. The plan here is to scroll for
+DEX (unless you end up with Facestompers, in which case you might(&#x203d;) try
+Chaos Scrolling before scrolling for DEX).
+
+The usual suspects here are:
+
+| level | name                  | availability      | notable stats                                  | notes                                                                                                                                                                                                                                                                                                                                  |
+| ----: | :-------------------- | :---------------- | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    10 | Red Christmas Sock    | event, gachapon   | +1 WATK, 7 slots, +6 MDEF                      | Facestompers Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. Notably has two more slots than Facestompers!                                                                                                                                                                            |
+|    10 | Purple Christmas Sock | event, gachapon   | +1 DEX, 7 slots, +6 MDEF                       | Red Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                               |
+|    10 | Navy Christmas Sock   | event, gachapon   | +1 STR, 7 slots, +6 MDEF                       | Purple Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                            |
+|    26 | Whitebottom Boots     | **NPC**, **drop** | +3 SPEED                                       | If all else fails, a little SPEED and a little WDEF is better than nothing. They even come in four different colors!                                                                                                                                                                                                                   |
+|    30 | Squishy Shoes         | **party quest**   | +1 all-stat, +3 SPEED, +5 MDEF                 | Nab one (or more) of these if at all possible, from KPQ.                                                                                                                                                                                                                                                                               |
+|    30 | Blue Snowshoes        | **NPC**           | 7 slots, +10 MDEF                              | The only footwear in this table that has any job requirements. The idea here is to make use of the two extra slots to get even more DEX from scrolling. The availability from an NPC for just 28k mesos makes this really possible.                                                                                                    |
+|    50 | Yellow Snowshoes      | rare drop         | +3 DEX, 7 slots, +10 MDEF                      | Although this is a dropped item, good luck getting it from Female Boss! Very powerful.                                                                                                                                                                                                                                                 |
+|    50 | Facestompers          | rare craft        | +2 WATK, +5 MDEF                               | For obvious reasons, the highest potential power of any footwear (actually, this distinction _technically_ goes to the Red Christmas Sock, because it has more slots). Implementations vary widely on whether or not these are obtainable, and if so, how you get them, but in GMS, these were craftable (but not easily, of course!). |
+|    80 | Violet Snowshoes      | rare drop         | 7 slots, +5 JUMP, +5 SPEED, +20 MDEF, +50 WDEF | Mostly known for having 7 slots (instead of 5), these also have pretty decent stats. Good luck getting a pair from The Boss!                                                                                                                                                                                                           |
+
+#### Gloves
+
+Again, no access to magician-specific gloves. Generally, there are two kinds of
+gloves that you might want: gloves scrolled for WATK, and gloves scrolled for
+DEX/ACC. The usual suspects here are obvious: various colors of Work Gloves,
+Green Mittens, various colors of Markers, &amp;c. Scrolling for WATK is
+obviously _ideal_, although scrolling for DEX/ACC is very useful when you are
+having accuracy troubles.
+
+Notable, however, is the fact that STR clerics are the only job besides gishes
+that can make full use of Flamekeeper Cordons. The ACC is extremely helpful,
+and the MATK helps make your Heal more effective.
+
+#### Capes
+
+Not much to say here, since capes work essentially the same, regardless of
+build. The ideal here is a pink cape that is Chaos Scrolled for WATK and/or
+scrolled for DEX.
+
+#### Earrings
+
+You will, predictably, want to scroll your earrings for DEX. To this end,
+earrings that can be purchased from NPCs (and possibly others that are
+similarly easy to farm) are likely going to be what you end up with. However,
+there are some earrings that come with stats (particularly, DEX) right out of
+the box:
+
+| level | name                                          | availability    | notable stats            | notes                                                                                                                                                             |
+| ----: | :-------------------------------------------- | :-------------- | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    45 | Piercing of the Free Spirit                   | **quest**       | +1 all-stat, 4 slots     | May be available if your implementation has all of the Kerning Square quests implemented. Unfortunately only 4 slots (rather than the usual 5).                   |
+|    50 | Altaire Earrings; Glittering Altaire Earrings | **party quest** | +1 all-stat; +2 all-stat | May be available as a reward for Ellin Party Quest.                                                                                                               |
+|    80 | Gold Emerald Earrings                         | rare drop       | +2 DEX, +5 INT           | Dropped by The Boss. Good luck getting a pair. STR clerics and gishes are the only jobs that can really make use of both the DEX and the INT from these earrings. |
+
+#### Eyewear
+
+We&rsquo;re mostly looking for DEX and ACC here. Eyewear can be scrolled for
+ACC (and 10%/30% scrolls for eyewear for ACC will give +1 DEX on success).
+Eyewear is the same for all jobs, essentially, but of particular note here are
+Broken Glasses (+1 all-stat, available from LPQ) and Spectrum Goggles (+1 STR,
++1 DEX, gachapon-only).
+
+#### Facewear
+
+Again, mostly looking for DEX and ACC. Facewear is easier to scroll for DEX
+than Eyewear, simply because scrolls for facewear for AVOID will give DEX on
+success, even in the case of 60%/70% scrolls (as opposed to only giving DEX on
+the success of 10%/30% scrolls). Of particular note are Sad Masks, which give
+an average of +10 ACC out of the box. There are also various other face
+accessories that may or may not be available, depending on your implementation,
+and the ones that you&rsquo;ll want are generally any that give WATK and/or DEX
+and/or STR and/or ACC right out of the box. However, anything with slots can be
+scrolled with AVOID scrolls.
+
+### Other items
+
+#### Potions/food/drinks
+
+As a STR mage, you want all of the WATK that you can get. To this end, you will
+probably want potions/food/drinks that give WATK buffs. This is true
+particularly because your expected damage capabilities in melee are going to be
+subpar when compared to ordinary (non-odd) jobs specialized in melee combat
+(warriors, bandits, brawlers). Being smart with how you acquire and use WATK
+buffs can help to narrow this gap. For WATK buffs that are available from NPCs
+(&ldquo;WATK&sdot;s/meso&rdquo; is the magnitude of the WATK buff given,
+multiplied by the duration, divided by the price per unit, and
+&ldquo;meso/s&rdquo; is the cost of one second of the buff):
+
+| name                    | WATK | WATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              | notes                                                                                                                                                                                                                                           |
+| :---------------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mapleade                |    2 |            0.024 | 83.333 |    30:00 |   150,000 | NLC                                                                                                                                                                                                         | Not actually a good idea, of course, but just here for completeness.                                                                                                                                                                            |
+| Cherry Pie              |    2 |            0.320 |  6.250 |     8:00 |     3,000 | NLC                                                                                                                                                                                                         | Not actually a good idea, of course, but just here for completeness.                                                                                                                                                                            |
+| Warrior Potion          |    5 |            1.800 |  2.777 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |                                                                                                                                                                                                                                                 |
+| Warrior Pill            |    5 |            6.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |                                                                                                                                                                                                                                                 |
+| Chili Crab              |    8 |            0.706 | 11.333 |    10:00 |     6,800 | Singapore, Malaysia                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
+| Pepper Crab             |    8 |            0.750 | 10.667 |     5:00 |     3,200 | Singapore, Malaysia                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
+| Takoyaki (Jumbo)        |    8 |            1.143 |  7.000 |    10:00 |     4,200 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
+| Takoyaki (Octopus Ball) |    8 |            1.200 |  6.667 |     5:00 |     2,000 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
+| Kangkung Belacan        |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |                                                                                                                                                                                                                                                 |
+| Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
+| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 5 per stack, so they use up inventory space very inefficiently. |
+
+The items here are in ascending order of WATK, brekaing any ties by sorting in
+ascending order of WATK&sdot;s/meso. The two stand-out items here are the
+Warrior Pill and the Cider. Both are tied for first place w.r.t.
+WATK&sdot;s/meso, with the Warrior Pill being the low-cost but low-WATK
+alternative to the higher-cost but higher-WATK Cider. This makes Ciders great
+for doing big damage without breaking the bank or running into scarcity (as you
+might with items that give WATK buffs greater than +20), and Warrior Pills
+great for a WATK buff that you can have on at all times for a very low meso
+cost (just 0.833 meso/s!).
+
+Ciders, however, are burdened by only stacking up to 5 per inventory slot (they
+are not burdened by the &minus;5 ACC debuff, since hat is easily cancelled
+out); as a result, if you want the highest store-bought WATK buff possible,
+_and_ you haven&rsquo;t the inventory space for Ciders, Warrior Elixirs are
+your best bet. Other entries here are either not useful, or are situationally
+useful when you happen to be near an NPC that sells them.
+
+Also of note are accuracy potions/food/drinks. I recommend the use of Sniper
+Pills (+10 ACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
+until you get Bless to at least level 10. Of course, you only have to use these
+on an as-needed basis.
