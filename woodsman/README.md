@@ -1,7 +1,6 @@
 # The Martial Classicist, The Strongest Drawing Arm In All The Land: The Woodsman
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote cite="https://www.gutenberg.org/files/1727/1727-h/1727-h.htm">
 Meanwhile Ulysses, as long as his arrows lasted, had been shooting the suitors
@@ -18,8 +17,7 @@ translation).
 </blockquote>
 
 ![A woodsman, variously wielding the Composite Bow and the Monkey
-Wrench](./woodsman.png
-"A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
+Wrench](./woodsman.png "A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
 
 The **woodsman** is an odd job/odd build in MapleStory that, at its core,
 represents the ability to both competently wield weapons of archery (bows
@@ -42,6 +40,8 @@ the eyes of mortals.
     - [Hunter (melee specialisation)](#hunter-melee-specialisation)
     - [Crossbowman (archery specialisation)](#crossbowman-archery-specialisation)
     - [Crossbowman (melee specialisation)](#crossbowman-melee-specialisation)
+    - [Ranger](#ranger)
+    - [Sniper](#sniper)
 - [Itemization](#itemization)
     - [Equipment](#equipment)
         - [Armaments](#armaments)
@@ -139,6 +139,12 @@ job onwards (and is good enough to be useful in first job), and the
 &ldquo;archery specialist&rdquo; is perfectly adept at melee, even if they can
 suffer from more accuracy issues during early second job (albeit not quite as
 many issues as many other melee jobs).
+
+By the time that you&rsquo;ve hit level 70 as a woodsman, the distinction
+between woodsmen who have chosen to prioritise melee early on, and woodsmen who
+have chosen to prioritise archery early on, collapses. Therefore, for third and
+fourth job skill builds, no distinction is made between &ldquo;melee
+specialisation&rdquo; and &ldquo;archery specialisation&rdquo;.
 
 ### Archer (archery specialisation)
 
@@ -393,6 +399,182 @@ Ditto of &ldquo;Hunter (melee specialisation)&rdquo;, but replace &ldquo;Bow
 Mastery&rdquo; with &ldquo;Crossbow Mastery&rdquo;, &ldquo;Arrow Bomb&rdquo;
 with &ldquo;Iron Arrow&rdquo;, and so on.
 
+### Ranger
+
+Note that third and fourth job builds can vary considerably just depending on
+implementation, since it depends on what version of the game you are playing,
+what balance changes have been applied, and what training spots are accessible
+and/or worthwhile. Pay close attention to the skill descriptions at _all_
+levels of each skill when deciding how to modify these builds to fit.
+
+|         level | SP allocation                                           |
+| ------------: | :------------------------------------------------------ |
+|            70 | +1 Strafe \[1\]                                         |
+|            71 | +3 Mortal Blow \[3\]                                    |
+|            72 | +2 Mortal Blow \[5\], +1 Arrow Rain \[1\]               |
+|   73&ndash;78 | +3 Arrow Rain \[19\]                                    |
+|            79 | +2 Arrow Rain \[21\], +1 Strafe \[2\]                   |
+|   80&ndash;85 | +3 Strafe \[20\]                                        |
+|   86&ndash;88 | +3 Arrow Rain \[**MAX**\]                               |
+|            89 | +1 Puppet \[1\], +1 Inferno \[1\], +1 Silver Hawk \[1\] |
+|   90&ndash;91 | +3 Puppet \[7\]                                         |
+|   92&ndash;94 | +3 Strafe \[29\]                                        |
+|            95 | +1 Strafe \[**MAX**\], +2 Silver Hawk \[3\]             |
+|  96&ndash;104 | +3 Silver Hawk \[**MAX**\]                              |
+| 105&ndash;108 | +3 Puppet \[19\]                                        |
+|           109 | +2 Mortal Blow \[7\], +1 Puppet \[**MAX**\]             |
+| 110&ndash;113 | +3 Mortal Blow \[19\]                                   |
+|           114 | +2 Inferno \[3\], +1 Mortal Blow \[**MAX**\]            |
+| 115&ndash;118 | +3 Inferno \[15\]                                       |
+|           119 | +2 Thrust \[2\], +1 Inferno \[16\]                      |
+|           120 | +3 Thrust \[5\]                                         |
+
+<details>
+<summary>By level 120</summary>
+
+| skill           |  level | max level |
+| :-------------- | -----: | --------: |
+| Thrust          |      5 |        20 |
+| **Mortal Blow** | **20** |    **20** |
+| **Puppet**      | **20** |    **20** |
+| Inferno         |     16 |        30 |
+| **Arrow Rain**  | **30** |    **30** |
+| **Silver Hawk** | **30** |    **30** |
+| **Strafe**      | **30** |    **30** |
+
+</details>
+
+The first thing to note here is that now that we&rsquo;ve finished second job,
+woodsman skill builds have pretty much lost any distinction from ordinary
+archer skill builds. From level 70 onwards, you can make use of the common
+wisdom surrounding rangers/snipers/bowmasters/marksmen when allocating your
+SPs. This particular skill build optimises for raw combat prowess and
+flexibility in training locations, so it makes a good place to start for
+woodsmen.
+
+At level 70 we get a point into Strafe, since this is usually superior to maxed
+Double Shot (or, if you were &ldquo;melee specialised&rdquo;, this represents
+an enormous bump in your single-target archery DPS). Then we immediately get
+Arrow Rain to a level (21) that is useful and effective for training and
+general multi-target combat; note that level 5 of Mortal Blow is a requirement
+to put any SPs into Arrow Rain. From there we do something similar to Strafe,
+getting it to level 20. Then we come back to Arrow Rain to max it out and thus
+maximize effectiveness in multi-target combat. Then we get one point into
+Inferno and Silver Hawk. Inferno is not a very useful skill on its own, but it
+is useful for luring mobs that are far away from you when you want to use Arrow
+Rain on them (since Arrow Rain is centered on the woodsman as an AoE effect).
+Arrow Bomb could be used for this, except that Arrow Bomb stuns, and thus
+prevents the lured mobs from immediately coming towards you. Silver Hawk helps
+with single-target DPS, and can also stun mobs without you having to actually
+do anything. Then we get Puppet up to a useful level (7), to help when engaging
+in single-target combat. Now we can finally max Strafe and maximize
+single-target archery DPS. Then we max Silver Hawk to help maximize
+single-target DPS in general, and also make the stun more reliable. Then we max
+Puppet so that it sticks around for longer (more HP and longer duration).
+Mortal Blow is then maxed, which helps when engaging in archery and using
+attacks that aren&rsquo;t Arrow Rain. This can still help later on, because
+Strafe remains useful as a single-target burst DPS skill, and Arrow Bomb
+remains your primary stunning ability (in addition to Silver Hawk). We then get
+Inferno to level 16, not for the damage, but because the range increases at
+level 16, which is what we care about, since we are using it to lure monsters
+from afar. Finally, we have nothing left to spend SPs on except Thrust, so we
+spend the rest on that.
+
+There are a lot of things that you can tweak here, and you should definitely
+think about what you really want from your skill build, even adjusting it on
+the fly as you get comfortable using these skills. Because this example build
+is focused around raw combat prowess, Thrust is left as a last priority.
+However, the extra SPEED from Thrust is not only useful when engaging in
+archery, but also particularly when engaging in melee, as woodsmen are wont to
+do. It is therefore entirely reasonable to sacrifice some levels of Inferno
+and/or Mortal Blow in order to get higher levels of Thrust (e.g. leaving
+Inferno at level 1 and maxing Thrust); again, this example build is dedicated
+only to raw combat prowess, as a simple example. You can also prioritise Arrow
+Rain and Strafe differently, e.g. putting one point into Arrow Rain for
+convenience and then immediately maxing Strafe. This can be followed by a point
+in Silver Hawk, a handful of points into Puppet, maxing Silver Hawk, and then
+maxing Puppet; this maximises your single-target combat potential very early
+on.
+
+Another possibility is a kind of radically melee-focused build. In reality,
+second job and onwards for archers &mdash; and particularly third job and
+onwards &mdash; are so oriented away from melee combat that you may as well
+think of skill builds as I have here; that is, as being essentially ordinary
+archer skill builds. But ranger does offer at least three skills that can be
+used without a bow in hand (in descending order of general importance):
+
+1. Silver Hawk
+2. Puppet
+3. Thrust
+
+It is possible to prioritise these skills above the other skills offered by
+ranger, and allow Arrow Bomb (and Arrow Blow or Double Shot) to suffice for
+longer. I just cannot really recommend such a build, as I believe it to be more
+useful to think of SPs as being dedicated to improving archery (and also melee
+to some extent), and APs as being dedicated to improving melee (and also
+archery to some extent).
+
+### Sniper
+
+Note that third and fourth job builds can vary considerably just depending on
+implementation, since it depends on what version of the game you are playing,
+what balance changes have been applied, and what training spots are accessible
+and/or worthwhile. Pay close attention to the skill descriptions at _all_
+levels of each skill when deciding how to modify these builds to fit.
+
+|         level | SP allocation                                                         |
+| ------------: | :-------------------------------------------------------------------- |
+|            70 | +1 Strafe \[1\]                                                       |
+|            71 | +2 Mortal Blow \[2\], +1 Blizzard \[1\]                               |
+|            72 | +3 Mortal Blow \[5\]                                                  |
+|   73&ndash;79 | +3 Arrow Eruption \[21\]                                              |
+|   80&ndash;85 | +3 Strafe \[19\]                                                      |
+|            86 | +2 Arrow Eruption \[23\], +1 Strafe \[20\]                            |
+|   87&ndash;88 | +3 Arrow Eruption \[29\]                                              |
+|            89 | +1 Puppet \[1\], +1 Arrow Eruption \[**MAX**\], +1 Golden Eagle \[1\] |
+|   90&ndash;91 | +3 Puppet \[7\]                                                       |
+|   92&ndash;94 | +3 Strafe \[29\]                                                      |
+|            95 | +2 Blizzard \[3\], +1 Strafe \[**MAX**\]                              |
+|  96&ndash;101 | +3 Blizzard \[21\]                                                    |
+| 102&ndash;109 | +3 Golden Eagle \[25\]                                                |
+| 110&ndash;113 | +3 Puppet \[19\]                                                      |
+|           114 | +2 Mortal Blow \[7\], +1 Puppet \[**MAX**\]                           |
+| 115&ndash;118 | +3 Mortal Blow \[19\]                                                 |
+|           119 | +2 Thrust \[2\], +1 Mortal Blow \[**MAX**\]                           |
+|           120 | +3 Thrust \[5\]                                                       |
+
+<details>
+<summary>By level 120</summary>
+
+| skill              |  level | max level |
+| :----------------- | -----: | --------: |
+| Thrust             |      5 |        20 |
+| **Mortal Blow**    | **20** |    **20** |
+| **Puppet**         | **20** |    **20** |
+| Blizzard           |     21 |        30 |
+| **Arrow Eruption** | **30** |    **30** |
+| Golden Eagle       |     25 |        30 |
+| **Strafe**         | **30** |    **30** |
+
+</details>
+
+The first thing to note here is that now that we&rsquo;ve finished second job,
+woodsman skill builds have pretty much lost any distinction from ordinary
+archer skill builds. From level 70 onwards, you can make use of the common
+wisdom surrounding rangers/snipers/bowmasters/marksmen when allocating your
+SPs. This particular skill build optimises for raw combat prowess and
+flexibility in training locations, so it makes a good place to start for
+woodsmen.
+
+This build is an example build similar to the one given for rangers. The main
+difference here is that we actually want to get Blizzard to level 21 (as
+opposed to level 16, as with Inferno), because we only care about the freeze
+duration, and the freeze duration peaks at level 21. As a result, in order to
+ensure that we still get at least some Thrust (5), we leave Golden Eagle
+unmaxed, since it gets replaced by Frostprey later on anyways.
+
+See the comments on the ranger skill build.
+
 ## Itemization
 
 A woodsman is nothing without her equipment and her gear&hellip;
@@ -580,9 +762,9 @@ The usual suspects here are:
 |    26 | Whitebottom Boots     | **NPC**, **drop** | +3 SPEED                                       | If all else fails, a little SPEED and a little WDEF is better than nothing. They even come in four different colors!                                                                                                                |
 |    30 | Squishy Shoes         | **party quest**   | +1 all-stat, +3 SPEED, +5 MDEF                 | Nab one (or more) of these if at all possible, from KPQ.                                                                                                                                                                            |
 |    30 | Green Snowshoes       | **NPC**           | 7 slots, +5 MDEF                               | The only footwear in this table that has any job requirements. The idea here is to make use of the two extra slots to get even more DEX from scrolling. The availability from an NPC for just 29k mesos makes this really possible. |
-|    50 | Yellow Snowshoes      | **drop**          | +3 DEX, 7 slots, +10 MDEF                      | Although this is a dropped item, good luck getting it from Female Boss! Very powerful.                                                                                                                                              |
-|    50 | Facestompers          | **craft**         | +2 WATK, +5 MDEF                               | For obvious reasons, the highest potential power of any footwear. Implementations vary widely on whether or not these are obtainable, and if so, how you get them, but in GMS, these were craftable (but not easily, of course!).   |
-|    80 | Violet Snowshoes      | **drop**          | 7 slots, +5 JUMP, +5 SPEED, +20 MDEF, +50 WDEF | Mostly known for having 7 slots (instead of 5), these also have pretty decent stats. Good luck getting a pair from The Boss!                                                                                                        |
+|    50 | Yellow Snowshoes      | rare drop         | +3 DEX, 7 slots, +10 MDEF                      | Although this is a dropped item, good luck getting it from Female Boss! Very powerful.                                                                                                                                              |
+|    50 | Facestompers          | rare craft        | +2 WATK, +5 MDEF                               | For obvious reasons, the highest potential power of any footwear. Implementations vary widely on whether or not these are obtainable, and if so, how you get them, but in GMS, these were craftable (but not easily, of course!).   |
+|    80 | Violet Snowshoes      | rare drop         | 7 slots, +5 JUMP, +5 SPEED, +20 MDEF, +50 WDEF | Mostly known for having 7 slots (instead of 5), these also have pretty decent stats. Good luck getting a pair from The Boss!                                                                                                        |
 
 #### Gloves
 
@@ -611,7 +793,7 @@ the box:
 | ----: | :-------------------------------------------- | :-------------- | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
 |    45 | Piercing of the Free Spirit                   | **quest**       | +1 all-stat, 4 slots     | May be available if your implementation has all of the Kerning Square quests implemented. Unfortunately only 4 slots (rather than the usual 5). |
 |    50 | Altaire Earrings; Glittering Altaire Earrings | **party quest** | +1 all-stat; +2 all-stat | May be available as a reward for Ellin Party Quest.                                                                                             |
-|    80 | Gold Emerald Earrings                         | **drop**        | +2 DEX                   | Dropped by The Boss. Good luck getting a pair. Also gives +5 INT.                                                                               |
+|    80 | Gold Emerald Earrings                         | rare drop       | +2 DEX                   | Dropped by The Boss. Good luck getting a pair. Also gives +5 INT.                                                                               |
 
 #### Eyewear
 
