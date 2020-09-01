@@ -1,6 +1,7 @@
 # The Martial Classicist, The Strongest Drawing Arm In All The Land: The Woodsman
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote cite="https://www.gutenberg.org/files/1727/1727-h/1727-h.htm">
 Meanwhile Ulysses, as long as his arrows lasted, had been shooting the suitors
@@ -17,7 +18,8 @@ translation).
 </blockquote>
 
 ![A woodsman, variously wielding the Composite Bow and the Monkey
-Wrench](./woodsman.png "A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
+Wrench](./woodsman.png
+"A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
 
 The **woodsman** is an odd job/odd build in MapleStory that, at its core,
 represents the ability to both competently wield weapons of archery (bows
@@ -758,17 +760,17 @@ Chaos Scrolling before scrolling for DEX).
 
 The usual suspects here are:
 
-| level | name                  | availability      | notable stats                                  | notes                                                                                                                                                                                                                               |
-| ----: | :-------------------- | :---------------- | :--------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    10 | Red Christmas Sock    | event, gachapon   | +1 WATK, 7 slots, +6 MDEF                      | Facestompers Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation.                                                                                                                       |
-|    10 | Purple Christmas Sock | event, gachapon   | +1 DEX, 7 slots, +6 MDEF                       | Red Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                            |
-|    10 | Navy Christmas Sock   | event, gachapon   | +1 STR, 7 slots, +6 MDEF                       | Purple Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                         |
-|    26 | Whitebottom Boots     | **NPC**, **drop** | +3 SPEED                                       | If all else fails, a little SPEED and a little WDEF is better than nothing. They even come in four different colors!                                                                                                                |
-|    30 | Squishy Shoes         | **party quest**   | +1 all-stat, +3 SPEED, +5 MDEF                 | Nab one (or more) of these if at all possible, from KPQ.                                                                                                                                                                            |
-|    30 | Green Snowshoes       | **NPC**           | 7 slots, +5 MDEF                               | The only footwear in this table that has any job requirements. The idea here is to make use of the two extra slots to get even more DEX from scrolling. The availability from an NPC for just 29k mesos makes this really possible. |
-|    50 | Yellow Snowshoes      | rare drop         | +3 DEX, 7 slots, +10 MDEF                      | Although this is a dropped item, good luck getting it from Female Boss! Very powerful.                                                                                                                                              |
-|    50 | Facestompers          | rare craft        | +2 WATK, +5 MDEF                               | For obvious reasons, the highest potential power of any footwear. Implementations vary widely on whether or not these are obtainable, and if so, how you get them, but in GMS, these were craftable (but not easily, of course!).   |
-|    80 | Violet Snowshoes      | rare drop         | 7 slots, +5 JUMP, +5 SPEED, +20 MDEF, +50 WDEF | Mostly known for having 7 slots (instead of 5), these also have pretty decent stats. Good luck getting a pair from The Boss!                                                                                                        |
+| level | name                  | availability      | notable stats                                  | notes                                                                                                                                                                                                                                                                                                                                  |
+| ----: | :-------------------- | :---------------- | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    10 | Red Christmas Sock    | event, gachapon   | +1 WATK, 7 slots, +6 MDEF                      | Facestompers Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. Notably has two more slots than Facestompers!                                                                                                                                                                            |
+|    10 | Purple Christmas Sock | event, gachapon   | +1 DEX, 7 slots, +6 MDEF                       | Red Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                               |
+|    10 | Navy Christmas Sock   | event, gachapon   | +1 STR, 7 slots, +6 MDEF                       | Purple Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                            |
+|    26 | Whitebottom Boots     | **NPC**, **drop** | +3 SPEED                                       | If all else fails, a little SPEED and a little WDEF is better than nothing. They even come in four different colors!                                                                                                                                                                                                                   |
+|    30 | Squishy Shoes         | **party quest**   | +1 all-stat, +3 SPEED, +5 MDEF                 | Nab one (or more) of these if at all possible, from KPQ.                                                                                                                                                                                                                                                                               |
+|    30 | Green Snowshoes       | **NPC**           | 7 slots, +5 MDEF                               | The only footwear in this table that has any job requirements. The idea here is to make use of the two extra slots to get even more DEX from scrolling. The availability from an NPC for just 29k mesos makes this really possible.                                                                                                    |
+|    50 | Yellow Snowshoes      | rare drop         | +3 DEX, 7 slots, +10 MDEF                      | Although this is a dropped item, good luck getting it from Female Boss! Very powerful.                                                                                                                                                                                                                                                 |
+|    50 | Facestompers          | rare craft        | +2 WATK, +5 MDEF                               | For obvious reasons, the highest potential power of any footwear (actually, this distinction _technically_ goes to the Red Christmas Sock, because it has more slots). Implementations vary widely on whether or not these are obtainable, and if so, how you get them, but in GMS, these were craftable (but not easily, of course!). |
+|    80 | Violet Snowshoes      | rare drop         | 7 slots, +5 JUMP, +5 SPEED, +20 MDEF, +50 WDEF | Mostly known for having 7 slots (instead of 5), these also have pretty decent stats. Good luck getting a pair from The Boss!                                                                                                                                                                                                           |
 
 #### Gloves
 
