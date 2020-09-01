@@ -37,6 +37,8 @@ makes the STR cleric both an enviable ally, as well as a formidable opponent.
     - [Magician](#magician)
     - [Cleric (normal)](#cleric-normal)
     - [Cleric (permadeath)](#cleric-permadeath)
+    - [Priest (normal)](#priest-normal)
+    - [Priest (permadeath)](#priest-permadeath)
 
 ## A quick note on the name
 
@@ -253,3 +255,124 @@ The main difference here is that we max Invincible first, even before Bless.
 Invincible is by far the most important defensive skill here, although Bless
 helps as well. Heal helps too, but not as much as Invincible or even Bless at
 this level. Plus, Bless gives ACC.
+
+### Priest (normal)
+
+Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
+stands for &ldquo;[don&rsquo;t
+care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
+
+|         level | SP allocation                                             |
+| ------------: | :-------------------------------------------------------- |
+|            70 | +1 Dispel \[1\]                                           |
+|            71 | +2 Dispel \[3\], +1 Mystic Door \[1\]                     |
+|            72 | +3 Holy Symbol \[3\]                                      |
+|            73 | +2 Holy Symbol \[5\], +1 Elemental Resistance \[1\]       |
+|   74&ndash;81 | +3 Holy Symbol \[29\]                                     |
+|            82 | +2 Elemental Resistance \[3\], +1 Holy Symbol \[**MAX**\] |
+|   83&ndash;87 | +3 Elemental Resistance \[18\]                            |
+|            88 | +2 Elemental Resistance \[**MAX**\], +1 Doom \[1\]        |
+|   89&ndash;97 | +3 Doom \[28\]                                            |
+|            98 | +2 Doom \[**MAX**\], +1 Dispel \[4\]                      |
+|  99&ndash;103 | +3 Dispel \[19\]                                          |
+|           104 | +2 Mystic Door \[3\], +1 Dispel \[**MAX**\]               |
+| 105&ndash;109 | +3 Mystic Door \[18\]                                     |
+|           110 | +2 Mystic Door \[**MAX**\], +1 DC \[DC\]                  |
+| 111&ndash;120 | DC                                                        |
+
+<details>
+<summary>By level 120</summary>
+
+| skill                       |  level | max level |
+| :-------------------------- | -----: | --------: |
+| **Improved MP Recovery**    | **16** |    **16** |
+| **Improved MaxMP Increase** | **10** |    **10** |
+| **Magic Guard**             | **20** |    **20** |
+| **Magic Armor**             | **20** |    **20** |
+| Energy Bolt                 |     DC |        20 |
+| Magic Claw                  |     DC |        20 |
+|                             |        |           |
+| MP Eater                    |     DC |        20 |
+| **Heal**                    | **30** |    **30** |
+| **Invincible**              | **20** |    **20** |
+| **Teleport**                | **20** |    **20** |
+| **Bless**                   | **20** |    **20** |
+| Holy Arrow                  |     DC |        30 |
+|                             |        |           |
+| **Elemental Resistance**    | **20** |    **20** |
+| **Dispel**                  | **20** |    **20** |
+| **Mystic Door**             | **20** |    **20** |
+| **Holy Symbol**             | **30** |    **30** |
+| Shining Ray                 |     DC |        30 |
+| **Doom**                    | **30** |    **30** |
+| Summon Dragon               |     DC |        30 |
+
+</details>
+
+The build here is pretty straightforward, with an early single SP into both
+Mystic Door and Elemental Resistance, because both skills are useful even at
+level 1. We prioritise Doom over Dispel and Mystic Door (although of course,
+Dispel in Mystic Door are both maxed and also get a few SPs early on), mostly
+because we will be meleeing mobs one by one. Doom helps to slow your enemies
+down, and also take away their fancy attacks so that they cannot use those
+fancy attacks to knock you back. Of course, you don&rsquo;t _have_ to
+prioritise Doom in this way, since of course Dispel and Mystic Door may
+potentially be more useful to you (particularly if you are bossing early on).
+
+### Priest (permadeath)
+
+Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
+stands for &ldquo;[don&rsquo;t
+care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
+
+|         level | SP allocation                                                 |
+| ------------: | :------------------------------------------------------------ |
+|            70 | +1 Elemental Resistance \[1\]                                 |
+|            71 | +1 Elemental Resistance \[2\], +1 Dispel \[1\], +1 Doom \[1\] |
+|   72&ndash;77 | +3 Elemental Resistance \[**MAX**\]                           |
+|            78 | +2 Dispel \[3\], +1 Holy Symbol \[1\]                         |
+|   79&ndash;87 | +3 Holy Symbol \[28\]                                         |
+|            88 | +2 Holy Symbol \[**MAX**\], +1 Mystic Door \[1\]              |
+|   89&ndash;97 | +3 Doom \[28\]                                                |
+|            98 | +2 Doom \[**MAX**\], +1 Dispel \[4\]                          |
+|  99&ndash;103 | +3 Dispel \[19\]                                              |
+|           104 | +2 Mystic Door \[3\], +1 Dispel \[**MAX**\]                   |
+| 105&ndash;109 | +3 Mystic Door \[18\]                                         |
+|           110 | +2 Mystic Door \[**MAX**\], +1 DC \[DC\]                      |
+| 111&ndash;120 | DC                                                            |
+
+<details>
+<summary>By level 120</summary>
+
+| skill                       |  level | max level |
+| :-------------------------- | -----: | --------: |
+| **Improved MP Recovery**    | **16** |    **16** |
+| **Improved MaxMP Increase** | **10** |    **10** |
+| **Magic Guard**             | **20** |    **20** |
+| **Magic Armor**             | **20** |    **20** |
+| Energy Bolt                 |     DC |        20 |
+| Magic Claw                  |     DC |        20 |
+|                             |        |           |
+| MP Eater                    |     DC |        20 |
+| **Heal**                    | **30** |    **30** |
+| **Invincible**              | **20** |    **20** |
+| **Teleport**                | **20** |    **20** |
+| **Bless**                   | **20** |    **20** |
+| Holy Arrow                  |     DC |        30 |
+|                             |        |           |
+| **Elemental Resistance**    | **20** |    **20** |
+| **Dispel**                  | **20** |    **20** |
+| **Mystic Door**             | **20** |    **20** |
+| **Holy Symbol**             | **30** |    **30** |
+| Shining Ray                 |     DC |        30 |
+| **Doom**                    | **30** |    **30** |
+| Summon Dragon               |     DC |        30 |
+
+</details>
+
+The main difference here (of the permadeath version) is that we max Elemental
+Resistance before getting Holy Symbol. We also get an early point in Doom, in
+case it happens to be useful defensively. This build is less advisable than the
+permadeath version of the cleric skill build, just because it puts off Holy
+Symbol in order to get a skill that is a good defensive skill, but perhaps a
+tad too situational to justify delaying Holy Symbol.
