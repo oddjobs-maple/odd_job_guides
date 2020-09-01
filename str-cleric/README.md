@@ -39,6 +39,7 @@ makes the STR cleric both an enviable ally, as well as a formidable opponent.
     - [Cleric (permadeath)](#cleric-permadeath)
     - [Priest (normal)](#priest-normal)
     - [Priest (permadeath)](#priest-permadeath)
+- [Itemization](#itemization)
     - [Equipment](#equipment)
         - [Armaments](#armaments)
         - [Shields](#shields)
@@ -404,6 +405,10 @@ case it happens to be useful defensively. This build is less advisable than the
 permadeath version of the cleric skill build, just because it puts off Holy
 Symbol in order to get a skill that is a good defensive skill, but perhaps a
 tad too situational to justify delaying Holy Symbol.
+
+## Itemization
+
+A STR cleric is nothing without her equipment and her gear&hellip;
 
 ### Equipment
 
