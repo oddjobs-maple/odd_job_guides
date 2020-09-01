@@ -35,6 +35,8 @@ makes the STR cleric both an enviable ally, as well as a formidable opponent.
 - [AP build](#ap-build)
 - [Skill builds](#skill-builds)
     - [Magician](#magician)
+    - [Cleric (normal)](#cleric-normal)
+    - [Cleric (permadeath)](#cleric-permadeath)
 
 ## A quick note on the name
 
@@ -152,3 +154,102 @@ Guard. Then we have leftover SPs; we can use these to max out the cost-saving
 passive skill, Improved MP Recovery. Then at level 30 we have one SP left over
 that we have to spend, and have literally no choice but to use it for Energy
 Bolt (a useless skill).
+
+### Cleric (normal)
+
+Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
+stands for &ldquo;[don&rsquo;t
+care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
+
+|       level | SP allocation                                |
+| ----------: | :------------------------------------------- |
+|          30 | +1 Teleport \[1\]                            |
+|          31 | +3 Heal \[3\]                                |
+|          32 | +2 Heal \[5\], +1 Invincible \[1\]           |
+|          33 | +3 Invincible \[4\]                          |
+|          34 | +2 Bless \[2\], +1 Invincible \[5\]          |
+| 35&ndash;40 | +3 Bless \[**MAX**\]                         |
+| 41&ndash;48 | +3 Heal \[29\]                               |
+|          49 | +2 Invincible \[7\], +1 Heal \[**MAX**\]     |
+| 50&ndash;53 | +3 Invincible \[19\]                         |
+|          54 | +2 Teleport \[3\], +1 Invincible \[**MAX**\] |
+| 55&ndash;59 | +3 Teleport \[18\]                           |
+|          60 | +2 Teleport \[**MAX**\], +1 DC \[DC\]        |
+| 61&ndash;70 | DC                                           |
+
+<details>
+<summary>By level 70</summary>
+
+| skill                       |  level | max level |
+| :-------------------------- | -----: | --------: |
+| **Improved MP Recovery**    | **16** |    **16** |
+| **Improved MaxMP Increase** | **10** |    **10** |
+| **Magic Guard**             | **20** |    **20** |
+| **Magic Armor**             | **20** |    **20** |
+| Energy Bolt                 |     DC |        20 |
+| Magic Claw                  |     DC |        20 |
+|                             |        |           |
+| MP Eater                    |     DC |        20 |
+| **Heal**                    | **30** |    **30** |
+| **Invincible**              | **20** |    **20** |
+| **Teleport**                | **20** |    **20** |
+| **Bless**                   | **20** |    **20** |
+| Holy Arrow                  |     DC |        30 |
+
+</details>
+
+The basic idea here is to put our first SP into Teleport in order to have it,
+and then immediately rush max Bless. Bless gives us MDEF, AVOID, and most
+importantly: precious, precious ACC. Then, we leave Invincible at level 5
+(it&rsquo;s reasonably effective even at that level, at least for now) in order
+to focus on maxing Heal; Heal really needs to be maxed, because being INTless
+and LUKless means that our Heal needs all of the help that it can get. Remember
+that Heal is only useful defensively as a STR cleric, as the magic damage will
+always MISS undead monsters. Now we can finally max Invincible and Teleport,
+and after that we have nothing left to spend SPs on.
+
+### Cleric (permadeath)
+
+Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
+stands for &ldquo;[don&rsquo;t
+care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
+
+|       level | SP allocation                             |
+| ----------: | :---------------------------------------- |
+|          30 | +1 Teleport \[1\]                         |
+|          31 | +3 Heal \[3\]                             |
+|          32 | +2 Heal \[5\], +1 Invincible \[1\]        |
+| 33&ndash;38 | +3 Invincible \[19\]                      |
+|          39 | +2 Bless \[2\], +1 Invincible \[**MAX**\] |
+| 40&ndash;45 | +3 Bless \[**MAX**\]                      |
+| 46&ndash;53 | +3 Heal \[29\]                            |
+|          54 | +2 Teleport \[3\], +1 Heal \[**MAX**\]    |
+| 55&ndash;59 | +3 Teleport \[18\]                        |
+|          60 | +2 Teleport \[**MAX**\], +1 DC \[DC\]     |
+| 61&ndash;70 | DC                                        |
+
+<details>
+<summary>By level 70</summary>
+
+| skill                       |  level | max level |
+| :-------------------------- | -----: | --------: |
+| **Improved MP Recovery**    | **16** |    **16** |
+| **Improved MaxMP Increase** | **10** |    **10** |
+| **Magic Guard**             | **20** |    **20** |
+| **Magic Armor**             | **20** |    **20** |
+| Energy Bolt                 |     DC |        20 |
+| Magic Claw                  |     DC |        20 |
+|                             |        |           |
+| MP Eater                    |     DC |        20 |
+| **Heal**                    | **30** |    **30** |
+| **Invincible**              | **20** |    **20** |
+| **Teleport**                | **20** |    **20** |
+| **Bless**                   | **20** |    **20** |
+| Holy Arrow                  |     DC |        30 |
+
+</details>
+
+The main difference here is that we max Invincible first, even before Bless.
+Invincible is by far the most important defensive skill here, although Bless
+helps as well. Heal helps too, but not as much as Invincible or even Bless at
+this level. Plus, Bless gives ACC.
