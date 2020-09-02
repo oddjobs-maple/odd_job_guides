@@ -645,7 +645,7 @@ multiplied by the duration, divided by the price per unit, and
 | Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
 | Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 5 per stack, so they use up inventory space very inefficiently. |
 
-The items here are in ascending order of WATK, brekaing any ties by sorting in
+The items here are in ascending order of WATK, breaking any ties by sorting in
 ascending order of WATK&sdot;s/meso. The two stand-out items here are the
 Warrior Pill and the Cider. Both are tied for first place w.r.t.
 WATK&sdot;s/meso, with the Warrior Pill being the low-cost but low-WATK
