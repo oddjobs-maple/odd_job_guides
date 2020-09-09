@@ -1,7 +1,6 @@
 # The Divinely Blessed Knight-Errant, The Holy Physician Turned Armed Zealot: The STR Cleric
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote>
 War has many manifestations. It can make heroes of ordinary people. It can be
@@ -18,8 +17,7 @@ as prayers.
 </blockquote>
 
 ![A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper
-Cordons](./str-cleric.png
-"A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
+Cordons](./str-cleric.png "A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
 
 The **STR cleric** is an odd job/odd build in MapleStory that represents just
 one of the three possible specializations of STR mages, the other two being the
@@ -443,7 +441,38 @@ to low levels:
 Another difference for STR clerics in particular is that, unlike
 permabeginners, they can benefit from weapons like e.g. the Flaming Katana,
 which give both WATK _and_ MATK. The MATK helps to increase the effectiveness
-of your Heal.
+of your Heal. Indeed, in some cases you will exclusively (or almost
+exclusively) be healing and buffing, in which case you will want to equip
+things that increase your Heal&rsquo;s efficacy. When it comes to armaments,
+here are some of the armaments that can be equipped by a STR cleric to boost
+their Heal power:
+
+| name                               | level | MATK | type     | WATK | other stats                    | requirements               |
+| :--------------------------------- | ----: | ---: | :------- | ---: | :----------------------------- | :------------------------- |
+| Sky Blue Umbrella                  |     0 |   15 | 1H sword |   15 |                                |                            |
+| Wooden Wand                        |     8 |   23 | wand     |   15 |                                |                            |
+| Green Umbrella                     |     8 |   25 | 1H sword |   12 |                                | 10 LUK                     |
+| Fruity Bamboo                      |    22 |   37 | 1H BW    |   40 | +8 SPEED                       |                            |
+| Light Purple Umbrella              |    25 |   39 | 1H sword |   41 |                                | 6 STR                      |
+| Poison Mushroom                    |    30 |   45 | staff    |   30 | +50 MaxHP                      | 10 LUK                     |
+| Green Paint Brush                  |    30 |   45 | 1H axe   |   48 | +30 MaxHP                      | 5 STR                      |
+| Pumpkin Lantern                    |    30 |   55 | 2H sword |   55 | +50 MaxHP                      |                            |
+| Maple Staff                        |    35 |   48 | staff    |   35 | +100 MaxHP                     |                            |
+| Flaming Katana                     |    38 |   40 | 1H sword |   65 | +17 SPEED                      |                            |
+| Yellow Umbrella                    |    40 |   52 | 1H sword |   54 |                                |                            |
+| Nocturnal Staff                    |    43 |   58 | staff    |   39 | +100 MaxHP, +50 MaxMP          |                            |
+| Maple Lama Staff                   |    43 |   58 | staff    |   39 | +100 MaxHP, +50 MaxMP          |                            |
+| Beige Umbrella                     |    43 |   60 | 1H sword |   60 |                                | 5 STR, 5 DEX, 5 INT, 5 LUK |
+| Diao Chan Sword                    |    48 |   60 | 1H sword |   69 | +1 INT, +1 DEX, +1 STR         |                            |
+| Maple Shine Wand                   |    64 |   80 | wand     |   49 | +1 INT, +100 MaxHP, +100 MaxMP |                            |
+| Maple Wisdom Staff                 |    64 |   60 | staff    |   50 | +1 INT, +150 MaxHP, +50 MaxMP  |                            |
+| Black Umbrella                     |    70 |   85 | 1H sword |   85 |                                | 6 STR, 6 DEX, 6 INT, 6 LUK |
+| Elemental Wand 3; Elemental Wand 4 |    70 |   85 | wand     |   56 | +1 LUK                         |                            |
+| Elemental Wand 1; Elemental Wand 2 |    70 |   85 | wand     |   56 | +1 INT                         |                            |
+| Kebob                              |    75 |   90 | dagger   |   83 | +50 MaxHP                      |                            |
+| Crimson Arcglaive                  |   100 |   89 | polearm  |  102 | +2 STR, +5 SPEED               | 300 STR, 80 DEX            |
+| Elemental Wand 7; Elemental Wand 8 |   130 |  145 | wand     |   92 | +2 LUK                         |                            |
+| Elemental Wand 5; Elemental Wand 6 |   130 |  145 | wand     |   92 | +2 INT                         |                            |
 
 #### Shields
 
@@ -666,3 +695,19 @@ Also of note are accuracy potions/food/drinks. I recommend the use of Sniper
 Pills (+10 ACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
 until you get Bless to at least level 10. Of course, you only have to use these
 on an as-needed basis.
+
+When not in a party with someone who can cast Meditate on you, you may want a
+MATK buff to make your Heal more substantial:
+
+| name             | MATK | MATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              | notes |
+| :--------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- |
+| Magic Potion     |    5 |            1.800 |  2.778 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |       |
+| Magic Pill       |    5 |            6.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |       |
+| Kangkung Belacan |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |       |
+| Yakisoba         |   10 |            1.667 |  6.000 |     5:00 |     1,800 | Mushroom Shrine                                                                                                                                                                                             |       |
+| Yakisoba (x2)    |   10 |            1.579 |  6.333 |    10:00 |     3,800 | Mushroom Shrine                                                                                                                                                                                             |       |
+| Wizard Elixir    |   20 |            1.920 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |       |
+
+The clear winners here are the Magic Pill and the Wizard Elixir: the Magic Pill
+for a very cheap and sustainable buff, and the Wizard Elixir for a much more
+heavy-duty buff.
