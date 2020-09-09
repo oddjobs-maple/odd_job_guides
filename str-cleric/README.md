@@ -1,6 +1,7 @@
 # The Divinely Blessed Knight-Errant, The Holy Physician Turned Armed Zealot: The STR Cleric
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote>
 War has many manifestations. It can make heroes of ordinary people. It can be
@@ -17,7 +18,8 @@ as prayers.
 </blockquote>
 
 ![A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper
-Cordons](./str-cleric.png "A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
+Cordons](./str-cleric.png
+"A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
 
 The **STR cleric** is an odd job/odd build in MapleStory that represents just
 one of the three possible specializations of STR mages, the other two being the
@@ -699,14 +701,14 @@ on an as-needed basis.
 When not in a party with someone who can cast Meditate on you, you may want a
 MATK buff to make your Heal more substantial:
 
-| name             | MATK | MATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              | notes |
-| :--------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- |
-| Magic Potion     |    5 |            1.800 |  2.778 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |       |
-| Magic Pill       |    5 |            6.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |       |
-| Kangkung Belacan |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |       |
-| Yakisoba         |   10 |            1.667 |  6.000 |     5:00 |     1,800 | Mushroom Shrine                                                                                                                                                                                             |       |
-| Yakisoba (x2)    |   10 |            1.579 |  6.333 |    10:00 |     3,800 | Mushroom Shrine                                                                                                                                                                                             |       |
-| Wizard Elixir    |   20 |            1.920 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |       |
+| name             | MATK | MATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              |
+| :--------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Magic Potion     |    5 |            1.800 |  2.778 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |
+| Magic Pill       |    5 |            6.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |
+| Kangkung Belacan |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |
+| Yakisoba         |   10 |            1.667 |  6.000 |     5:00 |     1,800 | Mushroom Shrine                                                                                                                                                                                             |
+| Yakisoba (x2)    |   10 |            1.579 |  6.333 |    10:00 |     3,800 | Mushroom Shrine                                                                                                                                                                                             |
+| Wizard Elixir    |   20 |            1.920 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |
 
 The clear winners here are the Magic Pill and the Wizard Elixir: the Magic Pill
 for a very cheap and sustainable buff, and the Wizard Elixir for a much more
