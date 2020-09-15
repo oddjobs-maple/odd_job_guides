@@ -179,7 +179,7 @@ early as possible.
 
 </details>
 
-SP allocation for first job is pretty straightforward: we need ot max Improved
+SP allocation for first job is pretty straightforward: we need to max Improved
 MaxMP Increase ASAP, especially considering that we are INTless and thus need
 all of the MaxMP that we can get. Then we quickly get Magic Guard to level 13,
 at which point 55% of incoming damage is taken out of our MP (and 45% out of
