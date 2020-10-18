@@ -104,8 +104,8 @@ Cons:
   LUKless. Heal is only useful defensively, as its ability to deal magical
   damage is also useless.
 - Considerably worse accuracy in comparison to an ordinary mage, and even in
-  comparison to an ordinary warrior, due to the fact that you gain less ACC per
-  point of DEX than warriors do.
+  comparison to an ordinary warrior, due to the fact that you do not get a
+  mastery skill.
 - Unfortunately not as good at melee combat as some other jobs are
   (particularly non-odd jobs, i.e. ordinary/mainstream jobs). Given the same
   equipment, any ordinary warrior, bandit, or brawler build that could be
@@ -138,8 +138,8 @@ INT:
 LUK:
 
 - Increases ACC (albeit not as much as DEX does).
-- Increases the effectiveness of Heal.
 - Increases AVOID.
+- Increases the effectiveness of Heal(?)
 
 ## Skill builds
 
