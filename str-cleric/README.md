@@ -1,7 +1,6 @@
 # The Divinely Blessed Knight-Errant, The Holy Physician Turned Armed Zealot: The STR Cleric
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote>
 War has many manifestations. It can make heroes of ordinary people. It can be
@@ -18,8 +17,7 @@ as prayers.
 </blockquote>
 
 ![A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper
-Cordons](./str-cleric.png
-"A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
+Cordons](./str-cleric.png "A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
 
 The **STR cleric** is an odd job/odd build in MapleStory that represents just
 one of the three possible specializations of STR mages, the other two being the
@@ -466,6 +464,7 @@ their Heal power:
 | Maple Lama Staff                   |    43 |   58 | staff    |   39 | +100 MaxHP, +50 MaxMP          |                            |
 | Beige Umbrella                     |    43 |   60 | 1H sword |   60 |                                | 5 STR, 5 DEX, 5 INT, 5 LUK |
 | Diao Chan Sword                    |    48 |   60 | 1H sword |   69 | +1 INT, +1 DEX, +1 STR         |                            |
+| Super Snowboard                    |    50 |   75 | polearm  |   75 | +8 SPEED                       |                            |
 | Maple Shine Wand                   |    64 |   80 | wand     |   49 | +1 INT, +100 MaxHP, +100 MaxMP |                            |
 | Maple Wisdom Staff                 |    64 |   60 | staff    |   50 | +1 INT, +150 MaxHP, +50 MaxMP  |                            |
 | Black Umbrella                     |    70 |   85 | 1H sword |   85 |                                | 6 STR, 6 DEX, 6 INT, 6 LUK |
