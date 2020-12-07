@@ -1,7 +1,6 @@
 # The Martial Classicist, The Strongest Drawing Arm In All The Land: The Woodsman
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote cite="https://www.gutenberg.org/files/1727/1727-h/1727-h.htm">
 Meanwhile Ulysses, as long as his arrows lasted, had been shooting the suitors
@@ -18,8 +17,7 @@ translation).
 </blockquote>
 
 ![A woodsman, variously wielding the Composite Bow and the Monkey
-Wrench](./woodsman.png
-"A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
+Wrench](./woodsman.png "A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
 
 The **woodsman** is an odd job/odd build in MapleStory that, at its core,
 represents the ability to both competently wield weapons of archery (bows
@@ -42,8 +40,10 @@ the eyes of mortals.
     - [Hunter (melee specialisation)](#hunter-melee-specialisation)
     - [Crossbowman (archery specialisation)](#crossbowman-archery-specialisation)
     - [Crossbowman (melee specialisation)](#crossbowman-melee-specialisation)
-    - [Ranger](#ranger)
-    - [Sniper](#sniper)
+    - [Ranger (archery specialisation)](#ranger-archery-specialisation)
+    - [Ranger (melee specialisation)](#ranger-melee-specialisation)
+    - [Sniper (archery specialisation)](#sniper-archery-specialisation)
+    - [Sniper (melee specialisation)](#sniper-melee-specialisation)
 - [Itemization](#itemization)
     - [Equipment](#equipment)
         - [Armaments](#armaments)
@@ -68,14 +68,22 @@ This job is referred to throughout this document as &ldquo;woodsman&rdquo;
 (plural &ldquo;woodsmen&rdquo;). This job is also commonly referred to by
 simply prepending &ldquo;STR&rdquo; (or &ldquo;strength&rdquo;) to the name of
 the ordinary job in question &mdash; e.g. &ldquo;STR hunter&rdquo; &mdash; or
-more generically as &ldquo;STR archer&rdquo;.
+more generically as &ldquo;STR archer&rdquo;. To avoid confusion with DEX
+archers who have a base STR higher than 4 (i.e. normal, but also not STRless,
+archers), &ldquo;pure STR&rdquo; can be prepended instead of simply
+&ldquo;STR&rdquo;. Other names for this job include:
+
+- Woodman
+- Huntsman
+- Forester
+- DEXless archer/hunter/&amp;c.
 
 &ldquo;Woodsman&rdquo;/&ldquo;woodsmen&rdquo; unfortunately can sound rather
 gendered, and so &ldquo;woodswoman&rdquo; (plural &ldquo;woodswomen&rdquo;) is
 sometimes used instead, when appropriate &mdash; although this only solves one
 of the problems. Rather than attempting to fix the English language and write a
 MapleStory guide in one fell swoop, &ldquo;woodsman&rdquo; and
-&ldquo;woodsmen&rdquo; are here used as gender-neutral, catch-all terms.
+&ldquo;woodsmen&rdquo; are here used as ungendered, catch-all terms.
 
 ## Pros and cons
 
@@ -86,19 +94,18 @@ be able to call it an &ldquo;odd&rdquo;, or &ldquo;unusual&rdquo;, job).
 
 Pros:
 
-- Ability to switch between ranged combat and melee combat.
+- Ability to proficiently switch between ranged combat and melee combat.
 - Ability to do ranged combat at all as an odd job, considering that most odd
   jobs are essentially stuck with melee only.
-- Fairly powerful mobbing, starting from level 30 and onwards.
+- Fairly powerful mobbing abilities, starting from level 30 and onwards.
 - Less accuracy issues than many other jobs (including some odd jobs), due to
   having a head-start on their DEX (25), focusing on DEX for equipment, and
   having skills like The Blessing of Amazon, Focus, and even (w.r.t. ranged
   combat) mastery skills.
 - Gets a relatively powerful mob manipulation skill by second job: Power
-  Knock-Back.
-- Does considerably more bow-whacking damage than ordinary archers, which is
-  accentuated once the woodsman has access to Power Knock-Back.
-- Has the possibility of eventually getting Sharp Eyes as a skill.
+  Knock-Back (PKB).
+- Has the possibility of eventually getting Sharp Eyes as a skill, for a very
+  powerful party buff (only applicable if fourth job exists).
 - Enviable aesthetics.
 
 Cons:
@@ -120,6 +127,8 @@ Cons:
   be able to outperform you in melee from at least second job onwards, and
   likely earlier as well (although you will outperform them at range, of
   course).
+- Does worse PKB damage than ordinary archers and (cross)bow-whackers, although
+  the damage is still considerable.
 
 ## AP build
 
@@ -127,7 +136,12 @@ Woodsmen are defined, in part, by having a base (that is, not including bonuses
 from equipment or buffs) DEX of exactly 25. _Technically_, as long as you
 satisfy that constraint, any AP build is valid. However, only one such AP build
 actually makes sense, and that is leaving your base DEX, INT, and LUK at 25, 4,
-and 4, respectively, and putting all other APs into STR.
+and 4, respectively, and putting all other APs into STR:
+
+- STR: \[all APs go here\]
+- DEX: 25
+- INT: 4
+- LUK: 4
 
 ## Skill builds
 
@@ -141,12 +155,6 @@ job onwards (and is good enough to be useful in first job), and the
 &ldquo;archery specialist&rdquo; is perfectly adept at melee, even if they can
 suffer from more accuracy issues during early second job (albeit not quite as
 many issues as many other melee jobs).
-
-By the time that you&rsquo;ve hit level 70 as a woodsman, the distinction
-between woodsmen who have chosen to prioritise melee early on, and woodsmen who
-have chosen to prioritise archery early on, collapses. Therefore, for third and
-fourth job skill builds, no distinction is made between &ldquo;melee
-specialisation&rdquo; and &ldquo;archery specialisation&rdquo;.
 
 ### Archer (archery specialisation)
 
@@ -401,7 +409,7 @@ Ditto of &ldquo;Hunter (melee specialisation)&rdquo;, but replace &ldquo;Bow
 Mastery&rdquo; with &ldquo;Crossbow Mastery&rdquo;, &ldquo;Arrow Bomb&rdquo;
 with &ldquo;Iron Arrow&rdquo;, and so on.
 
-### Ranger
+### Ranger (archery specialisation)
 
 Note that third and fourth job builds can vary considerably just depending on
 implementation, since it depends on what version of the game you are playing,
@@ -411,35 +419,43 @@ inevitably vary from player to player. Pay close attention to the skill
 descriptions at _all_ levels of each skill when deciding how to modify these
 builds to fit.
 
-|         level | SP allocation                                           |
-| ------------: | :------------------------------------------------------ |
-|            70 | +1 Strafe \[1\]                                         |
-|            71 | +3 Mortal Blow \[3\]                                    |
-|            72 | +2 Mortal Blow \[5\], +1 Arrow Rain \[1\]               |
-|   73&ndash;78 | +3 Arrow Rain \[19\]                                    |
-|            79 | +2 Arrow Rain \[21\], +1 Strafe \[2\]                   |
-|   80&ndash;85 | +3 Strafe \[20\]                                        |
-|   86&ndash;88 | +3 Arrow Rain \[**MAX**\]                               |
-|            89 | +1 Puppet \[1\], +1 Inferno \[1\], +1 Silver Hawk \[1\] |
-|   90&ndash;91 | +3 Puppet \[7\]                                         |
-|   92&ndash;94 | +3 Strafe \[29\]                                        |
-|            95 | +1 Strafe \[**MAX**\], +2 Silver Hawk \[3\]             |
-|  96&ndash;104 | +3 Silver Hawk \[**MAX**\]                              |
-| 105&ndash;108 | +3 Puppet \[19\]                                        |
-|           109 | +2 Mortal Blow \[7\], +1 Puppet \[**MAX**\]             |
-| 110&ndash;113 | +3 Mortal Blow \[19\]                                   |
-|           114 | +2 Inferno \[3\], +1 Mortal Blow \[**MAX**\]            |
-| 115&ndash;118 | +3 Inferno \[15\]                                       |
-|           119 | +2 Thrust \[2\], +1 Inferno \[16\]                      |
-|           120 | +3 Thrust \[5\]                                         |
+With that in mind, this guide assumes that the skills are identical to the
+MapleLegends implementation.
+
+Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
+stands for &ldquo;[don&rsquo;t
+care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
+
+|         level | SP allocation                               |
+| ------------: | :------------------------------------------ |
+|            70 | +1 Strafe \[1\]                             |
+|            71 | +3 Mortal Blow \[3\]                        |
+|            72 | +2 Mortal Blow \[5\], +1 Arrow Rain \[1\]   |
+|            73 | +2 Arrow Rain \[3\], +1 Inferno \[1\]       |
+|   74&ndash;80 | +3 Arrow Rain \[24\]                        |
+|            81 | +2 Strafe \[3\], +1 Arrow Rain \[25\]       |
+|   82&ndash;90 | +3 Strafe \[**MAX**\]                       |
+|            91 | +3 Arrow Rain \[28\]                        |
+|            92 | +2 Arrow Rain \[**MAX**\], +1 Puppet \[1\]  |
+|            93 | +3 Puppet \[4\]                             |
+|            94 | +2 Silver Hawk \[2\], +1 Puppet \[5\]       |
+|  95&ndash;103 | +3 Silver Hawk \[29\]                       |
+|           104 | +2 Thrust \[2\], +1 Silver Hawk \[**MAX**\] |
+| 105&ndash;106 | +3 Thrust \[8\]                             |
+|           107 | +2 Thrust \[10\], +1 Inferno \[2\]          |
+| 108&ndash;111 | +3 Inferno \[14\]                           |
+|           112 | +2 Inferno \[16\], +1 Puppet \[6\]          |
+| 113&ndash;116 | +3 Puppet \[18\]                            |
+|           117 | +2 Puppet \[**MAX**\], +1 DC \[DC\]         |
+| 118&ndash;120 | DC                                          |
 
 <details>
 <summary>By level 120</summary>
 
 | skill           |  level | max level |
 | :-------------- | -----: | --------: |
-| Thrust          |      5 |        20 |
-| **Mortal Blow** | **20** |    **20** |
+| Thrust          | &ge;10 |        20 |
+| Mortal Blow     |  &ge;5 |        20 |
 | **Puppet**      | **20** |    **20** |
 | Inferno         |     16 |        30 |
 | **Arrow Rain**  | **30** |    **30** |
@@ -448,77 +464,40 @@ builds to fit.
 
 </details>
 
-The first thing to note here is that now that we&rsquo;ve finished second job,
-woodsman skill builds have pretty much lost any distinction from ordinary
-archer skill builds. From level 70 onwards, you can make use of the common
-wisdom surrounding rangers/snipers/bowmasters/marksmen when allocating your
-SPs. This particular skill build optimises for raw combat prowess and
-flexibility in training locations, so it makes a good place to start for
-woodsmen.
-
 At level 70 we get a point into Strafe, since this is usually superior to maxed
-Double Shot (or, if you were &ldquo;melee specialised&rdquo;, this represents
-an enormous bump in your single-target archery DPS). Then we immediately get
-Arrow Rain to a level (21) that is useful and effective for training and
-general multi-target combat; note that level 5 of Mortal Blow is a requirement
-to put any SPs into Arrow Rain. From there we do something similar to Strafe,
-getting it to level 20. Then we come back to Arrow Rain to max it out and thus
-maximize effectiveness in multi-target combat. Then we get one point into
-Inferno and Silver Hawk. Inferno is not a very useful skill on its own, but it
-is useful for luring mobs that are far away from you when you want to use Arrow
-Rain on them (since Arrow Rain is centered on the woodsman as an AoE effect).
-Arrow Bomb could be used for this, except that Arrow Bomb stuns, and thus
-prevents the lured mobs from immediately coming towards you. Silver Hawk helps
-with single-target DPS, and can also stun mobs without you having to actually
-do anything. Then we get Puppet up to a useful level (7), to help when engaging
-in single-target combat. Now we can finally max Strafe and maximize
-single-target archery DPS. Then we max Silver Hawk to help maximize
-single-target DPS in general, and also make the stun more reliable. Then we max
-Puppet so that it sticks around for longer (more HP and longer duration).
-Mortal Blow is then maxed, which helps when engaging in archery and using
-attacks that aren&rsquo;t Arrow Rain. This can still help later on, because
-Strafe remains useful as a single-target burst DPS skill, and Arrow Bomb
-remains your primary stunning ability (in addition to Silver Hawk). We then get
-Inferno to level 16, not for the damage, but because the range increases at
-level 16, which is what we care about, since we are using it to lure monsters
-from afar. Finally, we have nothing left to spend SPs on except Thrust, so we
-spend the rest on that.
+Double Shot. Then we immediately get Arrow Rain to a level (25) that is useful
+and effective for training and general multi-target combat; note that level 5
+of Mortal Blow is a requirement to put any SPs into Arrow Rain. Level 25 of
+Arrow Rain is also the point beyond which you no longer get quite as many
+percentage points of damage per SP spent in it. One point is put into Inferno
+for use in luring mobs; Arrow Bomb could be used for this, except that Arrow
+Bomb stuns, and thus prevents the lured mobs from immediately coming towards
+you. From there we max Strafe, since it never falls off in terms of the
+damage-percentage-point benefit per SP invested. Then we come back to Arrow
+Rain to max it out and thus maximize effectiveness in multi-target combat.
+
+We then max out Silver Hawk (note that level &ge;5 Puppet is a requirement for
+Silver Hawk). This helps to increase single-target DPS and also is a useful
+little stun that you don&rsquo;t really have to do anything for (no need to use
+Arrow Bomb and pray that it works). Then we squeeze some SPEED out of Thrust by
+getting it to level 10. Note that after level 10, Thrust only grants 1 SPEED
+per SP spent, instead of 2 SPEED. Now that mobility is largely out of the way,
+we take Inferno to 16, which maxes out the distance over which it is effective.
+Taking this skill to level 16 (rather than leaving it at level 1) is _almost
+purely_ for the extra distance, as the damage is basically irrelevant (but some
+extra damage can be nice). Note that Inferno is your mob luring skill forever,
+i.e. it is not replaced by any fourth job skills.
+
+We then max Puppet for the utility of it; 6000 HP is considerable enough that
+it can typically take at least a single hit without going down. The rest of
+your SP can be spent basically anywhere; Thrust and Mortal Blow are the usual
+suspects here.
 
 There are a lot of things that you can tweak here, and you should definitely
 think about what you really want from your skill build, even adjusting it on
-the fly as you get comfortable using these skills. Because this example build
-is focused around raw combat prowess, Thrust is left as a last priority.
-However, the extra SPEED from Thrust is not only useful when engaging in
-archery, but also particularly when engaging in melee, as woodsmen are wont to
-do. It is therefore entirely reasonable to sacrifice some levels of Inferno
-and/or Mortal Blow in order to get higher levels of Thrust (e.g. leaving
-Inferno at level 1 and maxing Thrust); again, this example build is dedicated
-only to raw combat prowess, as a simple example. You can also prioritise Arrow
-Rain and Strafe differently, e.g. putting one point into Arrow Rain for
-convenience and then immediately maxing Strafe. This can be followed by a point
-in Silver Hawk, a handful of points into Puppet, maxing Silver Hawk, and then
-maxing Puppet; this maximises your single-target combat potential very early
-on.
+the fly as you get comfortable using these skills.
 
-Another possibility is a kind of radically melee-focused build. In reality,
-second job and onwards for archers &mdash; and particularly third job and
-onwards &mdash; are so oriented away from melee combat that you may as well
-think of skill builds as I have here; that is, as being essentially ordinary
-archer skill builds. But ranger does offer at least three skills that can be
-used without a bow in hand (in descending order of general importance):
-
-1. Silver Hawk
-2. Puppet
-3. Thrust
-
-It is possible to prioritise these skills above the other skills offered by
-ranger, and allow Arrow Bomb (and Arrow Blow or Double Shot) to suffice for
-longer. I just cannot really recommend such a build, as I believe it to be more
-useful to think of SPs as being dedicated to improving archery (and also melee
-to some extent), and APs as being dedicated to improving melee (and also
-archery to some extent).
-
-### Sniper
+### Ranger (melee specialisation)
 
 Note that third and fourth job builds can vary considerably just depending on
 implementation, since it depends on what version of the game you are playing,
@@ -528,58 +507,139 @@ inevitably vary from player to player. Pay close attention to the skill
 descriptions at _all_ levels of each skill when deciding how to modify these
 builds to fit.
 
-|         level | SP allocation                                                         |
-| ------------: | :-------------------------------------------------------------------- |
-|            70 | +1 Strafe \[1\]                                                       |
-|            71 | +2 Mortal Blow \[2\], +1 Blizzard \[1\]                               |
-|            72 | +3 Mortal Blow \[5\]                                                  |
-|   73&ndash;79 | +3 Arrow Eruption \[21\]                                              |
-|   80&ndash;85 | +3 Strafe \[19\]                                                      |
-|            86 | +2 Arrow Eruption \[23\], +1 Strafe \[20\]                            |
-|   87&ndash;88 | +3 Arrow Eruption \[29\]                                              |
-|            89 | +1 Puppet \[1\], +1 Arrow Eruption \[**MAX**\], +1 Golden Eagle \[1\] |
-|   90&ndash;91 | +3 Puppet \[7\]                                                       |
-|   92&ndash;94 | +3 Strafe \[29\]                                                      |
-|            95 | +2 Blizzard \[3\], +1 Strafe \[**MAX**\]                              |
-|  96&ndash;101 | +3 Blizzard \[21\]                                                    |
-| 102&ndash;109 | +3 Golden Eagle \[25\]                                                |
-| 110&ndash;113 | +3 Puppet \[19\]                                                      |
-|           114 | +2 Mortal Blow \[7\], +1 Puppet \[**MAX**\]                           |
-| 115&ndash;118 | +3 Mortal Blow \[19\]                                                 |
-|           119 | +2 Thrust \[2\], +1 Mortal Blow \[**MAX**\]                           |
-|           120 | +3 Thrust \[5\]                                                       |
+With that in mind, this guide assumes that the skills are identical to the
+MapleLegends implementation.
+
+Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
+stands for &ldquo;[don&rsquo;t
+care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
+
+|         level | SP allocation                               |
+| ------------: | :------------------------------------------ |
+|            70 | +1 Strafe \[1\]                             |
+|            71 | +3 Mortal Blow \[3\]                        |
+|            72 | +2 Mortal Blow \[5\], +1 Arrow Rain \[1\]   |
+|            73 | +2 Puppet \[2\], +1 Inferno \[1\]           |
+|            74 | +3 Puppet \[5\]                             |
+|   75&ndash;84 | +3 Silver Hawk \[**MAX**\]                  |
+|   85&mdash;87 | +3 Thrust \[9\]                             |
+|            88 | +2 Puppet \[7\], +1 Thrust \[10\]           |
+|   89&ndash;92 | +3 Puppet \[19\]                            |
+|            93 | +2 Thrust \[12\], +1 Puppet \[**MAX**\]     |
+|   94&ndash;95 | +3 Thrust \[18\]                            |
+|            96 | +2 Thrust \[**MAX**\], +1 Arrow Rain \[2\]  |
+|  97&ndash;103 | +3 Arrow Rain \[23\]                        |
+|           104 | +2 Arrow Rain \[25\], +1 Strafe \[2\]       |
+| 105&ndash;113 | +3 Strafe \[29\]                            |
+|           114 | +2 Arrow Rain \[27\], +1 Strafe \[**MAX**\] |
+|           115 | +3 Arrow Rain \[**MAX**\]                   |
+| 116&ndash;120 | +3 Inferno \[16\]                           |
+
+<details>
+<summary>By level 120</summary>
+
+| skill           |  level | max level |
+| :-------------- | -----: | --------: |
+| **Thrust**      | **20** |    **20** |
+| Mortal Blow     |      5 |        20 |
+| **Puppet**      | **20** |    **20** |
+| Inferno         |     16 |        30 |
+| **Arrow Rain**  | **30** |    **30** |
+| **Silver Hawk** | **30** |    **30** |
+| **Strafe**      | **30** |    **30** |
+
+</details>
+
+This build starts by getting the third-job archery basics out of the way. Once
+we have access to Strafe (much better single-target DPS than your level 7
+Double Shot), Arrow Rain (technically worse mobbing than your maxed Arrow Bomb,
+but much more versatile since it cannot be stymied by enemies that are too
+close to you), and Inferno (for luring mobs), we go ahead and max Silver Hawk.
+Note that level &ge;5 Puppet is a pre-requisite for Silver Hawk. Silver Hawk is
+our bread and butter for third job, since it provides us with both a bit of DPS
+and a bit of crowd control, even while we&rsquo;re in melee.
+
+After Silver Hawk, we want level 10 Thrust in order to be more mobile, which is
+useful regardless or whether you are meleeing or ranging, but particularly when
+meleeing (since you have to be in melee range!). Then comes Puppet, another
+useful skill that can be used in melee. And once that is maxed, we go ahead an
+finish up Thrust.
+
+Beyond this point, this build is essentially the same as the
+archery-specialised ranger build.
+
+There are a lot of things that you can tweak here, and you should definitely
+think about what you really want from your skill build, even adjusting it on
+the fly as you get comfortable using these skills.
+
+### Sniper (archery specialisation)
+
+Note that third and fourth job builds can vary considerably just depending on
+implementation, since it depends on what version of the game you are playing,
+what balance changes have been applied, and what training spots are accessible
+and/or worthwhile. Also, these builds are inherently flexible, and will
+inevitably vary from player to player. Pay close attention to the skill
+descriptions at _all_ levels of each skill when deciding how to modify these
+builds to fit.
+
+With that in mind, this guide assumes that the skills are identical to the
+MapleLegends implementation.
+
+Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
+stands for &ldquo;[don&rsquo;t
+care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
+
+|         level | SP allocation                                    |
+| ------------: | :----------------------------------------------- |
+|            70 | +1 Strafe \[1\]                                  |
+|            71 | +2 Mortal Blow \[2\], +1 Blizzard \[1\]          |
+|            72 | +3 Mortal Blow \[5\]                             |
+|   73&ndash;80 | +3 Arrow Eruption \[24\]                         |
+|            81 | +2 Strafe \[3\], +1 Arrow Eruption \[25\]        |
+|   82&ndash;90 | +3 Strafe \[**MAX**\]                            |
+|            91 | +3 Arrow Eruption \[28\]                         |
+|            92 | +2 Arrow Eruption \[**MAX**\], +1 Blizzard \[2\] |
+|   93&ndash;98 | +3 Blizzard \[20\]                               |
+|            99 | +2 Puppet \[2\], +1 Blizzard \[21\]              |
+|           100 | +3 Puppet \[5\]                                  |
+| 101&ndash;110 | +3 Golden Eagle \[**MAX**\]                      |
+| 111&ndash;113 | +3 Thrust \[9\]                                  |
+|           114 | +2 Puppet \[7\], +1 Thrust \[10\]                |
+| 115&ndash;118 | +3 Puppet \[19\]                                 |
+|           119 | +1 Puppet \[**MAX**\], +2 DC \[DC\]              |
+|           120 | DC                                               |
 
 <details>
 <summary>By level 120</summary>
 
 | skill              |  level | max level |
 | :----------------- | -----: | --------: |
-| Thrust             |      5 |        20 |
-| **Mortal Blow**    | **20** |    **20** |
+| Thrust             | &ge;10 |        20 |
+| Mortal Blow        |  &ge;5 |        20 |
 | **Puppet**         | **20** |    **20** |
 | Blizzard           |     21 |        30 |
 | **Arrow Eruption** | **30** |    **30** |
-| Golden Eagle       |     25 |        30 |
+| **Golden Eagle**   | **30** |    **30** |
 | **Strafe**         | **30** |    **30** |
 
 </details>
 
-The first thing to note here is that now that we&rsquo;ve finished second job,
-woodsman skill builds have pretty much lost any distinction from ordinary
-archer skill builds. From level 70 onwards, you can make use of the common
-wisdom surrounding rangers/snipers/bowmasters/marksmen when allocating your
-SPs. This particular skill build optimises for raw combat prowess and
-flexibility in training locations, so it makes a good place to start for
-woodsmen.
+This build is an example build similar to the archery-specialised one given for
+rangers. The main difference here is that we actually want to get Blizzard to
+level 21 (as opposed to level 16, as with Inferno), because we only care about
+the freeze duration, and the freeze duration peaks at level 21.
 
-This build is an example build similar to the one given for rangers. The main
-difference here is that we actually want to get Blizzard to level 21 (as
-opposed to level 16, as with Inferno), because we only care about the freeze
-duration, and the freeze duration peaks at level 21. As a result, in order to
-ensure that we still get at least some Thrust (5), we leave Golden Eagle
-unmaxed, since it gets replaced by Frostprey later on anyways.
+If you&rsquo;re playing on a server that has fourth job, it&rsquo;s acceptable
+to not max Golden Eagle, so long as you get it to at least level 15.
 
-See the comments on the ranger skill build.
+See the comments on the ranger (archery specialisation) skill build.
+
+### Sniper (melee specialisation)
+
+See the ranger (melee specialisation) build. In order to get level 21 Blizzard,
+you will have to make up 5 SP from somewhere. Where you get these 5 SP &mdash;
+or if you just don&rsquo;t bother, and instead leave Blizzard at level 11 or
+similar &mdash; is totally up to you.
 
 ## Itemization
 
@@ -867,6 +927,11 @@ _and_ you haven&rsquo;t the inventory space for Ciders, Warrior Elixirs are
 your best bet. Other entries here are either not useful, or are situationally
 useful when you happen to be near an NPC that sells them.
 
+MapleLegends-specific note: Coke Zero Pills are the usual suspect here, because
+while they are inferior to Ciders in terms of WATK (15 &lt; 20), they stack
+much more efficiently (100 &gt; 5) and last longer (15:00 &gt; 5:00), thus
+making them considerably easier to use.
+
 Also of note are accuracy potions/food/drinks. For woodsmen that are doing more
 of the &ldquo;melee specialised&rdquo; kind of build (see above), these are not
 really of much concern, since you get access to useful levels of the Focus
@@ -893,5 +958,15 @@ Note that although we are using two thousand as a &ldquo;ream&rdquo; here
 ammunition stacks up to 1.8k per slot, and colored ammunition up to 1k. Also
 note that when Soul Arrow is active, you cannot benefit from any special
 ammunition.
+
+MapleLegends-specific note: Diamond ammunition is actually superior to coloured
+ammunition in MapleLegends, granting 5 WATK instead of 4. If possible, I
+recommend getting access to [Mo&rsquo;s
+store](https://bbb.hidden-street.net/npc/mo) (i.e. becoming an ally of the
+Raven Ninja Clan); he sells Ciders, diamond ammunition, All Cure Potions,
+Return to New Leaf City Scrolls, and some other possibly useful stuff.
+MapleLegends also tweaked prices to be generally cheaper for arrows/quarrels,
+and made them stack more readily per-slot. So you have little excuse to use
+Soul Arrow in MapleLegends!
 
 [mapletip-bomd]: https://web.archive.org/web/20070504024305/http://mapletip.com/maplestory-equipment/bow+of+magical+destruction/1452018/
