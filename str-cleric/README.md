@@ -155,9 +155,9 @@ early as possible.
 | ----------: | :-------------------------------------------------------------- |
 |           8 | +1 Improved MP Recovery \[1\]                                   |
 |           9 | +3 Improved MP Recovery \[4\]                                   |
-|          10 | +2 Improved MAXMP Increase \[2\], +1 Improved MP Recovery \[5\] |
-| 11&ndash;12 | +3 Improved MAXMP Increase \[8\]                                |
-|          13 | +2 Improved MAXMP Increase \[**MAX**\], +1 Magic Guard \[1\]    |
+|          10 | +2 Improved MaxMP Increase \[2\], +1 Improved MP Recovery \[5\] |
+| 11&ndash;12 | +3 Improved MaxMP Increase \[8\]                                |
+|          13 | +2 Improved MaxMP Increase \[**MAX**\], +1 Magic Guard \[1\]    |
 | 14&ndash;17 | +3 Magic Guard \[13\]                                           |
 | 18&ndash;23 | +3 Magic Armor \[18\]                                           |
 |          24 | +2 Magic Armor \[**MAX**\], +1 Magic Guard \[14\]               |
@@ -171,7 +171,7 @@ early as possible.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MAXMP Increase** | **10** |    **10** |
+| **Improved MaxMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |      1 |        20 |
@@ -180,7 +180,7 @@ early as possible.
 </details>
 
 SP allocation for first job is pretty straightforward: we need to max Improved
-MAXMP Increase ASAP, especially considering that we are INTless and thus need
+MaxMP Increase ASAP, especially considering that we are INTless and thus need
 all of the MAXMP that we can get. Then we quickly get Magic Guard to level 13,
 at which point 55% of incoming damage is taken out of our MP (and 45% out of
 our HP). We stop there because at this point, we don&rsquo;t have much MAXMP to
@@ -219,7 +219,7 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MAXMP Increase** | **10** |    **10** |
+| **Improved MaxMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |     DC |        20 |
@@ -270,7 +270,7 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MAXMP Increase** | **10** |    **10** |
+| **Improved MaxMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |     DC |        20 |
@@ -320,7 +320,7 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MAXMP Increase** | **10** |    **10** |
+| **Improved MaxMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |     DC |        20 |
@@ -381,7 +381,7 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MAXMP Increase** | **10** |    **10** |
+| **Improved MaxMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |     DC |        20 |

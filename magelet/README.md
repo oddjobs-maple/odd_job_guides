@@ -301,8 +301,8 @@ leaving Magic Claw at level 1.
 | ----------: | :-------------------------------------------------------------- |
 |           8 | +1 Energy Bolt \[1\]                                            |
 |           9 | +3 Improved MP Recovery \[3\]                                   |
-|          10 | +2 Improved MP Recovery \[5\], +1 Improved MAXMP Increase \[1\] |
-| 11&ndash;13 | +3 Improved MAXMP Increase \[**MAX**\]                          |
+|          10 | +2 Improved MP Recovery \[5\], +1 Improved MaxMP Increase \[1\] |
+| 11&ndash;13 | +3 Improved MaxMP Increase \[**MAX**\]                          |
 |          14 | +2 Magic Claw \[2\], +1 Magic Guard \[1\]                       |
 | 15&ndash;20 | +3 Magic Claw \[**MAX**\]                                       |
 | 21&ndash;26 | +3 Magic Guard \[19\]                                           |
@@ -315,7 +315,7 @@ leaving Magic Claw at level 1.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | Improved MP Recovery        |      5 |        16 |
-| **Improved MAXMP Increase** | **10** |    **10** |
+| **Improved MaxMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | Magic Armor                 |     11 |        20 |
 | Energy Bolt                 |      1 |        20 |
@@ -359,7 +359,7 @@ leaving Magic Claw at level 1.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | Improved MP Recovery        |      5 |        16 |
-| **Improved MAXMP Increase** | **10** |    **10** |
+| **Improved MaxMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | Magic Armor                 |     12 |        20 |
 | Energy Bolt                 |      1 |        20 |
@@ -380,7 +380,7 @@ leaving Magic Claw at level 1.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MAXMP Increase** | **10** |    **10** |
+| **Improved MaxMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |      1 |        20 |
