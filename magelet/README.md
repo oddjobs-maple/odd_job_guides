@@ -1,6 +1,7 @@
 # Fate&rsquo;s Warlock, Fortune&rsquo;s Witch: The Magelet
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote>
 [&hellip;] great floods have flown<br />
@@ -17,7 +18,8 @@ II, scene 1, lines 748&ndash;753)
 </blockquote>
 
 ![A magelet smiles as their foes are mysteriously subdued by a freak ice
-storm](./magelet.png "A magelet smiles as their foes are mysteriously subdued by a freak ice storm")
+storm](./magelet.png
+"A magelet smiles as their foes are mysteriously subdued by a freak ice storm")
 
 Pictured: A magelet smiles as their foes are mysteriously subdued by a freak
 ice storm.
@@ -33,25 +35,27 @@ in the sense of &ldquo;lacking **int**elligence&rdquo;) **lu**c**k** alone.
 Although magelets typically have no formal training and no particularly special
 intelligence, they find themselves giving way to magical occurences wherever
 they go, and without any martial training, their enemies find it bizarrely
-difficult to strike a true blow upon them! The magelet&rsquo;s every move is
-merely a step in the unfolding of a miracle over which they exercise little
-control. It is this striking irony &mdash; the magelet&rsquo;s apparently
-extraordinary, or even impossible, feats, contrasted with their unwitting
-participation therein &mdash; that makes the magelet both legendary and
-perplexing. The magelet embodies the notion of a &ldquo;fluke&rdquo;: the mere
-possibility of their existence remains unexplained, and yet they nevertheless
-make their presence felt by the world.
+difficult to strike a true blow upon them!
+
+The magelet&rsquo;s every move is merely a step in the unfolding of a miracle
+over which they exercise little control. It is this striking irony &mdash; the
+magelet&rsquo;s apparently extraordinary, or even impossible, feats, contrasted
+with their unwitting participation therein &mdash; that makes the magelet both
+legendary and perplexing. The magelet embodies the notion of a
+&ldquo;fluke&rdquo;: the mere possibility of their existence remains
+unexplained, and yet they nevertheless make their presence felt by the world.
 
 - [A quick note on the name](#a-quick-note-on-the-name)
 - [Pros and cons](#pros-and-cons)
 - [AP build](#ap-build)
 - [Three paths](#three-paths)
+    - [Fire/poison](#fire-poison)
+    - [Ice/lightning](#ice-lightning)
+    - [Cleric/priest/bishop](#cleric-priest-bishop)
 - [Skill builds](#skill-builds)
     - [Magician](#magician)
-    - [Cleric (normal)](#cleric-normal)
-    - [Cleric (permadeath)](#cleric-permadeath)
-    - [Priest (normal)](#priest-normal)
-    - [Priest (permadeath)](#priest-permadeath)
+    - [Ice/lightning wizard](#ice-lightning-wizard)
+    - [Ice/lightning mage](#ice-lightning-mage)
 - [Itemization](#itemization)
     - [Equipment](#equipment)
         - [Armaments](#armaments)
@@ -78,8 +82,10 @@ by various other names:
   wear equipment\]
 - LUK magician \[not to be confused with INT magicians who put some points into
   LUK, to wear equipment\]
-- INTless mage
-- INTless magician
+- INTless mage \[not to be confused with other varieties of INTless mage, e.g.
+  STR mages and DEX mages\]
+- INTless magician \[not to be confused with other varieties of INTless
+  magician, e.g. STR magicians and DEX magicians\]
 - Pure LUK mage
 - Pure LUK magician
 
@@ -122,422 +128,557 @@ fortuitous:
 ## Three paths
 
 Like more usual mages, magelets also have three paths to choose from:
-fire/poison, ice/lightning, and cleric(/priest/bishop).
+fire/poison, ice/lightning, and cleric(/priest/bishop). All three are perfectly
+viable, but each has its pros and cons, so it is a matter of your intended
+playstyle when it comes to choosing. This section provides a brief overview of
+the benefits and sore spots of each, from a magelet perspective.
+
+### Fire/poison
+
+Fire/poison seems to be, at first, the obvious choice, simply because their
+poison attacks can deal damage-over-time (DoT) that does not scale with
+MATK/INT. This effectively removes some of the magelet&rsquo;s difficulties.
+
+Pros:
+
+- Poison DoT (i.e. not the initial damage, but everything after that) scales
+  exclusively with the afflicted&rsquo;s MAXHP, meaning that this damage is not
+  pessimised by your INTless nature.
+- Benefits from magic-damage-per-minute amplifying skills oriented towards
+  damage (rather than general utility), such as Meditation, Element
+  Amplification, and Spell Booster.
+    - Meditation is also of some party buff utility when there are
+      cleric(s)/priest(s)/bishop(s) in the party.
+- Has the highest single-target DPS of the three paths.
+- Known for extremely fast third-job leveling, due to Poison Mist.
+- Can benefit from the use of Slow as a method of crowd control.
+
+Cons:
+
+- Has little to contribute to parties most of the time, other than raw damage
+  output, due to only having Slow for crowd control and Meditation as a party
+  buff.
+- Has no multi-target attacks until third job.
+- Has worse burst-like (read: non-DoT) mobbing than ice/lightnings (Explosion
+  vs. Ice Strike in third job, no mobbing at all in second job).
+- Lacks Bless, meaning typically lower AVOID unless buffed by a
+  cleric/priest/bishop party member.
+- More fragile than clerics/priests/bishops.
+
+### Ice/lightning
+
+Ice/lightning mages are renowned for their area-of-effect (AoE) nuking
+abilities and incredible crowd control. Ice/lightning magelets fare similarly.
+
+Pros:
+
+- By far the best crowd control of the three paths, as freezing is very
+  effective and deterministic.
+- Formidable mobbing/AoE nuking from second job onwards.
+- Benefits from magic-damage-per-minute amplifying skills oriented towards
+  damage (rather than general utility), such as Meditation, Element
+  Amplification, and Spell Booster.
+    - Meditation is also of some party buff utility when there are
+      cleric(s)/priest(s)/bishop(s) in the party.
+
+Cons:
+
+- Lacks some of the high single-target DPS of fire/poisons, and lacks the
+  general utility of clerics/priests/bishops.
+- Lacks Bless, meaning typically lower AVOID unless buffed by a
+  cleric/priest/bishop party member.
+- More fragile than clerics/priests/bishops.
+
+### Cleric/priest/bishop
+
+Besides the obvious general utility of clerics/priests/bishops, this path has
+yet another trick up its sleeve: Heal&rsquo;s damage scales with LUK! It does,
+however, also scale with MATK; in particular, the damage dealt per use of Heal
+scales as &Theta;(MATK&nbsp;&sdot;&nbsp;(INT&nbsp;+&nbsp;LUK)). This means that
+being INTless still hurts (because it hurts your MATK), but at least the damage
+does scale linearly with LUK, which is better than most magic attacks, whose
+damage does not scale with LUK at all.
+
+Pros:
+
+- Has all of the general utility of a cleric/priest/bishop.
+- Has solid mobbing from second job onwards.
+- Heal&rsquo;s effectiveness (at least, in terms of
+  damage-dealing)<sup>\[1\]</sup> actually scales with LUK.
+- Has access to Bless, for a sweet +20 AVOID buff.
+- The sturdiest of the three paths.
+- Already has a summon (Summon Dragon) by third job.
+
+Cons:
+
+- Relying on Heal for attacking starts to get underwhelming during third job.
+- Worst single-target attacking of all three paths.
+- Heal can only damage undeads.
+- The only path that does not benefit from magic-damage-per-minute amplifying
+  skills oriented towards damage (rather than general utility), such as
+  Meditation, Element Amplification, and Spell Booster.
+- Heal&rsquo;s regenerative powers do not scale with LUK<sup>\[1\]</sup>.
+- Has little in the way of crowd control, besides Doom (a third job skill, and
+  quite marginal for the priest, especially because they are almost always
+  using AoE attacks).
+
+<details>
+<summary>Footnotes for &ldquo;Cleric/priest/bishop&rdquo;</summary>
+
+\[1\]: Heal&rsquo;s regenerative powers reportedly _used to_ scale with LUK
+&mdash; q.v. [Ayumilove&rsquo;s MapleStory Formula
+Compilation](https://ayumilovemaple.wordpress.com/2009/09/06/maplestory-formula-compilation/)
+&mdash; but the aforementioned formula compilation does not have a complete
+formula for Heal recovery at the time of its writing (writing
+&ldquo;something&rdquo; in place of a missing term). Ayumilove&rsquo;s post is
+dated 2009-09-06, but is merely a repost of an earlier `southperry.net` thread
+from 2008-07-13 (due to Russt, q.v. [this
+archival](https://web.archive.org/web/20090315032621/http://www.southperry.net/forums/showthread.php?t=855));
+but this thread is itself also a repost of an _even earlier_ post by
+Technolink, which is undated and unreferenced (I couldn&rsquo;t find it).
+Russt&rsquo;s wording of &ldquo;Technolink posted this in SW awhile back, but
+it didn't quite catch on...&rdquo; is vague, but might suggest that
+Technolink&rsquo;s original post was sometime during late 2007/early 2008 or
+so.
+
+Taking a quick look in XiuzSource, however, indicates that XiuzSource&rsquo;s
+understanding of Heal&rsquo;s recovery is that it scales only on the
+caster&rsquo;s MATK and on the level of the Heal skill (i.e. its
+&ldquo;recovery rate&rdquo; as listed in the skill description). It&rsquo;s
+difficult to say for certain without testing (as any given server may have
+changed the formula themselves, of course), but because most servers (e.g.
+MapleLegends) derive from Odin/XiuzSource in one way or another, it&rsquo;s
+safe to say that Heal&rsquo;s regenerative powers _generally_ do not scale with
+LUK. I encourage any cleric/priest/bishop magelets/gishlets to test this.
+
+</details>
 
 ## Skill builds
 
-Skill builds can be flexible here, in part because your ability to deal damage
-is usually unrelated to your skills. I&rsquo;ve split the builds into two
-similar paths: the &ldquo;normal&rdquo; build, and the &ldquo;permadeath&rdquo;
-build, so called because it focuses on raising defenses as high as possible, as
-early as possible.
+Skill builds for magelets tend to be fairly similar to those of their INT-based
+counterparts, with a few exceptions:
+
+- Magelet skill builds will want to focus more on the strengths that the
+  magelet still retains: for fire/poisons, this is typically poison attacks;
+  for ice/lightnings, this is typically AoE nukes and freezing spells; for
+  clerics/priests/bishops, this is typically Heal.
+- Magelet skill builds cannot afford to save quite as much cost (read: mesos)
+  as more mainstream builds. The magelet needs all of the raw power that they
+  can get, even if it is somewhat less efficient.
+- Spell Booster is a higher priority than Element Amplification for magelets.
+  While it is common for ordinary mages to keep their Spell Booster at level 6
+  for a while, magelets will want to do the same, but at **level 11** (the
+  point at and beyond which the boosting effect is at its largest). The
+  reasoning here is that magelets have a hard time one-shotting their foes, for
+  the most part, and Element Amplification works as a percentage of the raw
+  (read: before MDEF) damage that is done per-strike. As a result, while
+  Element Amplification is extremely beneficial for magelets, during early-ish
+  third job, the magelet&rsquo;s extra damage due to Element Amplification is
+  _somewhat eclipsed by the variance in the magelet&rsquo;s damage output_
+  (natural variance, as well as variance due to the targets&rsquo; MDEF). Spell
+  Booster helps enormously to get in the extra attacks needed to subdue each
+  foe. Also, poison DoT effects are not affected by Element Amplification
+  anyways.
+
+Personally, I play an ice/lightning magelet. For this reason, I will reproduce
+my skill builds here, for ice/lightning magelets only. Magelets of the other
+two paths (fire/poison and cleric/priest/bishop) can make use of the notes
+above in combination with the ice/lightning skill builds provided below, to
+forge their own builds.
 
 ### Magician
 
+The first job skill build is very standard, but for completeness, it is
+nevertheless reproduced here.
+
+Note that sometime around the turn of second to third job, I use first job SP
+resets to reset SP out of Magic Claw, and use them to max out both Magic Armor
+and Improved MP Recovery (as defensive and cost-saving measures). Because you
+have 1 leftover second job SP by the time you hit level 70, this ends up
+leaving Magic Claw at level 1.
+
 |       level | SP allocation                                                   |
 | ----------: | :-------------------------------------------------------------- |
-|           8 | +1 Improved MP Recovery \[1\]                                   |
-|           9 | +3 Improved MP Recovery \[4\]                                   |
-|          10 | +2 Improved MaxMP Increase \[2\], +1 Improved MP Recovery \[5\] |
-| 11&ndash;12 | +3 Improved MaxMP Increase \[8\]                                |
-|          13 | +2 Improved MaxMP Increase \[**MAX**\], +1 Magic Guard \[1\]    |
-| 14&ndash;17 | +3 Magic Guard \[13\]                                           |
-| 18&ndash;23 | +3 Magic Armor \[18\]                                           |
-|          24 | +2 Magic Armor \[**MAX**\], +1 Magic Guard \[14\]               |
-| 25&ndash;26 | +3 Magic Guard \[**MAX**\]                                      |
-| 27&ndash;29 | +3 Improved MP Recovery \[14\]                                  |
-|          30 | +2 Improved MP Recovery \[**MAX**\], +1 Energy Bolt \[1\]       |
+|           8 | +1 Energy Bolt \[1\]                                            |
+|           9 | +3 Improved MP Recovery \[3\]                                   |
+|          10 | +2 Improved MP Recovery \[5\], +1 Improved MAXMP Increase \[1\] |
+| 11&ndash;13 | +3 Improved MAXMP Increase \[**MAX**\]                          |
+|          14 | +2 Magic Claw \[2\], +1 Magic Guard \[1\]                       |
+| 15&ndash;20 | +3 Magic Claw \[**MAX**\]                                       |
+| 21&ndash;26 | +3 Magic Guard \[19\]                                           |
+|          27 | +2 Magic Armor \[2\], +1 Magic Guard \[**MAX**\]                |
+| 28&ndash;30 | +3 Magic Armor \[11\]                                           |
 
 <details>
 <summary>By level 30</summary>
 
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
+| Improved MP Recovery        |      5 |        16 |
+| **Improved MAXMP Increase** | **10** |    **10** |
+| **Magic Guard**             | **20** |    **20** |
+| Magic Armor                 |     11 |        20 |
+| Energy Bolt                 |      1 |        20 |
+| **Magic Claw**              | **20** |    **20** |
+
+</details>
+
+### Ice/lightning wizard
+
+This skill build assumes that you are using potions/food that grant a MATK
+buff; for more info on this, see the &ldquo;Potions/food/drinks&rdquo; section
+below. Such buffs are useful from level 8 all the way until you get Meditation
+to a high enough level (and for clerics/priests/bishops, they are useful any
+time there isn&rsquo;t an ice/lightning nor a fire/poison in the party). This
+is in line with the principle outlined above that magelet skill builds tend to
+be less cost-saving than INT-based skill builds.
+
+Note that sometime around the turn of second to third job, I use first job SP
+resets to reset SP out of Magic Claw, and use them to max out both Magic Armor
+and Improved MP Recovery (as defensive and cost-saving measures). Because you
+have 1 leftover second job SP by the time you hit level 70, this ends up
+leaving Magic Claw at level 1.
+
+|       level | SP allocation                                               |
+| ----------: | :---------------------------------------------------------- |
+|          30 | +1 Teleport \[1\]                                           |
+|          31 | +1 Thunderbolt \[1\], +1 Cold Beam \[1\], +1 MP Eater \[1\] |
+| 32&ndash;40 | +3 Thunderbolt \[28\]                                       |
+|          41 | +2 Thunderbolt \[**MAX**\], +1 Cold Beam \[2\]              |
+| 42&ndash;50 | +3 Cold Beam \[29\]                                         |
+|          51 | +2 MP Eater \[3\], +1 Cold Beam \[**MAX**\]                 |
+| 52&ndash;57 | +3 Meditation \[18\]                                        |
+|          58 | +2 Meditation \[**MAX**\], +1 Teleport \[2\]                |
+| 59&ndash;64 | +3 Teleport \[**MAX**\]                                     |
+| 65&ndash;69 | +3 MP Eater \[18\]                                          |
+|          70 | +2 MP Eater \[**MAX**\], +1 Magic Armor \[12\]              |
+
+<details>
+<summary>By level 70</summary>
+
+| skill                       |  level | max level |
+| :-------------------------- | -----: | --------: |
+| Improved MP Recovery        |      5 |        16 |
+| **Improved MAXMP Increase** | **10** |    **10** |
+| **Magic Guard**             | **20** |    **20** |
+| Magic Armor                 |     12 |        20 |
+| Energy Bolt                 |      1 |        20 |
+| **Magic Claw**              | **20** |    **20** |
+|                             |        |           |
+| **MP Eater**                | **20** |    **20** |
+| **Meditation**              | **20** |    **20** |
+| **Teleport**                | **20** |    **20** |
+| Slow                        |      0 |        20 |
+| **Cold Beam**               | **30** |    **30** |
+| **Thunderbolt**             | **30** |    **30** |
+
+</details>
+
+<details>
+<summary>By level 70 (after SP resets)</summary>
+
+| skill                       |  level | max level |
+| :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
+| **Improved MAXMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |      1 |        20 |
-| Magic Claw                  |      0 |        20 |
-
-</details>
-
-SP allocation for first job is pretty straightforward: we need to max Improved
-MaxMP Increase ASAP, especially considering that we are INTless and thus need
-all of the MaxMP that we can get. Then we quickly get Magic Guard to level 13,
-at which point 55% of incoming damage is taken out of our MP (and 45% out of
-our HP). We stop there because at this point, we don&rsquo;t have much MaxMP to
-use Magic Guard with anyways, and also Magic Armor is just better defense at
-this level. So we quickly max Magic Armor, and then go back and max Magic
-Guard. Then we have leftover SPs; we can use these to max out the cost-saving
-passive skill, Improved MP Recovery. Then at level 30 we have one SP left over
-that we have to spend, and have literally no choice but to use it for Energy
-Bolt (a useless skill).
-
-### Cleric (normal)
-
-Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
-stands for &ldquo;[don&rsquo;t
-care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
-
-|       level | SP allocation                                |
-| ----------: | :------------------------------------------- |
-|          30 | +1 Teleport \[1\]                            |
-|          31 | +3 Heal \[3\]                                |
-|          32 | +2 Heal \[5\], +1 Invincible \[1\]           |
-|          33 | +3 Invincible \[4\]                          |
-|          34 | +2 Bless \[2\], +1 Invincible \[5\]          |
-| 35&ndash;40 | +3 Bless \[**MAX**\]                         |
-| 41&ndash;48 | +3 Heal \[29\]                               |
-|          49 | +2 Invincible \[7\], +1 Heal \[**MAX**\]     |
-| 50&ndash;53 | +3 Invincible \[19\]                         |
-|          54 | +2 Teleport \[3\], +1 Invincible \[**MAX**\] |
-| 55&ndash;59 | +3 Teleport \[18\]                           |
-|          60 | +2 Teleport \[**MAX**\], +1 DC \[DC\]        |
-| 61&ndash;70 | DC                                           |
-
-<details>
-<summary>By level 70</summary>
-
-| skill                       |  level | max level |
-| :-------------------------- | -----: | --------: |
-| **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
-| **Magic Guard**             | **20** |    **20** |
-| **Magic Armor**             | **20** |    **20** |
-| Energy Bolt                 |     DC |        20 |
-| Magic Claw                  |     DC |        20 |
+| Magic Claw                  |      1 |        20 |
 |                             |        |           |
-| MP Eater                    |     DC |        20 |
-| **Heal**                    | **30** |    **30** |
-| **Invincible**              | **20** |    **20** |
+| **MP Eater**                | **20** |    **20** |
+| **Meditation**              | **20** |    **20** |
 | **Teleport**                | **20** |    **20** |
-| **Bless**                   | **20** |    **20** |
-| Holy Arrow                  |     DC |        30 |
+| Slow                        |      0 |        20 |
+| **Cold Beam**               | **30** |    **30** |
+| **Thunderbolt**             | **30** |    **30** |
 
 </details>
 
-The basic idea here is to put our first SP into Teleport in order to have it,
-and then immediately rush max Bless. Bless gives us MDEF, AVOID, and most
-importantly: precious, precious ACC. Then, we leave Invincible at level 5
-(it&rsquo;s reasonably effective even at that level, at least for now) in order
-to focus on maxing Heal; Heal really needs to be maxed, because being INTless
-and LUKless means that our Heal needs all of the help that it can get. Remember
-that Heal is only useful defensively as a STR cleric, as the magic damage will
-always MISS undead monsters. Now we can finally max Invincible and Teleport,
-and after that we have nothing left to spend SPs on.
+If MATK potions/food are too inaccessible, it is possible to prioritise
+Meditation over Cold Beam.
 
-### Cleric (permadeath)
+MP Eater can be prioritised over Teleport, depending on what you are doing at
+levels 59&ndash;70.
+
+Slow is not skilled at all, because it is basically useless for ice/lightnings
+(Slow is much more oriented towards fire/poisons).
+
+### Ice/lightning mage
 
 Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
 stands for &ldquo;[don&rsquo;t
 care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 
-|       level | SP allocation                             |
-| ----------: | :---------------------------------------- |
-|          30 | +1 Teleport \[1\]                         |
-|          31 | +3 Heal \[3\]                             |
-|          32 | +2 Heal \[5\], +1 Invincible \[1\]        |
-| 33&ndash;38 | +3 Invincible \[19\]                      |
-|          39 | +2 Bless \[2\], +1 Invincible \[**MAX**\] |
-| 40&ndash;45 | +3 Bless \[**MAX**\]                      |
-| 46&ndash;53 | +3 Heal \[29\]                            |
-|          54 | +2 Teleport \[3\], +1 Heal \[**MAX**\]    |
-| 55&ndash;59 | +3 Teleport \[18\]                        |
-|          60 | +2 Teleport \[**MAX**\], +1 DC \[DC\]     |
-| 61&ndash;70 | DC                                        |
-
-<details>
-<summary>By level 70</summary>
-
-| skill                       |  level | max level |
-| :-------------------------- | -----: | --------: |
-| **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
-| **Magic Guard**             | **20** |    **20** |
-| **Magic Armor**             | **20** |    **20** |
-| Energy Bolt                 |     DC |        20 |
-| Magic Claw                  |     DC |        20 |
-|                             |        |           |
-| MP Eater                    |     DC |        20 |
-| **Heal**                    | **30** |    **30** |
-| **Invincible**              | **20** |    **20** |
-| **Teleport**                | **20** |    **20** |
-| **Bless**                   | **20** |    **20** |
-| Holy Arrow                  |     DC |        30 |
-
-</details>
-
-The main difference here is that we max Invincible first, even before Bless.
-Invincible is by far the most important defensive skill here, although Bless
-helps as well. Heal helps too, but not as much as Invincible or even Bless at
-this level. Plus, Bless gives ACC.
-
-### Priest (normal)
-
-Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
-stands for &ldquo;[don&rsquo;t
-care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
-
-|         level | SP allocation                                             |
-| ------------: | :-------------------------------------------------------- |
-|            70 | +1 Dispel \[1\]                                           |
-|            71 | +2 Dispel \[3\], +1 Mystic Door \[1\]                     |
-|            72 | +3 Holy Symbol \[3\]                                      |
-|            73 | +2 Holy Symbol \[5\], +1 Elemental Resistance \[1\]       |
-|   74&ndash;81 | +3 Holy Symbol \[29\]                                     |
-|            82 | +2 Elemental Resistance \[3\], +1 Holy Symbol \[**MAX**\] |
-|   83&ndash;87 | +3 Elemental Resistance \[18\]                            |
-|            88 | +2 Elemental Resistance \[**MAX**\], +1 Doom \[1\]        |
-|   89&ndash;97 | +3 Doom \[28\]                                            |
-|            98 | +2 Doom \[**MAX**\], +1 Dispel \[4\]                      |
-|  99&ndash;103 | +3 Dispel \[19\]                                          |
-|           104 | +2 Mystic Door \[3\], +1 Dispel \[**MAX**\]               |
-| 105&ndash;109 | +3 Mystic Door \[18\]                                     |
-|           110 | +2 Mystic Door \[**MAX**\], +1 DC \[DC\]                  |
-| 111&ndash;120 | DC                                                        |
+|         level | SP allocation                                                      |
+| ------------: | :----------------------------------------------------------------- |
+|            70 | +1 Element Amplification \[1\]                                     |
+|   71&ndash;80 | +3 Ice Strike \[**MAX**\]                                          |
+|            81 | +2 Element Amplification \[3\], +1 Spell Booster \[1\]             |
+|   82&ndash;84 | +3 Spell Booster \[10\]                                            |
+|            85 | +2 Element Amplification \[5\], +1 Spell Booster \[11\]            |
+|   86&ndash;93 | +3 Element Amplification \[29\]                                    |
+|            94 | +2 Element Composition \[2\], +1 Element Amplification \[**MAX**\] |
+|  95&ndash;103 | +3 Element Composition \[29\]                                      |
+|           104 | +2 Partial Resistance \[2\], +1 Element Composition \[**MAX**\]    |
+| 105&ndash;110 | +3 Partial Resistance \[**MAX**\]                                  |
+| 111&ndash;120 | DC                                                                 |
 
 <details>
 <summary>By level 120</summary>
 
-| skill                       |  level | max level |
-| :-------------------------- | -----: | --------: |
-| **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
-| **Magic Guard**             | **20** |    **20** |
-| **Magic Armor**             | **20** |    **20** |
-| Energy Bolt                 |     DC |        20 |
-| Magic Claw                  |     DC |        20 |
-|                             |        |           |
-| MP Eater                    |     DC |        20 |
-| **Heal**                    | **30** |    **30** |
-| **Invincible**              | **20** |    **20** |
-| **Teleport**                | **20** |    **20** |
-| **Bless**                   | **20** |    **20** |
-| Holy Arrow                  |     DC |        30 |
-|                             |        |           |
-| **Elemental Resistance**    | **20** |    **20** |
-| **Dispel**                  | **20** |    **20** |
-| **Mystic Door**             | **20** |    **20** |
-| **Holy Symbol**             | **30** |    **30** |
-| Shining Ray                 |     DC |        30 |
-| **Doom**                    | **30** |    **30** |
-| Summon Dragon               |     DC |        30 |
+| skill                     |  level | max level |
+| :------------------------ | -----: | --------: |
+| **Partial Resistance**    | **20** |    **20** |
+| **Element Amplification** | **30** |    **30** |
+| **Ice Strike**            | **30** |    **30** |
+| Thunder Spear             |     DC |        30 |
+| Seal                      |     DC |        20 |
+| Spell Booster             | &ge;11 |        20 |
+| **Element Composition**   | **30** |    **30** |
 
 </details>
 
-The build here is pretty straightforward, with an early single SP into both
-Mystic Door and Elemental Resistance, because both skills are useful even at
-level 1. We prioritise Doom over Dispel and Mystic Door (although of course,
-Dispel in Mystic Door are both maxed and also get a few SPs early on), mostly
-because we will be meleeing mobs one by one. Doom helps to slow your enemies
-down, and also take away their fancy attacks so that they cannot use those
-fancy attacks to knock you back. Of course, you don&rsquo;t _have_ to
-prioritise Doom in this way, since of course Dispel and Mystic Door may
-potentially be more useful to you (particularly if you are bossing early on).
+Our first SP goes into Element Amplification, as the first level of this skill
+is the most powerful; we get a considerable all-around damage boost from it.
+Then we get straight to maxing Ice Strike. Ice Strike is your bread &amp;
+butter! It is a powerful AoE nuke with stellar range, good attack speed, and it
+freezes as well! Then we get Spell Booster up to level 11, as discussed above
+(under &ldquo;Skill builds&rdquo;) to speed up our Ice Strikes (and
+Cold Beams). Then Element Amplification is next, for the sweet, sweet damage
+boost.
 
-### Priest (permadeath)
+After this point (getting to level 94), the absolute essentials are already out
+of the way. From here we max Element Composition in order to get a more
+powerful version of Cold Beam. By this point you have three main single-target
+attacks available in your skillbook: Cold Beam, Element Composition, and
+Thunder Spear. Here is how Element Composition stacks up with the competition:
 
-Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
-stands for &ldquo;[don&rsquo;t
-care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
+- Versus Cold Beam: Element Composition attacks more slowly than Cold Beam
+  (810&nbsp;ms&nbsp;&div;&nbsp;720&nbsp;ms&nbsp;=&nbsp;1.125 times more
+  slowly)<sup>\[1\]</sup>. Both skills freeze for the same duration (2&nbsp;s).
+  Element Composition has a basic attack of 140 at max level, which is
+  140&nbsp;&div;&nbsp;100&nbsp;=&nbsp;1.4 times greater than Cold Beam&rsquo;s
+  basic attack of 100. This (1.4&nbsp;&#x226b;&nbsp;1.125) means that maxed
+  Element Composition is always better DPS and always better damage-per-hit
+  than Cold Beam. Also, Element Composition is typed with lightning in addition
+  to ice, so it can do extra damage to lightning-weak monsters, not just
+  ice-weak ones. The superiority of Element Composition is even greater when
+  using a lightning-typed Elemental Wand or Staff (any whose names end with
+  &ldquo;4&rdquo; or &ldquo;8&rdquo;), again because it is typed with lightning
+  in addition to ice.
+- Versus Thunder Spear: Element Composition does less damage-per-hit than
+  Thunder Spear (assuming that you are not using an ice-typed Elemental Wand
+  nor Staff, i.e. any whose names end with &ldquo;3&rdquo; or &ldquo;7&rdquo;,
+  and that you are fighting an elementally-neutral monster), because the
+  Thunder Spear has a basic attack of
+  170&nbsp;&div;&nbsp;140&nbsp;=&nbsp;1.214&hellip; times more than that of
+  Elemental Composition (both at max level). However, Elemental Composition
+  freezes (for 2&nbsp;s), whereas Thunder Spear does not, and Elemental
+  Composition attacks much more swiftly than Thunder Spear
+  (1140&nbsp;ms&nbsp;&div;&nbsp;810&nbsp;ms&nbsp;=&nbsp;1.407&hellip; times
+  more swiftly)<sup>\[1\]</sup>. This
+  (1.407&hellip;&nbsp;&#x226b;&nbsp;1.214&hellip;) means that Elemental
+  Composition is generally better DPS than Thunder Spear, unless the
+  target&rsquo;s MDEF is extremely high. The problem for Thunder Spear is, of
+  course, worse when your target is weaker to ice than to lightning, and/or you
+  are using an ice-typed Elemental Wand or Staff (which is probably true if you
+  are using an Elemental Wand or Staff at all, since you care the most about
+  Ice Strike).
 
-|         level | SP allocation                                                 |
-| ------------: | :------------------------------------------------------------ |
-|            70 | +1 Elemental Resistance \[1\]                                 |
-|            71 | +1 Elemental Resistance \[2\], +1 Dispel \[1\], +1 Doom \[1\] |
-|   72&ndash;77 | +3 Elemental Resistance \[**MAX**\]                           |
-|            78 | +2 Dispel \[3\], +1 Holy Symbol \[1\]                         |
-|   79&ndash;87 | +3 Holy Symbol \[28\]                                         |
-|            88 | +2 Holy Symbol \[**MAX**\], +1 Mystic Door \[1\]              |
-|   89&ndash;97 | +3 Doom \[28\]                                                |
-|            98 | +2 Doom \[**MAX**\], +1 Dispel \[4\]                          |
-|  99&ndash;103 | +3 Dispel \[19\]                                              |
-|           104 | +2 Mystic Door \[3\], +1 Dispel \[**MAX**\]                   |
-| 105&ndash;109 | +3 Mystic Door \[18\]                                         |
-|           110 | +2 Mystic Door \[**MAX**\], +1 DC \[DC\]                      |
-| 111&ndash;120 | DC                                                            |
+Once we have Element Composition maxed, we have the essentials out of the way,
+and have our main single-target attack maxed as well. From here we max Partial
+Resistance; Partial Resistance is not as great as the priest&rsquo;s Elemental
+Resistance, but it still makes for a sturdier magelet, and is a decent
+cost-saving measure.
+
+Beyond this point, it really is up to you as to how you spend your remaining
+third job SP. Investing more SP into Spell Booster is a nice convenience (Spell
+Booster has a casting animation that is a bit of a pain in the ass, similarly
+to Holy Symbol). Investing many SPs into Thunder Spear means a nice
+single-target nuke that has excellent per-hit damage &mdash; particularly
+against lightning-weak monsters, of course. And finally, investing into Seal
+_can_ be useful (although not so much for ice/lightnings as for fire/poisons,
+since ice/lightnings can freeze with Ice Strike) to partially disable monsters
+for a longer duration than your freezing attacks can fully disable them (freeze
+lasts for just 2&nbsp;s).
 
 <details>
-<summary>By level 120</summary>
+<summary>Footnotes for &ldquo;Ice/lightning mage&rdquo;</summary>
 
-| skill                       |  level | max level |
-| :-------------------------- | -----: | --------: |
-| **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
-| **Magic Guard**             | **20** |    **20** |
-| **Magic Armor**             | **20** |    **20** |
-| Energy Bolt                 |     DC |        20 |
-| Magic Claw                  |     DC |        20 |
-|                             |        |           |
-| MP Eater                    |     DC |        20 |
-| **Heal**                    | **30** |    **30** |
-| **Invincible**              | **20** |    **20** |
-| **Teleport**                | **20** |    **20** |
-| **Bless**                   | **20** |    **20** |
-| Holy Arrow                  |     DC |        30 |
-|                             |        |           |
-| **Elemental Resistance**    | **20** |    **20** |
-| **Dispel**                  | **20** |    **20** |
-| **Mystic Door**             | **20** |    **20** |
-| **Holy Symbol**             | **30** |    **30** |
-| Shining Ray                 |     DC |        30 |
-| **Doom**                    | **30** |    **30** |
-| Summon Dragon               |     DC |        30 |
+\[1\]: Attack timings are due to LazyBui&rsquo;s &ldquo;Attack Speed
+Reference&rdquo;, which can be found at (**WARNING:** raw HTTP)
+<http://www.southperry.net/showthread.php?t=3217>.
 
 </details>
-
-The main difference here (of the permadeath version) is that we max Elemental
-Resistance before getting Holy Symbol. We also get an early point in Doom, in
-case it happens to be useful defensively. This build is less advisable than the
-permadeath version of the cleric skill build, just because it puts off Holy
-Symbol in order to get a skill that is a good defensive skill, but perhaps a
-tad too situational to justify delaying Holy Symbol.
 
 ## Itemization
 
-A STR cleric is nothing without her equipment and her gear&hellip;
+A magelet is nothing without her equipment and her gear&hellip;
+
+No, really. Magelets (particularly of the ice/lightning and
+cleric/priest/bishop varieties) are easily one of the most gear-dependent jobs
+in all of MapleStory. Like ordinary mages, you will want INT and MATK most of
+all from your gear/buffs; INT is more valuable per-point than raw MATK, because
+1 point of INT increases your total MATK by 1 point anyways, _in addition to_
+giving other benefits of INT. But magelets, due to being INTless, need these
+things even more desperately than INT mages (LUKless or otherwise).
+
+In contrast to INT mages (particularly in contrast to those who are LUKless),
+getting sources of AVOID from your gear/buffs (raw AVOID and/or LUK and/or DEX)
+is quite useful. Your AVOID is already naturally high due to your pure LUK
+nature, and so additional sources of AVOID are very welcome, because they
+actually significantly increase the rate at which you dodge attacks. Keep in
+mind that each point of LUK grants 0.5 AVOID, and each point of DEX grants 0.25
+AVOID.
 
 ### Equipment
 
 #### Armaments
 
-Because magicians/clerics/priests/&amp;c. are not designed to be melee jobs,
-the choice of melee armaments for STR mages looks fairly similar to that for a
-closely related odd job: the permabeginner. As such, this section will mostly
-just highlight the _differences_ w.r.t. melee armaments for STR mages, as
-compared to melee armaments for permabeginners.
+Armaments are perhaps the most interesting aspect of gearing up a magelet. To
+some degree, the armaments that they use will overlap with those of a pure INT
+(INT mage of the LUKless variety) mage, thus making these armaments very
+standard, as pure INT mages are by far the most common type of mage. This is
+because pure INT mages largely rely on armaments that have no stat
+requirements, and thus can be equipped by _any_ variety of mage (and in some
+cases, like with umbrellas, non-mages as well).
 
-STR mages obviously do not have access to any permabeginner-specific armaments;
-this means no access to any of the following:
+However, while magelets cannot equip armaments with significant INT
+requirements, they can equip those that _just_ have a significant LUK
+requirement. These armaments are bolded in the table of magelet weapons below.
 
-- The level 20 Frozen Tuna
-- Sake Bottle
-- Maroon Mop
+Note that &ldquo;TMA&rdquo; refers to the average **total** MATK of a clean
+version of the armament in question. The total MATK is the sum of the raw MATK
+and the INT. If the armament in question does give >0 INT on average, then that
+is noted under &ldquo;other stats&rdquo;. Also note that element-based damage
+bonuses that apply to spells with poison type do **not** apply to poison DoT
+damage (which is solely base on the victim&rsquo;s MAXHP).
 
-STR mages do, however, have access to a small handful of armaments that
-permabeginners do not have access to, although they are unfortunately limited
-to low levels:
+The &ldquo;Heart Staff&rdquo; is, confusingly, a wand, not a staff.
 
-- Mace (level 15)
-- Iron Mace (level 20)
-- Fusion Mace (level 25)
-
-Another difference for STR clerics in particular is that, unlike
-permabeginners, they can benefit from weapons like e.g. the Flaming Katana,
-which give both WATK _and_ MATK. The MATK helps to increase the effectiveness
-of your Heal. Indeed, in some cases you will exclusively (or almost
-exclusively) be healing and buffing, in which case you will want to equip
-things that increase your Heal&rsquo;s efficacy. When it comes to armaments,
-here are some of the armaments that can be equipped by a STR cleric to boost
-their Heal power:
-
-| name                               | level | MATK | type     | WATK | other stats                    | requirements               |
-| :--------------------------------- | ----: | ---: | :------- | ---: | :----------------------------- | :------------------------- |
-| Sky Blue Umbrella                  |     0 |   15 | 1H sword |   15 |                                |                            |
-| Wooden Wand                        |     8 |   23 | wand     |   15 |                                |                            |
-| Green Umbrella                     |     8 |   25 | 1H sword |   12 |                                | 10 LUK                     |
-| Fruity Bamboo                      |    22 |   37 | 1H BW    |   40 | +8 SPEED                       |                            |
-| Light Purple Umbrella              |    25 |   39 | 1H sword |   41 |                                | 6 STR                      |
-| Poison Mushroom                    |    30 |   45 | staff    |   30 | +50 MaxHP                      | 10 LUK                     |
-| Green Paint Brush                  |    30 |   45 | 1H axe   |   48 | +30 MaxHP                      | 5 STR                      |
-| Pumpkin Lantern                    |    30 |   55 | 2H sword |   55 | +50 MaxHP                      |                            |
-| Maple Staff                        |    35 |   48 | staff    |   35 | +100 MaxHP                     |                            |
-| Flaming Katana                     |    38 |   40 | 1H sword |   65 | +17 SPEED                      |                            |
-| Yellow Umbrella                    |    40 |   52 | 1H sword |   54 |                                |                            |
-| Nocturnal Staff                    |    43 |   58 | staff    |   39 | +100 MaxHP, +50 MaxMP          |                            |
-| Maple Lama Staff                   |    43 |   58 | staff    |   39 | +100 MaxHP, +50 MaxMP          |                            |
-| Beige Umbrella                     |    43 |   60 | 1H sword |   60 |                                | 5 STR, 5 DEX, 5 INT, 5 LUK |
-| Diao Chan Sword                    |    48 |   60 | 1H sword |   69 | +1 INT, +1 DEX, +1 STR         |                            |
-| Super Snowboard                    |    50 |   75 | polearm  |   75 | +8 SPEED                       |                            |
-| Maple Shine Wand                   |    64 |   80 | wand     |   49 | +1 INT, +100 MaxHP, +100 MaxMP |                            |
-| Maple Wisdom Staff                 |    64 |   60 | staff    |   50 | +1 INT, +150 MaxHP, +50 MaxMP  |                            |
-| Black Umbrella                     |    70 |   85 | 1H sword |   85 |                                | 6 STR, 6 DEX, 6 INT, 6 LUK |
-| Elemental Wand 3; Elemental Wand 4 |    70 |   85 | wand     |   56 | +1 LUK                         |                            |
-| Elemental Wand 1; Elemental Wand 2 |    70 |   85 | wand     |   56 | +1 INT                         |                            |
-| Kebob                              |    75 |   90 | dagger   |   83 | +50 MaxHP                      |                            |
-| Crimson Arcglaive                  |   100 |   89 | polearm  |  102 | +2 STR, +5 SPEED               | 300 STR, 80 DEX            |
-| Elemental Wand 7; Elemental Wand 8 |   130 |  145 | wand     |   92 | +2 LUK                         |                            |
-| Elemental Wand 5; Elemental Wand 6 |   130 |  145 | wand     |   92 | +2 INT                         |                            |
+| name                  |   level |     TMA | type         | other stats                                                     | requirements               |
+| :-------------------- | ------: | ------: | :----------- | :-------------------------------------------------------------- | :------------------------- |
+| Sky Blue Umbrella     |       0 |      15 | 1H sword     |                                                                 |                            |
+| Wooden Wand           |       8 |      23 | wand         |                                                                 |                            |
+| **Green Umbrella**    |   **8** |  **25** | **1H sword** |                                                                 | **10 LUK**                 |
+| Fruity Bamboo         |      22 |      37 | 1H BW        | +8 SPEED                                                        |                            |
+| Light Purple Umbrella |      25 |      39 | 1H sword     |                                                                 | 6 STR                      |
+| **Poison Mushroom**   |  **30** |  **45** | **staff**    | **+50 MAXHP**                                                   | **10 LUK**                 |
+| Green Paint Brush     |      30 |      45 | 1H axe       | +30 MAXHP                                                       | 5 STR                      |
+| Pumpkin Lantern       |      30 |      55 | 2H sword     | +50 MAXHP                                                       |                            |
+| Maple Staff           |      35 |      48 | staff        | +100 MAXHP                                                      |                            |
+| Flaming Katana        |      38 |      40 | 1H sword     | +17 SPEED                                                       |                            |
+| Yellow Umbrella       |      40 |      52 | 1H sword     |                                                                 |                            |
+| **Streetlight**       |  **41** |  **57** | **wand**     | **+1 INT**                                                      | **40 LUK**                 |
+| Nocturnal Staff       |      43 |      58 | staff        | +100 MAXHP, +50 MAXMP                                           |                            |
+| Maple Lama Staff      |      43 |      58 | staff        | +100 MAXHP, +50 MAXMP                                           |                            |
+| Beige Umbrella        |      43 |      60 | 1H sword     |                                                                 | 5 STR, 5 DEX, 5 INT, 5 LUK |
+| Diao Chan Sword       |      48 |      61 | 1H sword     | +1 INT, +1 DEX, +1 STR                                          |                            |
+| Super Snowboard       |      50 |      75 | polearm      | +8 SPEED                                                        |                            |
+| Heart Wand            |      54 |      70 | wand         | +2 INT, +50 MAXHP                                               |                            |
+| **Heart Staff**       |  **54** |  **70** | **wand**     | **+2 INT, +50 MAXHP**                                           | **43 LUK**                 |
+| Maple Shine Wand      |      64 |      81 | wand         | +1 INT, +100 MAXHP, +100 MAXMP                                  |                            |
+| Maple Wisdom Staff    |      64 |      81 | staff        | +1 INT, +150 MAXHP, +50 MAXMP                                   |                            |
+| Black Umbrella        |      70 |      85 | 1H sword     |                                                                 | 6 STR, 6 DEX, 6 INT, 6 LUK |
+| Elemental Wand 3      |      70 |      85 | wand         | +1 LUK, +25% damage bonus for spells with ice type              |                            |
+| Elemental Wand 4      |      70 |      85 | wand         | +1 LUK, +25% damage bonus for spells with lightning type        |                            |
+| Elemental Wand 1      |      70 |      86 | wand         | +1 INT, +25% damage bonus for spells with fire type             |                            |
+| Elemental Wand 2      |      70 |      86 | wand         | +1 INT, +25% damage bonus for spells with poison type           |                            |
+| Kebob                 |      75 |      90 | dagger       | +50 MAXHP                                                       |                            |
+| **Pyogo Mushroom**    |  **92** | **112** | **staff**    | **+4 INT**                                                      | **92 LUK**                 |
+| **Doomsday Staff**    | **102** | **118** | **staff**    | **+80 MAXHP**                                                   | **80 LUK**                 |
+| **Elemental Staff 4** | **103** | **118** | **staff**    | **+2 LUK, +25% damage bonus for spells with lightning type**    | **105 LUK**                |
+| **Elemental Staff 3** | **103** | **119** | **staff**    | **+1 INT, +1 LUK, +25% damage bonus for spells with ice type**  | **105 LUK**                |
+| **Elemental Staff 1** | **103** | **119** | **staff**    | **+1 INT, +1 LUK, +25% damage bonus for spells with fire type** | **105 LUK**                |
+| **Elemental Staff 2** | **103** | **120** | **staff**    | **+2 INT, +25% damage bonus for spells with poison type**       | **105 LUK**                |
+| Elemental Wand 7      |     130 |     145 | wand         | +2 LUK, +25% damage bonus for spells with ice type              |                            |
+| Elemental Wand 8      |     130 |     145 | wand         | +2 LUK, +25% damage bonus for spells with lightning type        |                            |
+| Elemental Wand 5      |     130 |     147 | wand         | +2 INT, +25% damage bonus for spells with fire type             |                            |
+| Elemental Wand 6      |     130 |     147 | wand         | +2 INT, +25% damage bonus for spells with poison type           |                            |
+| **Elemental Staff 8** | **163** | **178** | **staff**    | **+3 LUK, +25% damage bonus for spells with lightning type**    | **165 LUK**                |
+| **Elemental Staff 7** | **163** | **179** | **staff**    | **+1 INT, +2 LUK, +25% damage bonus for spells with ice type**  | **165 LUK**                |
+| **Elemental Staff 5** | **163** | **180** | **staff**    | **+2 INT, +1 LUK, +25% damage bonus for spells with fire type** | **165 LUK**                |
+| **Elemental Staff 6** | **163** | **181** | **staff**    | **+3 INT, +25% damage bonus for spells with poison type**       | **165 LUK**                |
 
 #### Shields
 
-When engaging in melee and using a one-handed weapon, you will, of course, want
-a shield. As usual, the Maple Shield is the most powerful, simply because it
-has three extra slots, and you&rsquo;ll be wanting to scroll for WATK (and/or
-STR). More accessible are the Stolen Fence (available from an NPC and as a
-monster drop) and the Pan Lid (available as a reasonably common monster drop).
-The Palette sports better defense than the Stolen Fence or Pan Lid, and the LUK
-that it grants is quite useful. My preference is the Stone Shield, if the
-implementation even has it, due to its superior defense. The Black Phoenix
-Shield (again, if the implementation even has it) is superior to either the
-Stolen Fence or the Pan Lid, and has twice as much MDEF (and WDEF) as the Maple
-Shield.
+The ultimate magelet shield is, of course, a Maple Magician Shield (assuming
+that your implementation has the full set of 2008 GMS Three Year Anniversary
+Event maple equips). With an average of +2 INT clean, solid defenses, and most
+importantly, 10 slots, it can hardly be beaten.
 
-Because you&rsquo;re a mage, you can use the Maple Magician Shield, a level 64
-shield with good defenses, +2 INT, and most importantly, 10 slots. This is a
-superior choice to the Maple Shield if you can manage to scroll it well. A
-well-scrolled Maple Magician Shield is _the_ endgame shield for a
-one-handed-fighting STR mage.
+Other than the Maple Magician Shield, the magelet largely has access to shields
+without job requirements, like the Stolen Fence and the Pan Lid. However, if
+your gear is good enough, you may be able to equip the Mystic Shield, which is
+a level 22 magician-only shield that requires at least 68 INT to equip. This
+means getting at least 48 INT from your non-shield equipment. It is, however, a
+nice shield, with +1 INT on average when clean.
 
 #### Headgear
 
-STR mages, unfortunately, do not have access to any of the magician-specific
-headgear. There is, however, one notable exception: if you are fortunate enough
-to be playing on an implementation that has the extended first-job quests (in
-the magician&rsquo;s case, culminating in a battle with the Marbas boss
-monster), you should obtain the level 18 Marbas Hat. The good defenses and
-accuracy are extremely nice, and the +12 INT helps too.
+Magelets, unfortunately, do not have access to any of the magician-specific
+headgear, due to their INTless nature. There is, however, one notable
+exception: if you are fortunate enough to be playing on an implementation that
+has the extended first-job quests (in the magician&rsquo;s case, culminating in
+a battle with the Marbas boss monster), you should obtain the level 18 Marbas
+Hat. The +12 INT helps immensely, and the other stats are quite good as well.
 
 If you cannot obtain the Marbas Hat, or just want something that will increase
 your DPS, you still have some good options (&ldquo;ordinary&rdquo; methods of
 availability &mdash; that is, NPCs, (party) quests, monster drops, and crafting
 &mdash; are bolded):
 
-| level | name                                                                                                                                                        | availability       | notable stats                                                             | notes                                                                                                                                                                                                                                                                                                                                                                 |
-| ----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     0 | Mark of the Beta; Genesis Bandana; Maple Bandana Yellow; Maple Bandana Red; Maple Bandana Blue; Yellow Maple Bandana; Red Maple Bandana; Blue Maple Bandana | event              | +1 all-stat, +15 WDEF; +1 all-stat; +2 all-stat; +3 all-stat; +4 all-stat | These are event-exclusive all-stat hats that range from +1 all-stat to +4 all-stat. Also, the Mark of the Beta and the Genesis Bandana in particular have 15 WDEF, which is nice (unlike the others, which lack defense entirely). These are highly desirable in the absence of the Amdusias Hat, as you can benefit from almost all of the stats (particularly DEX). |
-|     5 | Red Headband                                                                                                                                                | **NPC**            | +1 ACC                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
-|     8 | Maple Hat \[2\]                                                                                                                                             | event              | +1 all-stat, +20 WDEF, +40 MDEF, +10 MaxHP, +10 MaxMP                     | An event-exclusive +1 all-stat hat that is superior to any of the +1 all-stat hats that are level 0.                                                                                                                                                                                                                                                                  |
-|    10 | Red Bandana                                                                                                                                                 | **drop**, gachapon | +1 ACC, +8 WDEF                                                           | Basically just the Red Headband, but with slightly better defense. If you&rsquo;re lucky, you got a +2 ACC one from a Zombie Lupin (or from a monster in China, if you&rsquo;re playing MapleLegends).                                                                                                                                                                |
-|    10 | Blue Bandana                                                                                                                                                | **drop**, gachapon | +1 STR                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
-|    10 | Yellow Bandana                                                                                                                                              | gachapon           | +1 DEX                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
-|    10 | Brown Bandana                                                                                                                                               | gachapon           | +5 ACC                                                                    | Gachapon-only ACC hat that is far superior to the Red Headband/Bandana, with +5 ACC on average.                                                                                                                                                                                                                                                                       |
-|    15 | Blue Metal Gear                                                                                                                                             | **craft**          | +1 STR, +12 WDEF                                                          | +1 STR hat that can be fairly easily crafted. Better WDEF than the colored bandanas.                                                                                                                                                                                                                                                                                  |
-|    20 | Blue Old Wisconsin                                                                                                                                          | gachapon           | +7 ACC                                                                    | Gachapon-only ACC hat that is even better than the Brown Bandana, with +7 ACC on average.                                                                                                                                                                                                                                                                             |
-|    20 | White Starry Bandana                                                                                                                                        | gachapon           | +50 MaxHP, +15 WDEF, +50 MaxMP                                            | Defensive headgear.                                                                                                                                                                                                                                                                                                                                                   |
-|    25 | Ribboned Pig Headband                                                                                                                                       | **quest**          | +50 MaxHP                                                                 | +50 MaxHP hat that can be obtained from quests, unlike its gachapon-only counterparts; good for racking up HP gear.                                                                                                                                                                                                                                                   |
-|    25 | Green Bamboo Hat; Blue Bamboo Hat                                                                                                                           | **party quest**    | +3 DEX; +3 STR                                                            | A +3 DEX hat and a +3 STR hat, respectively, available from KPQ. Usually, try to get a blue one. Or get one of each!                                                                                                                                                                                                                                                  |
-|    30 | Maple Hat \[3\]                                                                                                                                             | event              | +2 all-stat, +35 WDEF, +50 MDEF, +12 MaxHP, +12 MaxMP                     | An event-exclusive +2 all-stat hat that is preferable to any of the +2 all-stat hats that are level 0.                                                                                                                                                                                                                                                                |
-|    30 | Black Starry Bandana                                                                                                                                        | gachapon           | +10 ACC, +25 WDEF                                                         | Gachapon-only ACC hat that is even better than the Blue Old Wisconsin, with +10 ACC on average.                                                                                                                                                                                                                                                                       |
-|    40 | Toymaker Cap                                                                                                                                                | **quest**          | +1 all-stat, +27 WDEF, +15 MDEF                                           | +1 all-stat hat with good WDEF, and decent MDEF(!), that can be obtained from Haunted Mansion quests.                                                                                                                                                                                                                                                                 |
-|    70 | Maple Hat \[4\]                                                                                                                                             | event              | +3 all-stat, +50 WDEF, +60 MDEF, +15 MaxHP, +15 MaxMP                     | An event-exclusive, +3 all-stat hat with very good defenses.                                                                                                                                                                                                                                                                                                          |
+| level | name                                                                                                                                                        | availability    |           TMA | notable stats                                                             | notes                                                                                                                                                                                                                                                                                                                                                                 |
+| ----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- | ------------: | :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     0 | Mark of the Beta; Genesis Bandana; Maple Bandana Yellow; Maple Bandana Red; Maple Bandana Blue; Yellow Maple Bandana; Red Maple Bandana; Blue Maple Bandana | event           | 1; 1; 2; 3; 4 | +1 all-stat, +15 WDEF; +1 all-stat; +2 all-stat; +3 all-stat; +4 all-stat | These are event-exclusive all-stat hats that range from +1 all-stat to +4 all-stat. Also, the Mark of the Beta and the Genesis Bandana in particular have 15 WDEF, which is nice (unlike the others, which lack defense entirely). These are highly desirable in the absence of the Amdusias Hat, as you can benefit from almost all of the stats (particularly DEX). |
+|     8 | Maple Hat \[2\]                                                                                                                                             | event           |             1 | +1 all-stat, +20 WDEF, +40 MDEF, +10 MAXHP, +10 MAXMP                     | An event-exclusive +1 all-stat hat that is superior to any of the +1 all-stat hats that are level 0.                                                                                                                                                                                                                                                                  |
+|    10 | Black Bandana                                                                                                                                               | **drop**        |             1 | +1 INT                                                                    | Drops from Ginseng Jars (Herb Town) and from Tippos Blue (Singapore).                                                                                                                                                                                                                                                                                                 |
+|    13 | Blue Maple Bandana                                                                                                                                          | event           |             0 | +17 WDEF, +17 MDEF, +17 AVOID                                             | Not to be confused with the level 0 Blue Maple Bandana (they look different, too).                                                                                                                                                                                                                                                                                    |
+|    20 | Black Old Wisconsin                                                                                                                                         | gachapon        |             0 | +20 MAXHP, +20 MAXMP, 10 slots                                            | Defensive hat. Does not exist in MapleLegends, as far as I know.                                                                                                                                                                                                                                                                                                      |
+|    20 | Red Old Wisconsin                                                                                                                                           | gachapon        |             0 | +7 AVOID                                                                  | Does not exist in MapleLegends, as far as I know.                                                                                                                                                                                                                                                                                                                     |
+|    20 | Talking Witch Hat                                                                                                                                           | event           |             1 | +1 all-stat, +100 MAXMP                                                   | Halloween event item.                                                                                                                                                                                                                                                                                                                                                 |
+|    20 | Purple Old Wisconsin                                                                                                                                        | gachapon        |             7 | +7 INT                                                                    | Only +2 INT in MapleLegends.                                                                                                                                                                                                                                                                                                                                          |
+|    25 | Ribboned Pig Headband                                                                                                                                       | **quest**       |             0 | +50 MAXHP                                                                 | +50 MAXHP hat that can be obtained from quests, unlike its gachapon-only counterparts; good for racking up HP gear.                                                                                                                                                                                                                                                   |
+|    25 | Brown Bamboo Hat                                                                                                                                            | **party quest** |             0 | +3 LUK                                                                    | A +3 LUK hat available from KPQ.                                                                                                                                                                                                                                                                                                                                      |
+|    30 | White Maple Bandana                                                                                                                                         | event           |             0 | +37 WDEF, +37 MDEF, +20 AVOID, +7 JUMP                                    | Not to be confused with the level 0 White Maple Bandana (they look different, too).                                                                                                                                                                                                                                                                                   |
+|    30 | Maple Hat \[3\]                                                                                                                                             | event           |             2 | +2 all-stat, +35 WDEF, +50 MDEF, +12 MAXHP, +12 MAXMP                     | An event-exclusive +2 all-stat hat that is preferable to any of the +2 all-stat hats that are level 0.                                                                                                                                                                                                                                                                |
+|    40 | Toymaker Cap                                                                                                                                                | **quest**       |             1 | +1 all-stat, +27 WDEF, +15 MDEF                                           | +1 all-stat hat with good WDEF, and decent MDEF(!), that can be obtained from Haunted Mansion quests.                                                                                                                                                                                                                                                                 |
+|    50 | Infinity Circlet                                                                                                                                            | rare craft      |             3 | +3 INT, +3 LUK, +25 WDEF, +35 MDEF, 8 slots                               | John Barricade craft item.                                                                                                                                                                                                                                                                                                                                            |
+|    60 | Lord Pirate&rsquo;s Hat \[1\]                                                                                                                               | **party quest** |             2 | +2 all-stat, +45 WDEF, +45 MDEF, +30 MAXHP, +30 MAXMP, +3 SPEED, +1 JUMP  | Available from PPQ/HTPQ (Pirate Party Quest = Herb Town Party Quest).                                                                                                                                                                                                                                                                                                 |
+|    70 | Maple Hat \[4\]                                                                                                                                             | event           |             3 | +3 all-stat, +50 WDEF, +60 MDEF, +15 MAXHP, +15 MAXMP                     | An event-exclusive, +3 all-stat hat with very good defenses.                                                                                                                                                                                                                                                                                                          |
+|    70 | Lord Pirate&rsquo;s Hat \[2\]                                                                                                                               | **party quest** |             3 | +3 all-stat, +60 WDEF, +60 MDEF, +40 MAXHP, +40 MAXMP, +4 SPEED, +1 JUMP  | Available from PPQ/HTPQ (Pirate Party Quest = Herb Town Party Quest).                                                                                                                                                                                                                                                                                                 |
+|    80 | Lord Pirate&rsquo;s Hat \[3\]                                                                                                                               | **party quest** |             3 | +3 all-stat, +70 WDEF, +70 MDEF, +60 MAXHP, +60 MAXMP, +5 SPEED, +2 JUMP  | Available from PPQ/HTPQ (Pirate Party Quest = Herb Town Party Quest).                                                                                                                                                                                                                                                                                                 |
+|    90 | Lord Pirate&rsquo;s Hat \[4\]                                                                                                                               | **party quest** |             5 | +5 all-stat, +90 WDEF, +90 MDEF, +90 MAXHP, +90 MAXMP, +7 SPEED, +4 JUMP  | Available from PPQ/HTPQ (Pirate Party Quest = Herb Town Party Quest).                                                                                                                                                                                                                                                                                                 |
+|    93 | Time Traveler&rsquo;s Circlet                                                                                                                               | **quest**       |             5 | +5 all-stat, +120 WDEF, +120 MDEF, +120 MAXHP, +120 MAXMP                 | Requires that your implementation have Neo Tokyo in it.                                                                                                                                                                                                                                                                                                               |
 
-This brings us to the ideal end-game hats: Zakum Helmets, and
-&ldquo;Scar/Tar&rdquo; (Scarlion and Targar) hats. These headgears are so
-incredibly powerful that they need no introduction. Zakum Helmets are generally
-more accessible, as Zakum tends to be run fairly often in most implementations,
-and only requires level 50 (instead of the level 80 of Scar/Tar hats). Scar/Tar
-hats aren&rsquo;t really better than Zakum Helmets, although it depends on what
-you want to optimize for; obviously, the ideal Scar/Tar hat for a STR mage is
-generally a Scarlion Hat (STR).
+This brings us to the ideal end-game hats: Zakum Helmets, &ldquo;Tar&rdquo;
+(Targa) Hats, and Ravana Helmets. These headgears are so incredibly powerful
+that they need no introduction. Zakum Helmets are generally more accessible, as
+Zakum tends to be run fairly often in most implementations, and only requires
+level 50 (instead of the level 80 of Targa Hats, and the level 70 of Ravana
+Helmets). The four main attributes of these headgears that we care about are
+their TMA, their total AVOID, their number of slots, and their level:
+
+| name            |  level |    TMA | total AVOID |  slots |
+| :-------------- | -----: | -----: | ----------: | -----: |
+| Zakum Helmet    | **50** |     15 |   **31.25** | **10** |
+| Targa Hat (LUK) |     80 |     15 |   **31.25** | **10** |
+| Targa Hat (INT) |     80 |     17 |       30.25 | **10** |
+| Ravana Helmet   |     70 | **18** |       23.50 |      7 |
 
 When it comes to scrolling headgear, obviously you ideally want to scroll for
-DEX, but scrolling for ACC is similarly good, and even 10%/30% DEF scrolls can
-give a +1 ACC, which could be nice. All-stat hats can be effectively Chaos
-Scrolled, if you&rsquo;re feeling really saucy, or somehow have a large supply
-of Chaos Scrolls.
+INT. Scrolling for HP/DEF can also be nice. All-stat hats can be effectively
+Chaos Scrolled, if you&rsquo;re feeling really saucy, or somehow have a large
+supply of Chaos Scrolls.
 
 #### Clothing
 
-Again, like with headgear, STR mages unfortunately largely lack access to
-magician-specific attire of this kind (tops, bottoms, and overalls). This,
-again, puts the woodsman in a similar situation as their permabeginner
-counterparts. The idea here is typically to scroll an overall for DEX and/or
-STR &mdash; unfortunately, tops cannot be scrolled for DEX, although it is also
-possible to go the route of scrolling a bottom for DEX and scrolling a top for
-STR. If going the route of overalls, this leaves you with essentially two
-options: bathrobes, and sauna robes.
+Again, like with headgear, magelets unfortunately largely lack access to
+magician-specific attire of this kind (tops, bottoms, and overalls). Obviously,
+you want to scroll an overall for INT (or perhaps even LUK, or a combination of
+the two). This leaves you choosing between basically two different overalls, as
+starting points for scrolling:
 
 Bathrobes:
 
@@ -546,7 +687,7 @@ Bathrobes:
 - Give a nice SPEED boost (+10 SPEED), but are defensively inferior (+20 WDEF
   &lt; +30 WDEF; +0 AVOID &lt; +10 AVOID).
 
-Sauna robes, on the other hand:
+Sauna Robes, on the other hand:
 
 - Are more difficult to acquire, since you have to do a rather difficult quest
   (and one that has a minimum level requirement of 30) just to get one.
@@ -556,144 +697,154 @@ Sauna robes, on the other hand:
 
 The fact that bathrobes can be purchased from an NPC makes them, by and large,
 the clear favorite, since we really care about the scrolling outcome, not the
-base stats of the armour.
+base stats of the armour. However, magelets will prefer Sauna Robes, all other
+things being equal, since the AVOID is more important than the SPEED.
 
 #### Footwear
 
 Again, not much magician-specific footwear here, unless you have access to
 Marbas Shoes, in which case, just use those. The plan here is to scroll for
-DEX (unless you end up with Facestompers, in which case you might(&#x203d;) try
-Chaos Scrolling before scrolling for DEX).
+AVOID (unless you have some Chaos Scrolls just lying around&hellip;).
 
 The usual suspects here are:
 
-| level | name                  | availability      | notable stats                                  | notes                                                                                                                                                                                                                                                                                                                                  |
-| ----: | :-------------------- | :---------------- | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    10 | Red Christmas Sock    | event, gachapon   | +1 WATK, 7 slots, +6 MDEF                      | Facestompers Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. Notably has two more slots than Facestompers!                                                                                                                                                                            |
-|    10 | Navy Christmas Sock   | event, gachapon   | +1 STR, 7 slots, +6 MDEF                       | Red Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                               |
-|    10 | Purple Christmas Sock | event, gachapon   | +1 DEX, 7 slots, +6 MDEF                       | Navy Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                              |
-|    26 | Whitebottom Boots     | **NPC**, **drop** | +3 SPEED                                       | If all else fails, a little SPEED and a little WDEF is better than nothing. They even come in four different colors!                                                                                                                                                                                                                   |
-|    30 | Squishy Shoes         | **party quest**   | +1 all-stat, +3 SPEED, +5 MDEF                 | Nab one (or more) of these if at all possible, from KPQ.                                                                                                                                                                                                                                                                               |
-|    30 | Blue Snowshoes        | **NPC**           | 7 slots, +10 MDEF                              | The only footwear in this table that has any job requirements. The idea here is to make use of the two extra slots to get even more DEX from scrolling. The availability from an NPC for just 28k mesos makes this really possible.                                                                                                    |
-|    50 | Yellow Snowshoes      | rare drop         | +3 DEX, 7 slots, +10 MDEF                      | Although this is a dropped item, good luck getting it from Female Boss! Very powerful.                                                                                                                                                                                                                                                 |
-|    50 | Facestompers          | rare craft        | +2 WATK, +5 MDEF                               | For obvious reasons, the highest potential power of any footwear (actually, this distinction _technically_ goes to the Red Christmas Sock, because it has more slots). Implementations vary widely on whether or not these are obtainable, and if so, how you get them, but in GMS, these were craftable (but not easily, of course!). |
-|    80 | Violet Snowshoes      | rare drop         | 7 slots, +5 JUMP, +5 SPEED, +20 MDEF, +50 WDEF | Mostly known for having 7 slots (instead of 5), these also have pretty decent stats. Good luck getting a pair from The Boss!                                                                                                                                                                                                           |
+| level | name                 | availability      | TMA | notable stats                                  | notes                                                                                                                                                                                                                                 |
+| ----: | :------------------- | :---------------- | --: | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    10 | White Christmas Sock | event             |   1 | +1 INT, 7 slots, +6 MDEF                       |                                                                                                                                                                                                                                       |
+|    26 | Whitebottom Boots    | **NPC**, **drop** |   0 | +3 SPEED                                       | If all else fails, a little SPEED and a little WDEF is better than nothing. They even come in four different colors!                                                                                                                  |
+|    30 | Squishy Shoes        | **party quest**   |   1 | +1 all-stat, +3 SPEED, +5 MDEF                 | Nab one (or more) of these if at all possible, from KPQ.                                                                                                                                                                              |
+|    30 | Blue Snowshoes       | **NPC**           |   0 | 7 slots, +10 MDEF                              | The only footwear in this table that has any job requirements. The idea here is to make use of the two extra slots to get even more AVOID from scrolling. The availability from an NPC for just 28k mesos makes this really possible. |
+|    50 | Yellow Snowshoes     | rare drop         |   3 | +3 INT, +3 DEX, 7 slots, +10 MDEF              | Although this is a dropped item, good luck getting it from Female Boss! Very powerful.                                                                                                                                                |
+|    80 | Violet Snowshoes     | rare drop         |   0 | 7 slots, +5 JUMP, +5 SPEED, +20 MDEF, +50 WDEF | Mostly known for having 7 slots (instead of 5), these also have pretty decent stats. Good luck getting a pair from The Boss!                                                                                                          |
+
+Jewelery Shoes (which come in three colours: Blue, Purple, Red) may be worth
+looking into, if you can get the 62 INT needed to equip them. They grant +1 INT
+on average.
 
 #### Gloves
 
-Again, no access to magician-specific gloves. Generally, there are two kinds of
-gloves that you might want: gloves scrolled for WATK, and gloves scrolled for
-DEX/ACC. The usual suspects here are obvious: various colors of Work Gloves,
-Green Mittens, various colors of Markers, &amp;c. Scrolling for WATK is
-obviously _ideal_, although scrolling for DEX/ACC is very useful when you are
-having accuracy troubles.
+Again, no real access to magician-specific gloves (other than Marbas Gloves,
+again depending on implementation). You will want to get some gloves with no
+job requirements, and scroll them for MATK. Some notable ones (more interesting
+than plain Work Gloves):
 
-Notable, however, is the fact that STR clerics are the only job besides gishes
-that can make full use of Flamekeeper Cordons. The ACC is extremely helpful,
-and the MATK helps make your Heal more effective.
+| level | name                   | availability          | TMA | notable stats     | notes                                                                          |
+| ----: | :--------------------- | :-------------------- | --: | :---------------- | :----------------------------------------------------------------------------- |
+|    10 | Purple Work Gloves     | gachapon              |   0 | +1 LUK            |                                                                                |
+|    10 | Yellow Work Gloves     | **drop**, gachapon    |   1 | +1 INT            | Drops from Cheap Amplifiers in Taipei 101.                                     |
+|    20 | Pink Marker            | gachapon              |   0 | +2 LUK            |                                                                                |
+|    20 | Red Marker             | gachapon              |   2 | +2 INT            |                                                                                |
+|    35 | Mushking Leather Glove | **quest**             |   2 | +2 MATK           | Requires access to Mushroom Kingdom.                                           |
+|    50 | Goddess Wristband      | **party quest**       |   1 | +1 MATK, +10 MDEF | Available from completing OPQ (Orbis Party Quest) a requisite number of times. |
+|    50 | Flamekeeper Cordon     | rare party quest drop |   8 | +8 MATK           | Available from CWKPQ (Crimsonwood Keep Party Quest).                           |
+
+A cheap way of getting a decent pair of gloves is to take a pair that already
+has a TMA of 1 or 2 clean, and then scrolling all 5 slots with 100% MATK
+scrolls.
+
+Again, Green and Purple Morricans may be worth looking into, if you can get the
+62 INT needed to equip them. They grant +1 and +2 INT on average, respectively.
 
 #### Capes
 
-Not much to say here, since capes work essentially the same, regardless of
-build. The ideal here is a pink cape that is Chaos Scrolled for WATK and/or
-scrolled for DEX.
+Again, we are generally looking for the highest TMA possible. This usually
+means going for a Purple Adventurer Cape or a Purple Gaia Cape, if possible.
+Here are some notable capes:
+
+| level | name                                | availability     | TMA | notable stats                                       | notes                                                                                                                 |
+| ----: | :---------------------------------- | :--------------- | --: | :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+|    25 | Stirgeman Raggedy Cape              | rare craft       |   0 | +5 AVOID                                            | Part of the iTCG-only &ldquo;Stirgeman&rdquo; collection of items, which are crafted to obtain random up/down-grades. |
+|    25 | Old Raggedy Cape                    | **quest**        |   0 | +10 AVOID                                           |                                                                                                                       |
+|    25 | Ragged Black Cape                   | gachapon         |   1 | +1 MATK                                             | Has zero (0) slots in MapleLegends.                                                                                   |
+|    35 | Stirgeman Cape Mk II                | rare craft       |   0 | +10 AVOID, +10 MAXMP, +5 WDEF, +5 MDEF              | Part of the iTCG-only &ldquo;Stirgeman&rdquo; collection of items, which are crafted to obtain random up/down-grades. |
+|    35 | Cape of warmness                    | **quest**        |   0 | +10 AVOID, +7 MDEF, +5 WDEF                         |                                                                                                                       |
+|    42 | Icarus Cape (1)                     | **quest**        |   0 | +15 AVOID                                           |                                                                                                                       |
+|    45 | Stirgeman Cape Mk III               | rare craft       |   0 | +10 AVOID, +40 MAXHP, +40 MAXMP, +10 WDEF, +10 MDEF | Part of the iTCG-only &ldquo;Stirgeman&rdquo; collection of items, which are crafted to obtain random up/down-grades. |
+|    50 | Yellow Adventurer Cape              | gachapon         |   0 | 8 slots                                             |                                                                                                                       |
+|    50 | Purple Adventurer Cape              | gachapon         |   7 | +7 MATK, +7 WDEF, +7 MDEF                           |                                                                                                                       |
+|    50 | Stirgeman Cape Mk IV                | rare craft       |   0 | +2 LUK, +2 DEX, +10 WDEF, +10 MDEF                  | Part of the iTCG-only &ldquo;Stirgeman&rdquo; collection of items, which are crafted to obtain random up/down-grades. |
+|    50 | Stirgeman&rsquo;s Cloak of Darkness | rare craft       |   0 | +20 AVOID, +25 WDEF, +10 MDEF                       | Part of the iTCG-only &ldquo;Stirgeman&rdquo; collection of items, which are crafted to obtain random up/down-grades. |
+|    65 | Yellow Gaia Cape                    | gachapon         |   0 | 8 slots, +10 WDEF, +10 MDEF                         |                                                                                                                       |
+|    65 | Purple Gaia Cape                    | gachapon         |   6 | +6 MATK, +24 MDEF, +19 WDEF                         |                                                                                                                       |
+|    90 | Crimsonheart Cloak                  | rare party quest |   4 | +4 all-stat, 8 slots, +40 MDEF, +35 WDEF            | Available from CWKPQ (Crimsonwood Keep Party Quest).                                                                  |
+|   120 | Goldensoul Cape                     | rare party quest |   3 | +3 INT, +100 MAXHP, +55 MDEF, +50 WDEF              | Available from CWKPQ (Crimsonwood Keep Party Quest).                                                                  |
 
 #### Earrings
 
-You will, predictably, want to scroll your earrings for DEX. To this end,
+You will, predictably, want to scroll your earrings for INT. To this end,
 earrings that can be purchased from NPCs (and possibly others that are
 similarly easy to farm) are likely going to be what you end up with. However,
-there are some earrings that come with stats (particularly, DEX) right out of
-the box:
+there are some earrings that come with stats (particularly, INT/MATK) right out
+of the box:
 
-| level | name                                          | availability    | notable stats            | notes                                                                                                                                                             |
-| ----: | :-------------------------------------------- | :-------------- | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    45 | Piercing of the Free Spirit                   | **quest**       | +1 all-stat, 4 slots     | May be available if your implementation has all of the Kerning Square quests implemented. Unfortunately only 4 slots (rather than the usual 5).                   |
-|    50 | Altaire Earrings; Glittering Altaire Earrings | **party quest** | +1 all-stat; +2 all-stat | May be available as a reward for Ellin Party Quest.                                                                                                               |
-|    80 | Gold Emerald Earrings                         | rare drop       | +2 DEX, +5 INT           | Dropped by The Boss. Good luck getting a pair. STR clerics and gishes are the only jobs that can really make use of both the DEX and the INT from these earrings. |
+| level | name                                          | availability       |  TMA | notable stats                 | notes                                                                                                                                                                                        |
+| ----: | :-------------------------------------------- | :----------------- | ---: | :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    25 | Fallen Leaf Earrings                          | **drop**, gachapon |    1 | +1 MATK, +25 MAXHP, +25 MAXMP |                                                                                                                                                                                              |
+|    30 | Red Emerald Earrings                          | gachapon           |    2 | +2 INT                        |                                                                                                                                                                                              |
+|    40 | Crystal Leaf Earrings                         | rare craft         |    3 | +3 MATK, 6 slots              | John Barricade craft item.                                                                                                                                                                   |
+|    45 | Piercing of the Free Spirit                   | **quest**          |    1 | +1 all-stat, 4 slots          | May be available if your implementation has all of the Kerning Square quests implemented. Unfortunately only 4 slots (rather than the usual 5).                                              |
+|    50 | Altaire Earrings; Glittering Altaire Earrings | **party quest**    | 1; 2 | +1 all-stat; +2 all-stat      | May be available as a reward for Ellin Party Quest.                                                                                                                                          |
+|    80 | Gold Emerald Earrings                         | rare drop          |    5 | +5 INT, +2 DEX                | Dropped by The Boss. Good luck getting a pair. STR clerics/priests/bishops, and gishes/gishlets, are the only jobs that can really make use of both the DEX and the INT from these earrings. |
 
 #### Eyewear
 
-We&rsquo;re mostly looking for DEX and ACC here. Eyewear can be scrolled for
-ACC (and 10%/30% scrolls for eyewear for ACC will give +1 DEX on success).
-Eyewear is the same for all jobs, essentially, but of particular note here are
-Broken Glasses (+1 all-stat, available from LPQ) and Spectrum Goggles (+1 STR,
-+1 DEX, gachapon-only).
+Again, we&rsquo;re mostly looking for TMA here. Eyewear can be scrolled for
+INT. Eyewear is the same for all jobs, essentially, but of particular note here
+are:
+
+- Broken Glasses: +1 all-stat, 3 slots, available from LPQ.
+- (White) Raccoon Mask: 7 slots, gachapon-only.
 
 #### Facewear
 
-Again, mostly looking for DEX and ACC. Facewear is easier to scroll for DEX
-than Eyewear, simply because scrolls for facewear for AVOID will give DEX on
-success, even in the case of 60%/70% scrolls (as opposed to only giving DEX on
-the success of 10%/30% scrolls). Of particular note are Sad Masks, which give
-an average of +10 ACC out of the box. There are also various other face
-accessories that may or may not be available, depending on your implementation,
-and the ones that you&rsquo;ll want are generally any that give WATK and/or DEX
-and/or STR and/or ACC right out of the box. However, anything with slots can be
-scrolled with AVOID scrolls.
+Facewear is best scrolled with AVOID. To this end, Angry Masks are ideal, as
+they have 7 slots and come with an average of +1 AVOID when clean.
 
 ### Other items
 
 #### Potions/food/drinks
 
-As a STR mage, you want all of the WATK that you can get. To this end, you will
-probably want potions/food/drinks that give WATK buffs. This is true
-particularly because your expected damage capabilities in melee are going to be
-subpar when compared to ordinary (non-odd) jobs specialized in melee combat
-(warriors, bandits, brawlers). Being smart with how you acquire and use WATK
-buffs can help to narrow this gap. For WATK buffs that are available from NPCs
-(&ldquo;WATK&sdot;s/meso&rdquo; is the magnitude of the WATK buff given,
+As a magelet, you want all of the MATK that you can get. To this end, magelet
+clerics/priests/bishops &mdash; as well as other magelets who have yet to max
+out Meditation &mdash; will probably want potions/food/drinks that give MATK
+buffs. For MATK buffs that are available from NPCs
+(&ldquo;MATK&sdot;s/meso&rdquo; is the magnitude of the MATK buff given,
 multiplied by the duration, divided by the price per unit, and
 &ldquo;meso/s&rdquo; is the cost of one second of the buff):
-
-| name                    | WATK | WATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              | notes                                                                                                                                                                                                                                           |
-| :---------------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mapleade                |    2 |            0.024 | 83.333 |    30:00 |   150,000 | NLC                                                                                                                                                                                                         | Not actually a good idea, of course, but just here for completeness.                                                                                                                                                                            |
-| Cherry Pie              |    2 |            0.320 |  6.250 |     8:00 |     3,000 | NLC                                                                                                                                                                                                         | Not actually a good idea, of course, but just here for completeness.                                                                                                                                                                            |
-| Warrior Potion          |    5 |            1.800 |  2.777 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |                                                                                                                                                                                                                                                 |
-| Warrior Pill            |    5 |            6.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |                                                                                                                                                                                                                                                 |
-| Chili Crab              |    8 |            0.706 | 11.333 |    10:00 |     6,800 | Singapore, Malaysia                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
-| Pepper Crab             |    8 |            0.750 | 10.667 |     5:00 |     3,200 | Singapore, Malaysia                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
-| Takoyaki (Jumbo)        |    8 |            1.143 |  7.000 |    10:00 |     4,200 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
-| Takoyaki (Octopus Ball) |    8 |            1.200 |  6.667 |     5:00 |     2,000 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
-| Kangkung Belacan        |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |                                                                                                                                                                                                                                                 |
-| Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
-| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 5 per stack, so they use up inventory space very inefficiently. |
-
-The items here are in ascending order of WATK, breaking any ties by sorting in
-ascending order of WATK&sdot;s/meso. The two stand-out items here are the
-Warrior Pill and the Cider. Both are tied for first place w.r.t.
-WATK&sdot;s/meso, with the Warrior Pill being the low-cost but low-WATK
-alternative to the higher-cost but higher-WATK Cider. This makes Ciders great
-for doing big damage without breaking the bank or running into scarcity (as you
-might with items that give WATK buffs greater than +20), and Warrior Pills
-great for a WATK buff that you can have on at all times for a very low meso
-cost (just 0.833 meso/s!).
-
-Ciders, however, are burdened by only stacking up to 5 per inventory slot (they
-are not burdened by the &minus;5 ACC debuff, since hat is easily cancelled
-out); as a result, if you want the highest store-bought WATK buff possible,
-_and_ you haven&rsquo;t the inventory space for Ciders, Warrior Elixirs are
-your best bet. Other entries here are either not useful, or are situationally
-useful when you happen to be near an NPC that sells them.
-
-Also of note are accuracy potions/food/drinks. I recommend the use of Sniper
-Pills (+10 ACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
-until you get Bless to at least level 10. Of course, you only have to use these
-on an as-needed basis.
-
-When not in a party with someone who can cast Meditate on you, you may want a
-MATK buff to make your Heal more substantial:
 
 | name             | MATK | MATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              |
 | :--------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Magic Potion     |    5 |            1.800 |  2.778 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |
 | Magic Pill       |    5 |            6.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |
-| Kangkung Belacan |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |
-| Yakisoba         |   10 |            1.667 |  6.000 |     5:00 |     1,800 | Mushroom Shrine                                                                                                                                                                                             |
+| Kangkung belacan |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |
+| Mini Coke        |    8 |            8.727 |  0.917 |    20:00 |     1,100 | Coke Town                                                                                                                                                                                                   |
 | Yakisoba (x2)    |   10 |            1.579 |  6.333 |    10:00 |     3,800 | Mushroom Shrine                                                                                                                                                                                             |
-| Wizard Elixir    |   20 |            1.920 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |
+| Yakisoba         |   10 |            1.667 |  6.000 |     5:00 |     1,800 | Mushroom Shrine                                                                                                                                                                                             |
+| Coke Pill        |   10 |           12.000 |  0.833 |    15:00 |       750 | Coke Town                                                                                                                                                                                                   |
+| Coke Lite Pill   |   12 |            7.200 |  1.667 |    15:00 |     1,500 | Coke Town                                                                                                                                                                                                   |
+| Coke Zero Pill   |   15 |            4.500 |  3.333 |    15:00 |     3,000 | Coke Town                                                                                                                                                                                                   |
+| Wizard Elixir    |   20 |            1.920 | 10.417 |     8:00 |     5,000 | New Leaf City                                                                                                                                                                                               |
 
-The clear winners here are the Magic Pill and the Wizard Elixir: the Magic Pill
-for a very cheap and sustainable buff, and the Wizard Elixir for a much more
-heavy-duty buff.
+The items here are in ascending order of MATK, breaking any ties by sorting in
+ascending order of MATK&sdot;s/meso. The highlights here are the Coke Town
+pills and the Wizard Elixir: Wizard Elixirs simply give the largest buff, at a
+whopping +20 MATK buff making Meditation unnecessary for its duration, and the
+Coke Town pills are the most efficient (with the Coke Pill coming in at a
+whopping 12 MATK&sdot;s/meso!).
+
+In the absence of Coke Town, Magic Pills are also quite efficient.
+
+Magelets who are not clerics/priests/bishops, and magelets who are clerics but
+have not yet maxed Bless, may want to look for consumables that grant AVOID
+buffs:
+
+| name             | AVOID | AVOID&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              | notes                                                |
+| :--------------- | ----: | ----------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- |
+| Dexterity Potion |     5 |             1.800 |  2.778 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |                                                      |
+| Dexterity Pill   |    10 |            12.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |                                                      |
+| Thief Elixir     |    15 |             1.440 | 10.417 |     8:00 |     5,000 | New Leaf City                                                                                                                                                                                               | Not actually very useful, but here for completeness. |
+| Archer Elixir    |    20 |             1.920 | 10.417 |     8:00 |     5,000 | New Leaf City                                                                                                                                                                                               |                                                      |
+
+The clear winner here is the Dexterity Pill, although the Archer Elixir is
+quite useful as well, due to having the largest AVOID buff (equalling that of
+maxed Bless).

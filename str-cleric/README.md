@@ -1,6 +1,7 @@
 # The Divinely Blessed Knight-Errant, The Holy Physician Turned Armed Zealot: The STR Cleric
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote>
 War has many manifestations. It can make heroes of ordinary people. It can be
@@ -17,7 +18,8 @@ as prayers.
 </blockquote>
 
 ![A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper
-Cordons](./str-cleric.png "A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
+Cordons](./str-cleric.png
+"A STR cleric, brandishing a Flaming Katana, Maple Shield, and Flamekeeper Cordons")
 
 The **STR cleric** is an odd job/odd build in MapleStory that represents just
 one of the three possible specializations of STR mages, the other two being the
@@ -131,7 +133,7 @@ INT:
 
 - Increases the effectiveness of Heal.
 - Increases MDEF.
-- Increases MaxMP gain on level-up.
+- Increases MAXMP gain on level-up.
 
 LUK:
 
@@ -153,9 +155,9 @@ early as possible.
 | ----------: | :-------------------------------------------------------------- |
 |           8 | +1 Improved MP Recovery \[1\]                                   |
 |           9 | +3 Improved MP Recovery \[4\]                                   |
-|          10 | +2 Improved MaxMP Increase \[2\], +1 Improved MP Recovery \[5\] |
-| 11&ndash;12 | +3 Improved MaxMP Increase \[8\]                                |
-|          13 | +2 Improved MaxMP Increase \[**MAX**\], +1 Magic Guard \[1\]    |
+|          10 | +2 Improved MAXMP Increase \[2\], +1 Improved MP Recovery \[5\] |
+| 11&ndash;12 | +3 Improved MAXMP Increase \[8\]                                |
+|          13 | +2 Improved MAXMP Increase \[**MAX**\], +1 Magic Guard \[1\]    |
 | 14&ndash;17 | +3 Magic Guard \[13\]                                           |
 | 18&ndash;23 | +3 Magic Armor \[18\]                                           |
 |          24 | +2 Magic Armor \[**MAX**\], +1 Magic Guard \[14\]               |
@@ -169,7 +171,7 @@ early as possible.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
+| **Improved MAXMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |      1 |        20 |
@@ -178,10 +180,10 @@ early as possible.
 </details>
 
 SP allocation for first job is pretty straightforward: we need to max Improved
-MaxMP Increase ASAP, especially considering that we are INTless and thus need
-all of the MaxMP that we can get. Then we quickly get Magic Guard to level 13,
+MAXMP Increase ASAP, especially considering that we are INTless and thus need
+all of the MAXMP that we can get. Then we quickly get Magic Guard to level 13,
 at which point 55% of incoming damage is taken out of our MP (and 45% out of
-our HP). We stop there because at this point, we don&rsquo;t have much MaxMP to
+our HP). We stop there because at this point, we don&rsquo;t have much MAXMP to
 use Magic Guard with anyways, and also Magic Armor is just better defense at
 this level. So we quickly max Magic Armor, and then go back and max Magic
 Guard. Then we have leftover SPs; we can use these to max out the cost-saving
@@ -217,7 +219,7 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
+| **Improved MAXMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |     DC |        20 |
@@ -268,7 +270,7 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
+| **Improved MAXMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |     DC |        20 |
@@ -318,7 +320,7 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
+| **Improved MAXMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |     DC |        20 |
@@ -379,7 +381,7 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 | skill                       |  level | max level |
 | :-------------------------- | -----: | --------: |
 | **Improved MP Recovery**    | **16** |    **16** |
-| **Improved MaxMP Increase** | **10** |    **10** |
+| **Improved MAXMP Increase** | **10** |    **10** |
 | **Magic Guard**             | **20** |    **20** |
 | **Magic Armor**             | **20** |    **20** |
 | Energy Bolt                 |     DC |        20 |
@@ -454,23 +456,24 @@ their Heal power:
 | Green Umbrella                     |     8 |   25 | 1H sword |   12 |                                | 10 LUK                     |
 | Fruity Bamboo                      |    22 |   37 | 1H BW    |   40 | +8 SPEED                       |                            |
 | Light Purple Umbrella              |    25 |   39 | 1H sword |   41 |                                | 6 STR                      |
-| Poison Mushroom                    |    30 |   45 | staff    |   30 | +50 MaxHP                      | 10 LUK                     |
-| Green Paint Brush                  |    30 |   45 | 1H axe   |   48 | +30 MaxHP                      | 5 STR                      |
-| Pumpkin Lantern                    |    30 |   55 | 2H sword |   55 | +50 MaxHP                      |                            |
-| Maple Staff                        |    35 |   48 | staff    |   35 | +100 MaxHP                     |                            |
+| Poison Mushroom                    |    30 |   45 | staff    |   30 | +50 MAXHP                      | 10 LUK                     |
+| Green Paint Brush                  |    30 |   45 | 1H axe   |   48 | +30 MAXHP                      | 5 STR                      |
+| Pumpkin Lantern                    |    30 |   55 | 2H sword |   55 | +50 MAXHP                      |                            |
+| Maple Staff                        |    35 |   48 | staff    |   35 | +100 MAXHP                     |                            |
 | Flaming Katana                     |    38 |   40 | 1H sword |   65 | +17 SPEED                      |                            |
 | Yellow Umbrella                    |    40 |   52 | 1H sword |   54 |                                |                            |
-| Nocturnal Staff                    |    43 |   58 | staff    |   39 | +100 MaxHP, +50 MaxMP          |                            |
-| Maple Lama Staff                   |    43 |   58 | staff    |   39 | +100 MaxHP, +50 MaxMP          |                            |
+| Nocturnal Staff                    |    43 |   58 | staff    |   39 | +100 MAXHP, +50 MAXMP          |                            |
+| Maple Lama Staff                   |    43 |   58 | staff    |   39 | +100 MAXHP, +50 MAXMP          |                            |
 | Beige Umbrella                     |    43 |   60 | 1H sword |   60 |                                | 5 STR, 5 DEX, 5 INT, 5 LUK |
 | Diao Chan Sword                    |    48 |   60 | 1H sword |   69 | +1 INT, +1 DEX, +1 STR         |                            |
 | Super Snowboard                    |    50 |   75 | polearm  |   75 | +8 SPEED                       |                            |
-| Maple Shine Wand                   |    64 |   80 | wand     |   49 | +1 INT, +100 MaxHP, +100 MaxMP |                            |
-| Maple Wisdom Staff                 |    64 |   60 | staff    |   50 | +1 INT, +150 MaxHP, +50 MaxMP  |                            |
+| Heart Wand                         |    54 |   68 | wand     |   45 | +2 INT, +50 MAXHP              |                            |
+| Maple Shine Wand                   |    64 |   80 | wand     |   49 | +1 INT, +100 MAXHP, +100 MAXMP |                            |
+| Maple Wisdom Staff                 |    64 |   80 | staff    |   50 | +1 INT, +150 MAXHP, +50 MAXMP  |                            |
 | Black Umbrella                     |    70 |   85 | 1H sword |   85 |                                | 6 STR, 6 DEX, 6 INT, 6 LUK |
 | Elemental Wand 3; Elemental Wand 4 |    70 |   85 | wand     |   56 | +1 LUK                         |                            |
 | Elemental Wand 1; Elemental Wand 2 |    70 |   85 | wand     |   56 | +1 INT                         |                            |
-| Kebob                              |    75 |   90 | dagger   |   83 | +50 MaxHP                      |                            |
+| Kebob                              |    75 |   90 | dagger   |   83 | +50 MAXHP                      |                            |
 | Crimson Arcglaive                  |   100 |   89 | polearm  |  102 | +2 STR, +5 SPEED               | 300 STR, 80 DEX            |
 | Elemental Wand 7; Elemental Wand 8 |   130 |  145 | wand     |   92 | +2 LUK                         |                            |
 | Elemental Wand 5; Elemental Wand 6 |   130 |  145 | wand     |   92 | +2 INT                         |                            |
@@ -513,23 +516,30 @@ availability &mdash; that is, NPCs, (party) quests, monster drops, and crafting
 | ----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     0 | Mark of the Beta; Genesis Bandana; Maple Bandana Yellow; Maple Bandana Red; Maple Bandana Blue; Yellow Maple Bandana; Red Maple Bandana; Blue Maple Bandana | event              | +1 all-stat, +15 WDEF; +1 all-stat; +2 all-stat; +3 all-stat; +4 all-stat | These are event-exclusive all-stat hats that range from +1 all-stat to +4 all-stat. Also, the Mark of the Beta and the Genesis Bandana in particular have 15 WDEF, which is nice (unlike the others, which lack defense entirely). These are highly desirable in the absence of the Amdusias Hat, as you can benefit from almost all of the stats (particularly DEX). |
 |     5 | Red Headband                                                                                                                                                | **NPC**            | +1 ACC                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
-|     8 | Maple Hat \[2\]                                                                                                                                             | event              | +1 all-stat, +20 WDEF, +40 MDEF, +10 MaxHP, +10 MaxMP                     | An event-exclusive +1 all-stat hat that is superior to any of the +1 all-stat hats that are level 0.                                                                                                                                                                                                                                                                  |
+|     8 | Maple Hat \[2\]                                                                                                                                             | event              | +1 all-stat, +20 WDEF, +40 MDEF, +10 MAXHP, +10 MAXMP                     | An event-exclusive +1 all-stat hat that is superior to any of the +1 all-stat hats that are level 0.                                                                                                                                                                                                                                                                  |
 |    10 | Red Bandana                                                                                                                                                 | **drop**, gachapon | +1 ACC, +8 WDEF                                                           | Basically just the Red Headband, but with slightly better defense. If you&rsquo;re lucky, you got a +2 ACC one from a Zombie Lupin (or from a monster in China, if you&rsquo;re playing MapleLegends).                                                                                                                                                                |
 |    10 | Blue Bandana                                                                                                                                                | **drop**, gachapon | +1 STR                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
 |    10 | Yellow Bandana                                                                                                                                              | gachapon           | +1 DEX                                                                    |                                                                                                                                                                                                                                                                                                                                                                       |
 |    10 | Brown Bandana                                                                                                                                               | gachapon           | +5 ACC                                                                    | Gachapon-only ACC hat that is far superior to the Red Headband/Bandana, with +5 ACC on average.                                                                                                                                                                                                                                                                       |
 |    15 | Blue Metal Gear                                                                                                                                             | **craft**          | +1 STR, +12 WDEF                                                          | +1 STR hat that can be fairly easily crafted. Better WDEF than the colored bandanas.                                                                                                                                                                                                                                                                                  |
+|    20 | Black Old Wisconsin                                                                                                                                         | gachapon           | +20 MAXHP, +20 MAXMP, 10 slots                                            | Defensive hat. Does not exist in MapleLegends, as far as I know.                                                                                                                                                                                                                                                                                                      |
+|    20 | Talking Witch Hat                                                                                                                                           | event              | +1 all-stat, +100 MAXMP                                                   | Halloween event item.                                                                                                                                                                                                                                                                                                                                                 |
 |    20 | Blue Old Wisconsin                                                                                                                                          | gachapon           | +7 ACC                                                                    | Gachapon-only ACC hat that is even better than the Brown Bandana, with +7 ACC on average.                                                                                                                                                                                                                                                                             |
-|    20 | White Starry Bandana                                                                                                                                        | gachapon           | +50 MaxHP, +15 WDEF, +50 MaxMP                                            | Defensive headgear.                                                                                                                                                                                                                                                                                                                                                   |
-|    25 | Ribboned Pig Headband                                                                                                                                       | **quest**          | +50 MaxHP                                                                 | +50 MaxHP hat that can be obtained from quests, unlike its gachapon-only counterparts; good for racking up HP gear.                                                                                                                                                                                                                                                   |
+|    20 | White Starry Bandana                                                                                                                                        | gachapon           | +50 MAXHP, +15 WDEF, +50 MAXMP                                            | Defensive headgear.                                                                                                                                                                                                                                                                                                                                                   |
+|    25 | Ribboned Pig Headband                                                                                                                                       | **quest**          | +50 MAXHP                                                                 | +50 MAXHP hat that can be obtained from quests, unlike its gachapon-only counterparts; good for racking up HP gear.                                                                                                                                                                                                                                                   |
 |    25 | Green Bamboo Hat; Blue Bamboo Hat                                                                                                                           | **party quest**    | +3 DEX; +3 STR                                                            | A +3 DEX hat and a +3 STR hat, respectively, available from KPQ. Usually, try to get a blue one. Or get one of each!                                                                                                                                                                                                                                                  |
-|    30 | Maple Hat \[3\]                                                                                                                                             | event              | +2 all-stat, +35 WDEF, +50 MDEF, +12 MaxHP, +12 MaxMP                     | An event-exclusive +2 all-stat hat that is preferable to any of the +2 all-stat hats that are level 0.                                                                                                                                                                                                                                                                |
+|    30 | Maple Hat \[3\]                                                                                                                                             | event              | +2 all-stat, +35 WDEF, +50 MDEF, +12 MAXHP, +12 MAXMP                     | An event-exclusive +2 all-stat hat that is preferable to any of the +2 all-stat hats that are level 0.                                                                                                                                                                                                                                                                |
 |    30 | Black Starry Bandana                                                                                                                                        | gachapon           | +10 ACC, +25 WDEF                                                         | Gachapon-only ACC hat that is even better than the Blue Old Wisconsin, with +10 ACC on average.                                                                                                                                                                                                                                                                       |
 |    40 | Toymaker Cap                                                                                                                                                | **quest**          | +1 all-stat, +27 WDEF, +15 MDEF                                           | +1 all-stat hat with good WDEF, and decent MDEF(!), that can be obtained from Haunted Mansion quests.                                                                                                                                                                                                                                                                 |
-|    70 | Maple Hat \[4\]                                                                                                                                             | event              | +3 all-stat, +50 WDEF, +60 MDEF, +15 MaxHP, +15 MaxMP                     | An event-exclusive, +3 all-stat hat with very good defenses.                                                                                                                                                                                                                                                                                                          |
+|    60 | Lord Pirate&rsquo;s Hat \[1\]                                                                                                                               | **party quest**    | +2 all-stat, +45 WDEF, +45 MDEF, +30 MAXHP, +30 MAXMP, +3 SPEED, +1 JUMP  | Available from PPQ/HTPQ (Pirate Party Quest = Herb Town Party Quest).                                                                                                                                                                                                                                                                                                 |
+|    70 | Maple Hat \[4\]                                                                                                                                             | event              | +3 all-stat, +50 WDEF, +60 MDEF, +15 MAXHP, +15 MAXMP                     | An event-exclusive, +3 all-stat hat with very good defenses.                                                                                                                                                                                                                                                                                                          |
+|    70 | Lord Pirate&rsquo;s Hat \[2\]                                                                                                                               | **party quest**    | +3 all-stat, +60 WDEF, +60 MDEF, +40 MAXHP, +40 MAXMP, +4 SPEED, +1 JUMP  | Available from PPQ/HTPQ (Pirate Party Quest = Herb Town Party Quest).                                                                                                                                                                                                                                                                                                 |
+|    80 | Lord Pirate&rsquo;s Hat \[3\]                                                                                                                               | **party quest**    | +3 all-stat, +70 WDEF, +70 MDEF, +60 MAXHP, +60 MAXMP, +5 SPEED, +2 JUMP  | Available from PPQ/HTPQ (Pirate Party Quest = Herb Town Party Quest).                                                                                                                                                                                                                                                                                                 |
+|    90 | Lord Pirate&rsquo;s Hat \[4\]                                                                                                                               | **party quest**    | +5 all-stat, +90 WDEF, +90 MDEF, +90 MAXHP, +90 MAXMP, +7 SPEED, +4 JUMP  | Available from PPQ/HTPQ (Pirate Party Quest = Herb Town Party Quest).                                                                                                                                                                                                                                                                                                 |
+|    93 | Time Traveler&rsquo;s Circlet                                                                                                                               | **quest**          | +5 all-stat, +120 WDEF, +120 MDEF, +120 MAXHP, +120 MAXMP                 | Requires that your implementation have Neo Tokyo in it.                                                                                                                                                                                                                                                                                                               |
 
 This brings us to the ideal end-game hats: Zakum Helmets, and
-&ldquo;Scar/Tar&rdquo; (Scarlion and Targar) hats. These headgears are so
+&ldquo;Scar/Tar&rdquo; (Scarlion and Targa) hats. These headgears are so
 incredibly powerful that they need no introduction. Zakum Helmets are generally
 more accessible, as Zakum tends to be run fairly often in most implementations,
 and only requires level 50 (instead of the level 80 of Scar/Tar hats). Scar/Tar
@@ -547,7 +557,7 @@ of Chaos Scrolls.
 
 Again, like with headgear, STR mages unfortunately largely lack access to
 magician-specific attire of this kind (tops, bottoms, and overalls). This,
-again, puts the woodsman in a similar situation as their permabeginner
+again, puts the STR mage in a similar situation as their permabeginner
 counterparts. The idea here is typically to scroll an overall for DEX and/or
 STR &mdash; unfortunately, tops cannot be scrolled for DEX, although it is also
 possible to go the route of scrolling a bottom for DEX and scrolling a top for
@@ -584,9 +594,9 @@ The usual suspects here are:
 
 | level | name                  | availability      | notable stats                                  | notes                                                                                                                                                                                                                                                                                                                                  |
 | ----: | :-------------------- | :---------------- | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    10 | Red Christmas Sock    | event, gachapon   | +1 WATK, 7 slots, +6 MDEF                      | Facestompers Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. Notably has two more slots than Facestompers!                                                                                                                                                                            |
-|    10 | Navy Christmas Sock   | event, gachapon   | +1 STR, 7 slots, +6 MDEF                       | Red Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                               |
-|    10 | Purple Christmas Sock | event, gachapon   | +1 DEX, 7 slots, +6 MDEF                       | Navy Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                              |
+|    10 | Red Christmas Sock    | event             | +1 WATK, 7 slots, +6 MDEF                      | Facestompers Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. Notably has two more slots than Facestompers!                                                                                                                                                                            |
+|    10 | Navy Christmas Sock   | event             | +1 STR, 7 slots, +6 MDEF                       | Red Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                               |
+|    10 | Purple Christmas Sock | event             | +1 DEX, 7 slots, +6 MDEF                       | Navy Christmas Sock Lite&trade;. Good luck getting your hands on one of these, if they exist in your implementation. At least they should be easier to get than red ones.                                                                                                                                                              |
 |    26 | Whitebottom Boots     | **NPC**, **drop** | +3 SPEED                                       | If all else fails, a little SPEED and a little WDEF is better than nothing. They even come in four different colors!                                                                                                                                                                                                                   |
 |    30 | Squishy Shoes         | **party quest**   | +1 all-stat, +3 SPEED, +5 MDEF                 | Nab one (or more) of these if at all possible, from KPQ.                                                                                                                                                                                                                                                                               |
 |    30 | Blue Snowshoes        | **NPC**           | 7 slots, +10 MDEF                              | The only footwear in this table that has any job requirements. The idea here is to make use of the two extra slots to get even more DEX from scrolling. The availability from an NPC for just 28k mesos makes this really possible.                                                                                                    |
@@ -697,7 +707,7 @@ Pills (+10 ACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
 until you get Bless to at least level 10. Of course, you only have to use these
 on an as-needed basis.
 
-When not in a party with someone who can cast Meditate on you, you may want a
+When not in a party with someone who can cast Meditation on you, you may want a
 MATK buff to make your Heal more substantial:
 
 | name             | MATK | MATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              |
