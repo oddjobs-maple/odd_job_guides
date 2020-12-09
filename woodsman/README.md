@@ -325,15 +325,8 @@ long (first acquired at level 64)? For two main reasons:
    you are DEXless, and yet are wielding a weapon whose main damage stat is
    DEX. In your quest to ameliorate this problem as much as you can, one
    accessible source of WATK is that of the WATK bonuses granted by your
-   ammunition. Particularly, the cheapest kind are bronzed ammunition, which
-   grant +1 WATK and can be purchased from various NPCs for 10 mesos per unit
-   (20k mesos for a ream of 2k units). More beneficial are colored ammunition
-   (red for arrows, blue for quarrels), which grant a whopping +4 WATK, and can
-   be purchased in Showa Town for 40 mesos per unit (80k mesos for a ream of 2k
-   units); diamond ammunition grants the same bonus for half the price,
-   although diamond ammunition can only be purchased by those that are allies
-   of the Raven Ninja Clan. When Soul Arrow is active, you cannot benefit from
-   any special ammunition.
+   ammunition; see the &ldquo;Ammunition&rdquo; section for more details. When
+   Soul Arrow is active, you cannot benefit from any special ammunition.
 
 All of that being said, if you, for example, are playing on a server where you
 are starved for &ldquo;use&rdquo; inventory space, you can simply slip in the
