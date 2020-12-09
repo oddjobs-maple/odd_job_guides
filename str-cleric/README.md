@@ -682,28 +682,38 @@ multiplied by the duration, divided by the price per unit, and
 | Takoyaki (Jumbo)        |    8 |            1.143 |  7.000 |    10:00 |     4,200 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
 | Takoyaki (Octopus Ball) |    8 |            1.200 |  6.667 |     5:00 |     2,000 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
 | Kangkung Belacan        |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |                                                                                                                                                                                                                                                 |
+| Mini Coke               |    8 |            8.727 |  0.917 |    20:00 |     1,100 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
+| Coke Pill               |   10 |           12.000 |  0.833 |    15:00 |       750 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
 | Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
+| Coke Lite Pill          |   12 |            7.200 |  1.667 |    15:00 |     1,500 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
+| Coke Zero Pill          |   15 |            4.500 |  3.333 |    15:00 |     3,000 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
 | Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 5 per stack, so they use up inventory space very inefficiently. |
 
 The items here are in ascending order of WATK, breaking any ties by sorting in
-ascending order of WATK&sdot;s/meso. The two stand-out items here are the
-Warrior Pill and the Cider. Both are tied for first place w.r.t.
-WATK&sdot;s/meso, with the Warrior Pill being the low-cost but low-WATK
-alternative to the higher-cost but higher-WATK Cider. This makes Ciders great
-for doing big damage without breaking the bank or running into scarcity (as you
-might with items that give WATK buffs greater than +20), and Warrior Pills
-great for a WATK buff that you can have on at all times for a very low meso
-cost (just 0.833 meso/s!).
+ascending order of WATK&sdot;s/meso. The two stand-out items here (in the
+absence of Coke Town) are the Warrior Pill and the Cider. Both are tied for
+first place w.r.t. WATK&sdot;s/meso, with the Warrior Pill being the low-cost
+but low-WATK alternative to the higher-cost but higher-WATK Cider. This makes
+Ciders great for doing big damage without breaking the bank or running into
+scarcity (as you might with items that give WATK buffs greater than +20), and
+Warrior Pills great for a WATK buff that you can have on at all times for a
+very low meso cost (just 0.833 meso/s!).
 
-Ciders, however, are burdened by only stacking up to 5 per inventory slot (they
-are not burdened by the &minus;5 ACC debuff, since hat is easily cancelled
-out); as a result, if you want the highest store-bought WATK buff possible,
-_and_ you haven&rsquo;t the inventory space for Ciders, Warrior Elixirs are
-your best bet. Other entries here are either not useful, or are situationally
-useful when you happen to be near an NPC that sells them.
+With Coke Town, Ciders are still useful (they are still the largest WATK buff),
+but Coke Pills are then firmly in first place with respect to WATK&sdot;s/meso,
+and Coke Zero Pills become very viable as well, due to being the largest WATK
+buff that is _inventory-space efficient_. Ciders are burdened by only stacking
+up to 5 per inventory slot<sup>\[1\]</sup> (they are **not** burdened by the
+&minus;5 ACC debuff, because that is easily cancelled out); as a result, if you
+want the highest store-bought WATK buff possible, _and_ you haven&rsquo;t the
+inventory space for Ciders, Coke Zero Pills are your best bet &mdash; or
+Warrior Elixirs, in the absence of Coke Town. Other entries here (besides
+Ciders, Coke Pills, Coke Lite Pills, Coke Zero Pills, Warrior Pills, and
+Warrior Elixirs) are either not useful, or are situationally useful when you
+happen to be near an NPC that sells them.
 
 Also of note are accuracy potions/food/drinks. I recommend the use of Sniper
-Pills (+10 ACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
+Pills (+10 WACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
 until you get Bless to at least level 10. Of course, you only have to use these
 on an as-needed basis.
 
@@ -714,11 +724,32 @@ MATK buff to make your Heal more substantial:
 | :--------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Magic Potion     |    5 |            1.800 |  2.778 |     3:00 |       500 | Henesys, Kerning City, Ellinia, Perion, Lith Harbor, Nautilus, Orbis, El Nath, Aquarium, Mu Lung, KFT, Herb Town, Omega Sector, Leafre, Ariant, Magatia, Singapore, Malaysia, Ellin Forest, Mushroom Castle |
 | Magic Pill       |    5 |            6.000 |  0.833 |    10:00 |       500 | Ludibrium                                                                                                                                                                                                   |
-| Kangkung Belacan |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |
-| Yakisoba         |   10 |            1.667 |  6.000 |     5:00 |     1,800 | Mushroom Shrine                                                                                                                                                                                             |
+| Kangkung belacan |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |
+| Mini Coke        |    8 |            8.727 |  0.917 |    20:00 |     1,100 | Coke Town                                                                                                                                                                                                   |
 | Yakisoba (x2)    |   10 |            1.579 |  6.333 |    10:00 |     3,800 | Mushroom Shrine                                                                                                                                                                                             |
+| Yakisoba         |   10 |            1.667 |  6.000 |     5:00 |     1,800 | Mushroom Shrine                                                                                                                                                                                             |
+| Coke Pill        |   10 |           12.000 |  0.833 |    15:00 |       750 | Coke Town                                                                                                                                                                                                   |
+| Coke Lite Pill   |   12 |            7.200 |  1.667 |    15:00 |     1,500 | Coke Town                                                                                                                                                                                                   |
+| Coke Zero Pill   |   15 |            4.500 |  3.333 |    15:00 |     3,000 | Coke Town                                                                                                                                                                                                   |
 | Wizard Elixir    |   20 |            1.920 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |
 
-The clear winners here are the Magic Pill and the Wizard Elixir: the Magic Pill
-for a very cheap and sustainable buff, and the Wizard Elixir for a much more
-heavy-duty buff.
+The items here are in ascending order of MATK, breaking any ties by sorting in
+ascending order of MATK&sdot;s/meso. Note that the Coke Town entries from the
+WATK potions/foods/drinks table are here as well, because they all also grant a
+MATK buff that is equal in magnitude to their respective WATK buffs (this makes
+Coke Town pills extremely useful for STR clerics, as well as for
+gishes/gishlets). The highlights here are the Coke Town pills and the Wizard
+Elixir: Wizard Elixirs simply give the largest buff, at a whopping +20 MATK
+buff making Meditation unnecessary for its duration, and the Coke Town pills
+are the most efficient (with the Coke Pill coming in at a whopping 12
+MATK&sdot;s/meso!).
+
+In the absence of Coke Town, Magic Pills are also quite efficient.
+
+<details>
+<summary>Footnotes for &ldquo;Potions/food/drinks&rdquo;</summary>
+
+\[1\]: The actual maximum number of Ciders that stack per inventory slot can
+vary; the &ldquo;5&rdquo; figure used here is based on MapleLegends.
+
+</details>

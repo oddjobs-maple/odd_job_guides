@@ -1,6 +1,7 @@
 # The Martial Classicist, The Strongest Drawing Arm In All The Land: The Woodsman
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote cite="https://www.gutenberg.org/files/1727/1727-h/1727-h.htm">
 Meanwhile Ulysses, as long as his arrows lasted, had been shooting the suitors
@@ -17,7 +18,8 @@ translation).
 </blockquote>
 
 ![A woodsman, variously wielding the Composite Bow and the Monkey
-Wrench](./woodsman.png "A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
+Wrench](./woodsman.png
+"A woodsman, variously wielding the Composite Bow and the Monkey Wrench")
 
 The **woodsman** is an odd job/odd build in MapleStory that, at its core,
 represents the ability to both competently wield weapons of archery (bows
@@ -914,38 +916,51 @@ multiplied by the duration, divided by the price per unit, and
 | Takoyaki (Jumbo)        |    8 |            1.143 |  7.000 |    10:00 |     4,200 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
 | Takoyaki (Octopus Ball) |    8 |            1.200 |  6.667 |     5:00 |     2,000 | Mushroom Shrine                                                                                                                                                                                             |                                                                                                                                                                                                                                                 |
 | Kangkung Belacan        |    8 |            1.263 |  6.333 |    10:00 |     3,800 | Malaysia                                                                                                                                                                                                    |                                                                                                                                                                                                                                                 |
+| Mini Coke               |    8 |            8.727 |  0.917 |    20:00 |     1,100 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
+| Coke Pill               |   10 |           12.000 |  0.833 |    15:00 |       750 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
 | Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
+| Coke Lite Pill          |   12 |            7.200 |  1.667 |    15:00 |     1,500 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
+| Coke Zero Pill          |   15 |            4.500 |  3.333 |    15:00 |     3,000 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
 | Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 5 per stack, so they use up inventory space very inefficiently. |
 
 The items here are in ascending order of WATK, breaking any ties by sorting in
-ascending order of WATK&sdot;s/meso. The two stand-out items here are the
-Warrior Pill and the Cider. Both are tied for first place w.r.t.
-WATK&sdot;s/meso, with the Warrior Pill being the low-cost but low-WATK
-alternative to the higher-cost but higher-WATK Cider. This makes Ciders great
-for doing big damage without breaking the bank or running into scarcity (as you
-might with items that give WATK buffs greater than +20), and Warrior Pills
-great for a WATK buff that you can have on at all times for a very low meso
-cost (just 0.833 meso/s!).
+ascending order of WATK&sdot;s/meso. The two stand-out items here (in the
+absence of Coke Town) are the Warrior Pill and the Cider. Both are tied for
+first place w.r.t. WATK&sdot;s/meso, with the Warrior Pill being the low-cost
+but low-WATK alternative to the higher-cost but higher-WATK Cider. This makes
+Ciders great for doing big damage without breaking the bank or running into
+scarcity (as you might with items that give WATK buffs greater than +20), and
+Warrior Pills great for a WATK buff that you can have on at all times for a
+very low meso cost (just 0.833 meso/s!).
 
-Ciders, however, are burdened by only stacking up to 5 per inventory slot (they
-are not burdened by the &minus;5 ACC debuff, since hat is easily cancelled
-out); as a result, if you want the highest store-bought WATK buff possible,
-_and_ you haven&rsquo;t the inventory space for Ciders, Warrior Elixirs are
-your best bet. Other entries here are either not useful, or are situationally
-useful when you happen to be near an NPC that sells them.
-
-MapleLegends-specific note: Coke Zero Pills are the usual suspect here, because
-while they are inferior to Ciders in terms of WATK (15 &lt; 20), they stack
-much more efficiently (100 &gt; 5) and last longer (15:00 &gt; 5:00), thus
-making them considerably easier to use.
+With Coke Town, Ciders are still useful (they are still the largest WATK buff),
+but Coke Pills are then firmly in first place with respect to WATK&sdot;s/meso,
+and Coke Zero Pills become very viable as well, due to being the largest WATK
+buff that is _inventory-space efficient_. Ciders are burdened by only stacking
+up to 5 per inventory slot<sup>\[1\]</sup> (they are **not** burdened by the
+&minus;5 ACC debuff, because that is easily cancelled out); as a result, if you
+want the highest store-bought WATK buff possible, _and_ you haven&rsquo;t the
+inventory space for Ciders, Coke Zero Pills are your best bet &mdash; or
+Warrior Elixirs, in the absence of Coke Town. Other entries here (besides
+Ciders, Coke Pills, Coke Lite Pills, Coke Zero Pills, Warrior Pills, and
+Warrior Elixirs) are either not useful, or are situationally useful when you
+happen to be near an NPC that sells them.
 
 Also of note are accuracy potions/food/drinks. For woodsmen that are doing more
 of the &ldquo;melee specialised&rdquo; kind of build (see above), these are not
 really of much concern, since you get access to useful levels of the Focus
 skill relatively early on. For other woodsmen, I recommend the use of Sniper
-Pills (+10 ACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
+Pills (+10 WACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
 until you get Focus to at least level 10. Of course, you only have to use these
 on an as-needed basis.
+
+<details>
+<summary>Footnotes for &ldquo;Potions/food/drinks&rdquo;</summary>
+
+\[1\]: The actual maximum number of Ciders that stack per inventory slot can
+vary; the &ldquo;5&rdquo; figure used here is based on MapleLegends.
+
+</details>
 
 #### Ammunition
 
@@ -954,17 +969,18 @@ are a useful way to eke out a few extra WATK, whenever you are engaging in
 archery. Particularly, the cheapest kind are bronzed ammunition, which grant +1
 WATK and can be purchased from various NPCs (in the Aquarium, Ludibrium, KFT,
 Leafre, and the Omega Sector) for 10 mesos per unit (20k mesos for a ream of 2k
-units). More beneficial are colored ammunition (red for arrows, blue for
-quarrels), which grant a whopping +4 WATK, and can be purchased in Showa Town
-for 40 mesos per unit (80k mesos for a ream of 2k units); diamond ammunition
-grants the same bonus for half the price, although diamond ammunition can only
-be purchased by those that are allies of the Raven Ninja Clan.
+units)<sup>\[1\]</sup>. More beneficial are colored ammunition (red for arrows,
+blue for quarrels), which grant a whopping +4 WATK, and can be purchased in
+Showa Town for 40 mesos per unit (80k mesos for a ream of 2k
+units)<sup>\[2\]</sup>; diamond ammunition grants the same bonus for half the
+price<sup>\[3\]</sup>, although diamond ammunition can only be purchased by
+those who are allies of the Raven Ninja Clan.
 
 Note that although we are using two thousand as a &ldquo;ream&rdquo; here
-&mdash; because that is the size of a stack of normal arrows &mdash; bronzed
-ammunition stacks up to 1.8k per slot, and colored ammunition up to 1k. Also
-note that when Soul Arrow is active, you cannot benefit from any special
-ammunition.
+&mdash; because that is the size of a stack of normal arrows<sup>\[4\]</sup>
+&mdash; bronzed ammunition stacks up to 1.8k per slot<sup>\[4\]</sup>, and
+colored ammunition up to 1k<sup>\[4\]</sup>. Also note that when Soul Arrow is
+active, you cannot benefit from any special ammunition.
 
 MapleLegends-specific note: Diamond ammunition is actually superior to coloured
 ammunition in MapleLegends, granting 5 WATK instead of 4. If possible, I
@@ -972,8 +988,25 @@ recommend getting access to [Mo&rsquo;s
 store](https://bbb.hidden-street.net/npc/mo) (i.e. becoming an ally of the
 Raven Ninja Clan); he sells Ciders, diamond ammunition, All Cure Potions,
 Return to New Leaf City Scrolls, and some other possibly useful stuff.
-MapleLegends also tweaked prices to be generally cheaper for arrows/quarrels,
-and made them stack more readily per-slot. So you have little excuse to use
-Soul Arrow in MapleLegends!
+MapleLegends also tweaked prices to be generally cheaper for arrows and
+quarrels, and made them stack more readily per-slot. So you have little excuse
+to use Soul Arrow in MapleLegends!
+
+<details>
+<summary>Footnotes for &ldquo;Ammunition&rdquo;</summary>
+
+\[1\]: In MapleLegends: 2 mesos per unit (4k mesos for a ream of 2k units).
+
+\[2\]: In MapleLegends: 5|8 (arrows|quarrels, respectively) mesos per unit
+(10k|16k mesos for a ream of 2k units).
+
+\[3\]: In MapleLegends, diamond ammunition grants +5 WATK, not +4 WATK, and
+costs 10|16 (arrows|quarrels, respectively) mesos per unit (20k|32k mesos for a
+ream of 2k units).
+
+\[4\]: In MapleLegends, **all** arrow types stack up to a maximum of **five**
+thousand units per slot.
+
+</details>
 
 [mapletip-bomd]: https://web.archive.org/web/20070504024305/http://mapletip.com/maplestory-equipment/bow+of+magical+destruction/1452018/
