@@ -7,8 +7,7 @@ Guns To Scabbards, Swords To Holsters: The Swashbuckler
 Bringing A Sword To A Gunfight: The Swashbuckler
 -->
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote cite="https://www.gutenberg.org/files/1257/1257-h/1257-h.htm">
 <i>Et vous faites bien. Maniez le mousquet et l’épée, mon cher, vous vous tirez
@@ -17,9 +16,9 @@ regarde.</i>
 <br />
 &#x2042;
 <br />
-And you will do right. Handle the musket and the sword, my dear fellow. You
-will come off splendidly at those two exercises; but pass the pen over to
-Monsieur Abbe. That’s his province.
+And you’ll do well. Handle the musket and the sword, my dear fellow. You will
+come off splendidly at those two exercises; but pass the pen over to Monsieur
+Abbe. That’s his province.
 <br />
 <footer>
 &mdash;Alexandre Dumas, <cite>Les Trois Mousquetaires</cite> (ch. XLVIII).
@@ -27,14 +26,13 @@ Monsieur Abbe. That’s his province.
 </blockquote>
 
 ![A swashbuckler, variously wielding a short gun and a pair of Sky
-Skis](./swashbuckler.png
-"A swashbuckler, variously wielding a short gun and a pair of Sky Skis")
+Skis](./swashbuckler.png "A swashbuckler, variously wielding a short gun and a pair of Sky Skis")
 
 The **swashbuckler** is an odd job/odd build in MapleStory that represents
 everything from the winsome outlaw, to the rugged highwayman of the sea, to the
 vigilante hero of the people. As their name suggests, they are well-versed in
 the use of blades (particularly swords and spears) and even shields, but any
-good swashbuckler always has a gun also at the ready. Unlike the woodman, who
+good swashbuckler always has a gun also at the ready. Unlike the woodsman, who
 is a master of the _classical_ martial arts, swashbucklers are tough-as-nails
 vagabonds with more than a few tricks up their sleeve &mdash; not the least of
 which is their gun. As a result of this &mdash; including the
@@ -47,7 +45,7 @@ versatility, and their lovability in spite of their scampishness.
 
 This guide, unlike my other guides in this series, lives partially in the
 shadow of another guide, &ldquo;[How to become a living meme: the STR Corsair
-Mage edition][mage]&rdquo; (due to Fraiche), which can be found on the
+Mage edition][mage]&rdquo; (due to **Fraiche**), which can be found on the
 MapleLegends forums. The aforementioned guide is also dedicated to
 swashbucklers (in _some_ sense; perhaps &ldquo;STR sair&rdquo; is the better
 term here), but I believe it to be unfortunately responsible for a number of
@@ -80,10 +78,11 @@ to avoid confusion.
     - [Pirate](#pirate)
     - [Gunslinger](#gunslinger)
     - [Outlaw](#outlaw)
+    - [Outlaw (hybrid)](#outlaw-hybrid)
 - [Itemization](#itemization)
     - [Equipment](#equipment)
         - [Armaments](#armaments)
-            - [Archery](#archery)
+            - [Firearms](#firearms)
             - [Melee](#melee)
         - [Shields](#shields)
         - [Headgear](#headgear)
@@ -108,7 +107,8 @@ confusion with DEX gunslingers who have a base STR higher than 4 (i.e. normal,
 but also not STRless, gunslingers), &ldquo;pure STR&rdquo; can be prepended
 instead of simply &ldquo;STR&rdquo;. Other names for this job include:
 
-- Swashie \[diminutive\]
+- Swashie \[[diminutive](https://en.wiktionary.org/wiki/-ie#English)\]
+- Cowgirl/cowboy
 - STR slinger
 - Pure STR slinger
 - STR sair
@@ -127,8 +127,8 @@ Pros:
 - Ability to engage in ranged combat and in melee combat, with equal
   proficiency.
 - Excellent mobility, with Wings &mdash; and, with gun equipped, Recoil Shot!
-  Also Dash, although I refuse to use it simply because it can&rsquo;t be
-  unbound from the arrow keys&hellip;
+  Also Dash, although I personally refuse to use it simply because it
+  can&rsquo;t be unbound from the arrow keys&hellip;
 - High aggregate DPS with Somersault Kick, high single-target DPS with Double
   Shot/Burst Fire.
 - Cute summons that fight alongside you for extra damage!
@@ -211,9 +211,15 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 
 First job is pretty straightforward: Somersault Kick, Bullet Time, Double Shot.
 The single leftover SP can be put into either of Flash Fist or Dash.
+
 Personally, I put into Flash Fist, in order to avoid Dash triggering on arrow
 key presses; however, swashbucklers do not use knucklers, so the skill itself
-is totally useless.
+is _almost_ totally useless. Do note, however, that Flash Fist _is_ usable with
+a gun equipped (although you won&rsquo;t be able to use it with a melee weapon
+equipped). The usual understanding of swashbucklers precludes the use of Flash
+Fist (because it is considered to essentially be a brawler skill), but as long
+as you never use it with a knuckler equipped, no one is going to call you a
+fake swashbuckler!
 
 ### Gunslinger
 
@@ -262,9 +268,10 @@ We get early points in the two mobility skills for what utility they have at
 level 1. They are considerably worse than at max level, but still a lot better
 than having level 0 in both. Rushing level 6 Gun Booster is a priority here,
 for extra fast shootin&rsquo;. Mastery is next for the damage and sweet, sweet
-accuracy. Beyond this point, we already basically have the first thing that we
-want from our gun: solid single-target DPS. Next comes the mobility (yes!!),
-and then the stun/crowd-control.
+accuracy (very welcome, due to our pure STR nature). Beyond this point, we
+already basically have the first thing that we want from our gun: solid
+single-target DPS. Next comes the mobility (yes!!), and then the
+stun/crowd-control.
 
 Invisible Shot is more-or-less our last priority (other than maxing Gun
 Booster, but we already had 6 SP in it anyways) because:
@@ -280,9 +287,10 @@ more-or-less useless (like it is for DEX slingers as well&hellip;). It would
 actually be an amazing skill, if it lacked the restriction that you must have a
 gun equipped when using it. Considering how unwieldy it is to use with a gun,
 it hits like a wet paper towel, and is thus only useful for luring mobs (as far
-as I know). So if you&rsquo;re not like me, you&rsquo;ll put most of those
-leftover SP towards maxing Dash. Personally, I have Grenade at level 11, thanks
-to my allergic reaction to Dash.
+as I know). And even then, with the time needed to charge it up, you may as
+well Recoil Shot over to your enemies, at that rate. So if you&rsquo;re not
+like me, you&rsquo;ll put most of those leftover SP towards maxing Dash.
+Personally, I have Grenade at level 11, thanks to my allergic reaction to Dash.
 
 ### Outlaw
 
@@ -290,37 +298,144 @@ Note that &ldquo;[DC](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;
 stands for &ldquo;[don&rsquo;t
 care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 
-|         level | SP allocation                               |
-| ------------: | :------------------------------------------ |
-|            70 | +1 Strafe \[1\]                             |
-|            71 | +3 Mortal Blow \[3\]                        |
-|            72 | +2 Mortal Blow \[5\], +1 Arrow Rain \[1\]   |
-|            73 | +2 Arrow Rain \[3\], +1 Inferno \[1\]       |
-|   74&ndash;80 | +3 Arrow Rain \[24\]                        |
-|            81 | +2 Strafe \[3\], +1 Arrow Rain \[25\]       |
-|   82&ndash;90 | +3 Strafe \[**MAX**\]                       |
-|            91 | +3 Arrow Rain \[28\]                        |
-|            92 | +2 Arrow Rain \[**MAX**\], +1 Puppet \[1\]  |
-|            93 | +3 Puppet \[4\]                             |
-|            94 | +2 Silver Hawk \[2\], +1 Puppet \[5\]       |
-|  95&ndash;103 | +3 Silver Hawk \[29\]                       |
-|           104 | +2 Thrust \[2\], +1 Silver Hawk \[**MAX**\] |
-| 105&ndash;106 | +3 Thrust \[8\]                             |
-|           107 | +2 Thrust \[10\], +1 Inferno \[2\]          |
-| 108&ndash;111 | +3 Inferno \[14\]                           |
-|           112 | +2 Inferno \[16\], +1 Puppet \[6\]          |
-| 113&ndash;116 | +3 Puppet \[18\]                            |
-|           117 | +2 Puppet \[**MAX**\], +1 DC \[DC\]         |
-| 118&ndash;120 | DC                                          |
+|         level | SP allocation                                        |
+| ------------: | :--------------------------------------------------- |
+|            70 | +1 Octopus \[1\]                                     |
+|            71 | +1 Homing Beacon \[1\], +1 Gaviota \[1\]; 1 SP saved |
+|   72&ndash;74 | 10 SP saved                                          |
+|            75 | +13 Burst Fire \[13\]                                |
+|   76&ndash;77 | +3 Burst Fire \[19\]                                 |
+|            78 | +2 Octopus \[3\], +1 Burst Fire \[**MAX**\]          |
+|   79&ndash;87 | +3 Octopus \[**MAX**\]                               |
+|   88&ndash;96 | +3 Gaviota \[28\]                                    |
+|            97 | +2 Gaviota \[**MAX**\], +1 Ice Splitter \[1\]        |
+|  98&ndash;105 | +3 Ice Splitter \[25\]                               |
+|           106 | +2 DC \[DC\], +1 Ice Splitter \[26\]                 |
+| 107&ndash;110 | DC                                                   |
+|           111 | +2 Homing Beacon \[3\], +1 DC \[DC\]                 |
+| 112&ndash;120 | +3 Homing Beacon \[**MAX**\]                         |
 
 <details>
 <summary>By level 120</summary>
 
-| skill          |  level | max level |
-| :------------- | -----: | --------: |
-| **Burst Fire** | **20** |    **20** |
+| skill             |  level | max level |
+| :---------------- | -----: | --------: |
+| **Burst Fire**    | **20** |    **20** |
+| **Octopus**       | **30** |    **30** |
+| **Gaviota**       | **30** |    **30** |
+| Flamethrower      |     DC |        30 |
+| Ice Splitter      | &ge;26 |        30 |
+| **Homing Beacon** | **30** |    **30** |
 
 </details>
+
+We start off here by getting access to some of the meat of third job: Octopus
+and Gaviota (your summons!), and Homing Beacon. Homing Beacon is unfortunately
+only usable with a gun equipped, although it is possible to use it and then
+switch to melee. But it does really work as advertised: it has an infinitely
+long duration (well, as long as the target never dies&hellip;), and will cause
+you to always strike the target any time that it&rsquo;s possible for you to do
+so (i.e. you&rsquo;re in range and aiming in the relevant direction),
+regardless of any other enemies that would obstruct your attack.
+
+Then we save up some SP, because Burst Fire is unfortunately only better DPS
+once it&rsquo;s at roughly level &ge;11 or so. It could possibly vary a bit,
+due to factors like the target&rsquo;s WDEF, but 11 is pretty much the magic
+number here. Burst Fire comes first, because we want to improve our gun at what
+it&rsquo;s good for: single-target DPS.
+
+Then the summons come next. They are just generally useful, since they can be
+summoned regardless of the weapon that you have equipped. Finally, something to
+do in melee other than Somersault Kick! Unfortunately, their damage only scales
+on three things:
+
+- DEX.
+- STR.
+- &ldquo;Attack rate&rdquo; (as listed in the description of the skills; the
+  name is somewhat misleading, because it actually does _not_ change the attack
+  speed).
+
+&hellip;And DEX is more important than STR here, by a factor of 2.125 on
+average. This is kinda bad news for the swashbuckler, but it&rsquo;s really not
+so bad: STR still contributes a lot, the attack rate is ultimately the most
+important component, and these lil guys ignore WDEF entirely. Nice.
+
+Then we get Ice Splitter to level 26. DEX outlaws more usually level up Ice
+Splitter and Flamethower side by side, and use both in order to (somewhat)
+effectively take out mobs of enemies when training. For the swashbuckler,
+however, we have Somersault Kick for that; our gun is primarily focussed on
+single-target DPS. So Ice Splitter is leveled up here in order to provide some
+crowd control (Ice Splitter freezes its victims in place), e.g. for bosses that
+spawn minions. We leave Ice Splitter at level 26 (although of course, you can
+use your leftover SP to max it out) because higher levels of the skill offer
+nothing other than a slight damage boost, which is not important for this crowd
+control skill. You can still use Flamethrower (and Invisible Shot, for that
+matter&hellip;), particularly with the leftover SP, but if you want something
+that looks a little more like a traditional outlaw build, see &ldquo;Outlaw
+(hybrid)&rdquo; below.
+
+Note that in any case, if we want to max both of our summons, we cannot do the
+traditional method of maxing Flamethrower _and_ getting Ice Splitter to level
+&ge;26; there&rsquo;s just not enough third job SP. We _have to_ (begrudgingly)
+max Homing Beacon, in order to have access to Bullseye in fourth job.
+
+### Outlaw (hybrid)
+
+|         level | SP allocation                                        |
+| ------------: | :--------------------------------------------------- |
+|            70 | +1 Octopus \[1\]                                     |
+|            71 | +1 Homing Beacon \[1\], +1 Gaviota \[1\]; 1 SP saved |
+|   72&ndash;74 | 10 SP saved                                          |
+|            75 | +13 Burst Fire \[13\]                                |
+|   76&ndash;77 | +3 Burst Fire \[19\]                                 |
+|            78 | +2 Octopus \[3\], +1 Burst Fire \[**MAX**\]          |
+|   79&ndash;87 | +3 Octopus \[**MAX**\]                               |
+|   88&ndash;96 | +3 Gaviota \[28\]                                    |
+|            97 | +2 Gaviota \[**MAX**\], +1 Ice Splitter \[1\]        |
+|            98 | +2 Ice Splitter \[3\], +1 Flamethrower \[1\]         |
+|            99 | +3 Ice Splitter \[6\]                                |
+|           100 | +2 Flamethrower \[3\], +1 Ice Splitter \[7\]         |
+|           101 | +3 Flamethrower \[6\]                                |
+|           102 | +2 Ice Splitter \[9\], +1 Flamethrower \[7\]         |
+|           103 | +3 Ice Splitter \[12\]                               |
+|           104 | +2 Flamethrower \[9\], +1 Ice Splitter \[13\]        |
+|           105 | +3 Flamethrower \[12\]                               |
+|           106 | +2 Ice Splitter \[15\], +1 Flamethrower \[13\]       |
+|           107 | +3 Ice Splitter \[18\]                               |
+|           108 | +2 Flamethrower \[15\], +1 Ice Splitter \[19\]       |
+| 109&ndash;110 | +3 Flamethrower \[21\]                               |
+|           111 | +2 Homing Beacon \[3\], +1 Flamethrower \[22\]       |
+| 112&ndash;120 | +3 Homing Beacon \[**MAX**\]                         |
+
+<details>
+<summary>By level 120</summary>
+
+| skill             |  level | max level |
+| :---------------- | -----: | --------: |
+| **Burst Fire**    | **20** |    **20** |
+| **Octopus**       | **30** |    **30** |
+| **Gaviota**       | **30** |    **30** |
+| Flamethrower      |     22 |        30 |
+| Ice Splitter      |     19 |        30 |
+| **Homing Beacon** | **30** |    **30** |
+
+</details>
+
+This build is more-or-less the same as the standard swashbuckler outlaw build
+above, except that we try to emulate traditional outlaw skill builds here, once
+we max out Gaviota. Again, the SP just doesn&rsquo;t work out, so we end up
+with both Ice Splitter and Flamethower only hitting up to 5 targets at once.
+
+If you _really wanna_ be like A Real Outlaw&trade;, it is perfectly possible to
+go with a more traditional outlaw skill build &mdash; that is, more traditional
+than the two given in this guide. The main reason why I don&rsquo;t really
+recommend this route is that Ice Splitter and Flamethower are slightly&hellip;
+underwhelming skills, even for DEX outlaws. Their reach isn&rsquo;t all that
+impressive, and neither are their damage percentages. The situation, then, is a
+good bit different than that of [the third job
+woodsman](https://oddjobs.codeberg.page/guides/woodsman/#ranger-archery-specialisation)
+and their signature multi-target attack: Arrow Rain/Eruption. Plus, woodsmen
+have no multi-target attacks in melee; you, on the other hand, do.
 
 ## Itemization
 
@@ -330,59 +445,108 @@ A swashbuckler is nothing without her equipment and her gear&hellip;
 
 #### Armaments
 
-##### Archery
+##### Firearms
 
-The armaments of archery that are available to the woodsman are fairly obvious:
-with their base DEX permanently stuck at exactly 25, the woodsman has no choice
+The firearms that are available to the swashbuckler are fairly obvious: with
+their base DEX permanently stuck at exactly 20, the swashbuckler has no choice
 but to favor armaments with no DEX requirements (or low DEX requirements). The
 breakdown, by character level, looks vaguely like this (note that, of course,
 you can always skip certain weapons, or acquire them later on):
 
-|        level | armaments                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| -----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  10&ndash;11 | Just use the War Bow (or Beginner&rsquo;s War Bow, or whatever it is that Athena Pierce may give you).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|  12&ndash;14 | If you want, you can switch to the Crossbow. If you plan on advancing to crossbowman at level 30, you might want to buy up a bunch of these and try your hand at scrolling them, if possible, because it will likely have to last you until level 35, at the least.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|  15&ndash;17 | Because the Composite Bow only has a DEX requirement of 40 (thus requiring just &ge;15 DEX from your other equipment), it makes a good choice here, if you can equip it. Unlike the Crossbow, the Composite Bow actually drops from a small handful of monsters, so it is even possible to try to get some above-average ones and then try your hand at scrolling those. Or you can just buy them up from Karl and scroll those. If you choose to advance to hunter at level 30, this will likely have to suffice until level 35, at the least.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|  18&ndash;34 | If you can manage to equip the Battle Crossbow (requires &ge;55 DEX, meaning &ge;30 from equipment!), and you plan on advancing to crossbowman at level 30, you might try your hand at scrolling one here. Otherwise, just keep whatever you&rsquo;ve been using.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|  35&ndash;42 | Finally, some maple weapons. If you&rsquo;re a hunter, you&rsquo;ve the Maple Bow. If you&rsquo;re a crossbowman, you&rsquo;ve the Maple Crow.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|  43&ndash;63 | If you haven&rsquo;t switched to a maple weapon already, or you just want an upgrade right now, there&rsquo;s the Maple Soul Searcher for hunters, and the Maple Crossbow for crossbowmen. If you&rsquo;re playing on an implementation that lacks maple weapons, you may want to revisit exactly which archery weapons you can equip (given the amount of DEX you&rsquo;re getting from your other equipment) and how you can optimize them as much as possible, through scrolling, and possibly also through getting above-average drops of said weapons.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|           64 | If you are fortunate enough to be playing on an implementation that has the full set of 2008 GMS Three Year Anniversary Event maple weapons, then you can make a considerable upgrade at this level: for Hunters, the Maple Kandiva Bow; for crossbowmen, the Maple Nishada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 65&ndash;200 | Again, depending on your implementation<sup>\[1\]</sup>, hunters may have an alternative to the Maple Kandiva Bow (with a level requirement of 65, rather than 64): the Bow of Magical Destruction. Whether or not this is a better choice than the Maple Kandiva Bow is situational. Assuming that both bows cost you equally much (unlikely, given that the Maple Kandiva Bow is an event-specific weapon, and the Bow of Magical Destruction drops from an ordinary monster), and assuming that both bows are completely clean and have average stats, the Maple Kandiva Bow is somewhat superior: identical WATK, a faster speed (5 (&ldquo;Fast&rdquo;) vs. the Bow of Magical Destruction&rsquo;s 6 (&ldquo;Normal&rdquo;)), a slightly better knockback rate (48% &gt; 47%), and a nifty +100 MAXHP. The Bow of Magical Destruction, on the other hand, is potentially easier to optimize (as it drops from an ordinary monster), and gives a (probably negligible, but nevertheless nice) +1 AVOID. |
+|        level | armaments                                                                                                                                                                                                                                                                                                                                                                                            |
+| -----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  10&ndash;14 | Just use the Pistol (or Beginner Pirate&rsquo;s Pistol, or whatever it is that Kyrin may give you).                                                                                                                                                                                                                                                                                                  |
+|  15&ndash;19 | If you&rsquo;re really starved for DEX gear, you can switch to the Dellinger Special here; it only requires &ge;5 DEX from equipment. But do note that it&rsquo;s speed 6, and thus slower than the Pistol (which is speed 5; it&rsquo;s also slower than the next-higher-level gun, The Negotiator, which is also speed 5).                                                                         |
+|  20&ndash;24 | The Negotiator is a good place to make your first gun upgrade. It&rsquo;s speed 5, and only requires &ge;15 DEX from equipment. To equip the next gun (the speed 6 Golden Hook), this DEX requirement shoots up to &ge;30 DEX from equipment.                                                                                                                                                        |
+|  25&ndash;34 | Personally, my first gun upgrade was to the Golden Hook; it is unfortunately speed 6, but it was the best gun that I could equip with my DEX gear (it requires &ge;30 DEX from equipment). It may be possible to equip the Cold Mind (and if you can, you should; it should last for a while), but at that point you&rsquo;re trying to squeeze &ge;50 DEX out of your equipment at level 30&hellip; |
+|  35&ndash;42 | Finally, a maple weapon. The Maple Gun is strictly better than the ordinary level 35 gun, which is 1 speed category slower, and doesn&rsquo;t grant any AVOID. At this point, I was still using my (well-scrolled) Golden Hook.                                                                                                                                                                      |
+|  43&ndash;63 | Here we have the next maple weapon: the Maple Storm Pistol. Again, very solid weapon, but at this point, I was&hellip; _still_ using my (well-scrolled) Golden Hook.                                                                                                                                                                                                                                 |
+| 64&ndash;200 | The end of the line. If you are fortunate enough to be playing on an implementation that has the full set of 2008 GMS Three Year Anniversary Event maple weapons, then you can make a considerable upgrade at this level: the Maple Canon Shooter. This is the ideal endgame firearm for swashbucklers.                                                                                              |
 
 ##### Melee
 
-Because archers/hunters/crossbowmen/&amp;c. are not designed to be melee jobs,
-the choice of melee armaments for woodsmen looks fairly similar to that for a
-closely related odd job: the permabeginner. As such, this section will mostly
-just highlight the _differences_ w.r.t. melee armaments for woodsmen, as
-compared to melee armaments for permabeginners.
+Because gunslingers/outlaws/corsairs are not designed to be melee jobs, the
+choice of melee armaments for swashbucklers looks fairly similar to that for
+permabeginners. However, swashbucklers have Somersault Kick. **Somersault Kick
+always &ldquo;stabs&rdquo; with the weapon that you have equipped.** As a
+result, you will want to **avoid** any of the following types of weapons,
+unless you have no choice:
 
-Woodsmen obviously do not have access to any permabeginner-specific armaments;
-this means no access to any of the following:
+- Polearms.
+- Axes (one-handed or two-handed, although you only have access to one-handed
+  ones anyways).
+- Blunt weapons (one-handed or two-handed).
+- Wands &amp; staves (heh).
 
-- The level 20 Frozen Tuna
-- Sake Bottle
-- Maroon Mop
+Losing out on polearms and blunt weapons is certainly distressing, but never
+fear. You can still make efficient use of:
 
-Woodsmen do, however, have access to a small handful of armaments that
-permabeginners do not have access to, although they are unfortunately limited
-to low levels:
+- Spears.
+- Swords (one-handed or two-handed).
+- Daggers.
 
-- Wooden Sword (level 10)
-- Metal Axe (level 10)
-- Wooden Mallet (level 10)
-- Monkey Wrench (level 25)
+The star of the show here is the spear: stabbing with a spear grants the
+highest PSM (primary stat multiplier) in the game (tied with swinging with a
+polearm), 5.0. But swords and daggers are nothing to sneeze at, either. Daggers
+and one-handed swords get you a PSM of 4.0, and two-handed swords get you a PSM
+of a whopping 4.6. And daggers &amp; one-handed swords are particularly
+formidable when paired with a shield that gives solid WATK/STR. The strength of
+daggers and swords is often in their attack speed; faster attack speeds make
+Somersault Kick much more efficient and pleasant to use. Here&rsquo;s a little
+weapon speed category cheatsheet (note that the names are ambiguous!):
 
-The Monkey Wrench is of particular note due to being the highest level of these
-four, although its expected DPS (assuming zero DEX and assuming that the
-monster has zero WDEF) is roughly 98.88% that of a Fish Spear; however, the
-expected damage per hit is roughly 114.7% that of the Fish Spear under the same
-conditions. This advantage for the Monkey Wrench is, of course, amplified by
-higher monster WDEF.
+| speed | name   |
+| ----: | :----- |
+|     2 | Faster |
+|     3 | Faster |
+|     4 | Fast   |
+|     5 | Fast   |
+|     6 | Normal |
+|     7 | Slow   |
+|     8 | Slow   |
+|     9 | Slower |
+
+The following table compares some of the swashbuckler&rsquo;s juiciest melee
+weapons (&ldquo;ordinary&rdquo; methods of availability &mdash; that is, NPCs,
+(party) quests, monster drops, and crafting &mdash; are bolded):
+
+| level | name                  | type     | speed | WATK | other stats                  | availability                    | notes                                                                                                                                                       |
+| ----: | :-------------------- | :------- | ----: | ---: | :--------------------------- | :------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     0 | Wooden Baseball Bat   | 2H sword |     5 |   20 |                              | **NPC**, **drop**, gachapon     |                                                                                                                                                             |
+|     0 | The Stars and Stripes | 1H sword |     4 |   30 | 10 STR                       | event                           | A weapon for the cowgirls and cowboys&hellip;                                                                                                               |
+|     8 | Fruit Knife           | dagger   |     3 |   22 |                              | **NPC**, **quest**              | A weapon with speed &le;3 is always a highlight. You get one of these just from doing the Maple Island quests.                                              |
+|    10 | Long Sword            | 1H sword |     4 |   27 |                              | **NPC**                         |                                                                                                                                                             |
+|    10 | Thermometer           | 2H sword |     5 |   30 | 80 MP, 10 WDEF               | **drop**, gachapon              |                                                                                                                                                             |
+|    13 | Red Ski               | spear    |     6 |   35 | 50 HP                        | gachapon                        | The first spear that swashbucklers can use.                                                                                                                 |
+|    20 | Fish Spear            | spear    |     6 |   42 | 5 WACC, 5 SPEED              | **NPC**, **drop**, **quest**    | Seafaring swashbucklers only&hellip;                                                                                                                        |
+|    20 | Bamboo Spear          | spear    |     5 |   43 |                              | **NPC**, gachapon               | A spear with speed &le;5 is always a highlight. Whether or not this weapon is actually available from an NPC is strongly implementation-dependent.          |
+|    25 | Bamboo Sword          | 1H sword |     4 |   43 |                              | **NPC**, gachapon               |                                                                                                                                                             |
+|    25 | Maplemas Lights       | 1H sword |     4 |   43 | 10 SPEED                     | event                           |                                                                                                                                                             |
+|    25 | Pumpkin Spear         | spear    |     5 |   47 | 15 WACC, 1 STR               | **drop**, event                 | A spear with speed &le;5 is always a highlight.                                                                                                             |
+|    30 | Aluminum Baseball Bat | 2H sword |     5 |   48 |                              | **NPC**, **drop**               | Not to be confused with the Aluminum Bat.                                                                                                                   |
+|    30 | Pumpkin Lantern       | 2H sword |     5 |   55 | 50 HP, 55 MATK               | event                           |                                                                                                                                                             |
+|    30 | Maplemas Tree         | spear    |     5 |   52 | 100 MP                       | event                           | A spear with speed &le;5 is always a highlight.                                                                                                             |
+|    33 | Orange Ski            | spear    |     6 |   55 | 50 MP                        | **drop**, gachapon              |                                                                                                                                                             |
+|    35 | Maple Sword           | 1H sword |     5 |   48 | 20 WACC                      | event                           | Only has 10 WACC in MapleLegends.                                                                                                                           |
+|    35 | Red Whip              | 1H sword |     4 |   48 | 15 SPEED                     | **drop**, gachapon              |                                                                                                                                                             |
+|    35 | Korean Fan            | dagger   |     4 |   50 | 5 WACC, 5 AVOID              | **drop**, gachapon              |                                                                                                                                                             |
+|    38 | Flaming Katana        | 1H sword |     4 |   65 | 17 SPEED, 40 MATK            | rare craft, rare drop           | Flaming Katana has an excessive amount of WATK for its level.                                                                                               |
+|    40 | Plastic Bottle        | dagger   |     3 |   53 | 3 LUK                        | **drop**                        | A weapon with speed &le;3 is always a highlight.                                                                                                            |
+|    40 | Glowing Whip          | 1H sword |     4 |   70 | 15 SPEED                     | rare craft, rare drop, gachapon | Glowing Whip has an excessive amount of WATK for its level.                                                                                                 |
+|    43 | Maple Soul Singer     | 1H sword |     5 |   60 | 30 WACC                      | event                           | Only has 15 WACC in MapleLegends.                                                                                                                           |
+|    45 | Aluminum Bat          | 2H sword |     6 |   65 | 8 WACC                       | **drop**                        | Not to be confused with the Aluminum **Baseball** Bat.                                                                                                      |
+|    45 | Fishing Pole          | spear    |     5 |   67 | 15 WACC                      | rare drop                       | A spear with speed &le;5 is always a highlight. Seafaring swashbucklers only&hellip;                                                                        |
+|    48 | Diao Chan Sword       | 1H sword |     4 |   69 | 1 STR, 1 DEX, 1 INT, 60 MATK | **drop**                        |                                                                                                                                                             |
+|    50 | Japanese Map          | 2H sword |     4 |   68 | 2 STR, 2 DEX                 | rare drop, gachapon             | A two-handed sword with speed &le;4 is always a highlight.                                                                                                  |
+|    53 | Liu Bei Dagger        | dagger   |     3 |   69 | 2 LUK, 2 AVOID               | **drop**                        | A weapon with speed &le;3 is always a highlight.                                                                                                            |
+|    55 | Green Ski             | spear    |     6 |   78 | 2 STR, 2 DEX                 | gachapon                        |                                                                                                                                                             |
+|    64 | Maple Glory Sword     | 1H sword |     5 |   81 | 35 WACC, 1 STR               | event                           | Only has 20 WACC in MapleLegends.                                                                                                                           |
+|    65 | Fan                   | dagger   |     3 |   78 | 100 HP                       | **drop**, gachapon              | A weapon with speed &le;3 is always a highlight. The 100 HP is welcome, too; you&rsquo;re pretty squishy. Not actually dropped by anything in MapleLegends. |
+|    85 | Sky Ski               | spear    |     6 |   94 | 10 WACC                      | gachapon                        | _The_ weapon. Rivalled only by the Fan, in special cases.                                                                                                   |
 
 #### Shields
 
-An archer? Wearing a shield? Blasphemy! But with woodsmen, anything is
+A gunslinger? Wearing a shield? Blasphemy! But with swashbucklers, anything is
 possible. When engaging in melee and using a one-handed weapon, you will, of
 course, want a shield. As usual, the Maple Shield is the most powerful, simply
 because it has three extra slots, and you&rsquo;ll be wanting to scroll for
@@ -397,16 +561,14 @@ twice as much MDEF (and WDEF) as the Maple Shield.
 
 #### Headgear
 
-Woodsmen, unfortunately, do not have access to any of the bowman-specific
-headgear. They can, of course, equip the level 10 hats, but there is no reason
-to, considering that better hats (all with no job requirements) can be
-purchased from NPCs as well. There is, however, one notable exception: if you
-are fortunate enough to be playing on an implementation that has the extended
-first-job quests (in the archer&rsquo;s case, culminating in a battle with the
-Amdusias boss monster), you can (and must!) obtain the level 18 Amdusias Hat.
-This hat is so powerful as to almost be comparable to a good Zakum Helmet.
+Swashbucklers, unfortunately, do not have access to very much of the
+pirate-specific headgear. There is, however, one notable exception: if you are
+fortunate enough to be playing on an implementation that has the extended
+first-job quests (in the pirate&rsquo;s case, culminating in a battle with the
+Crocell boss monster), you can (and must!) obtain the level 18 Crocell Hat.
+This hat is so powerful as to almost be comparable to a Zakum Helmet.
 
-If you cannot obtain the Amdusias Hat, you still have some good options
+If you cannot obtain the Crocell Hat, you still have some good options
 (&ldquo;ordinary&rdquo; methods of availability &mdash; that is, NPCs, (party)
 quests, monster drops, and crafting &mdash; are bolded):
 
@@ -442,8 +604,8 @@ incredibly powerful that they need no introduction. Zakum Helmets are generally
 more accessible, as Zakum tends to be run fairly often in most implementations,
 and only requires level 50 (instead of the level 80 of Scar/Tar hats). Scar/Tar
 hats aren&rsquo;t really better than Zakum Helmets, although it depends on what
-you want to optimize for; obviously, the ideal Scar/Tar hat for a woodsman is
-generally a Scarlion Hat (DEX).
+you want to optimize for; obviously, the ideal Scar/Tar hat for a swashbuckler
+is generally a Scarlion Hat (DEX).
 
 When it comes to scrolling headgear, obviously you ideally want to scroll for
 DEX, but scrolling for ACC is similarly good, and even 10%/30% DEF scrolls can
@@ -581,7 +743,7 @@ multiplied by the duration, divided by the price per unit, and
 | Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
 | Coke Lite Pill          |   12 |            7.200 |  1.667 |    15:00 |     1,500 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
 | Coke Zero Pill          |   15 |            4.500 |  3.333 |    15:00 |     3,000 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
-| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 5 per stack, so they use up inventory space very inefficiently. |
+| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 3 per stack, so they use up inventory space very inefficiently. |
 
 The items here are in ascending order of WATK, breaking any ties by sorting in
 ascending order of WATK&sdot;s/meso. The two stand-out items here (in the
@@ -597,7 +759,7 @@ With Coke Town, Ciders are still useful (they are still the largest WATK buff),
 but Coke Pills are then firmly in first place with respect to WATK&sdot;s/meso,
 and Coke Zero Pills become very viable as well, due to being the largest WATK
 buff that is _inventory-space efficient_. Ciders are burdened by only stacking
-up to 5 per inventory slot<sup>\[1\]</sup> (they are **not** burdened by the
+up to 3 per inventory slot<sup>\[1\]</sup> (they are **not** burdened by the
 &minus;5 ACC debuff, because that is easily cancelled out); as a result, if you
 want the highest store-bought WATK buff possible, _and_ you haven&rsquo;t the
 inventory space for Ciders, Coke Zero Pills are your best bet &mdash; or
@@ -618,7 +780,7 @@ on an as-needed basis.
 <summary>Footnotes for &ldquo;Potions/food/drinks&rdquo;</summary>
 
 \[1\]: The actual maximum number of Ciders that stack per inventory slot can
-vary; the &ldquo;5&rdquo; figure used here is based on MapleLegends.
+vary; the &ldquo;3&rdquo; figure used here is based on MapleLegends.
 
 </details>
 

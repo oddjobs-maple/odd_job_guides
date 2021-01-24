@@ -45,6 +45,9 @@ legendary and perplexing. The magelet embodies the notion of a
 &ldquo;fluke&rdquo;: the mere possibility of their existence remains
 unexplained, and yet they nevertheless make their presence felt by the world.
 
+This guide has a video associated with it, which [you can watch on the Oddjobs
+YouTube channel](https://www.youtube.com/watch?v=fpRjuySOTtU).
+
 - [A quick note on the name](#a-quick-note-on-the-name)
 - [Pros and cons](#pros-and-cons)
 - [AP build](#ap-build)
@@ -75,19 +78,15 @@ unexplained, and yet they nevertheless make their presence felt by the world.
 
 This class, or type of magician, is referred to throughout this document as
 &ldquo;magelet&rdquo; (plural &ldquo;magelets&rdquo;), from &ldquo;mage&rdquo;
-\+ the diminutive &ldquo;-let&rdquo;. This class is also commonly referred to
-by various other names:
+\+ the [diminutive](https://en.wikipedia.org/wiki/Diminutive)
+&ldquo;[-let](https://en.wiktionary.org/wiki/-let#English)&rdquo;. This class
+is also commonly referred to by various other names:
 
-- LUK mage \[not to be confused with INT mages who put some points into LUK, to
-  wear equipment\]
-- LUK magician \[not to be confused with INT magicians who put some points into
-  LUK, to wear equipment\]
-- INTless mage \[not to be confused with other varieties of INTless mage, e.g.
-  STR mages and DEX mages\]
-- INTless magician \[not to be confused with other varieties of INTless
-  magician, e.g. STR magicians and DEX magicians\]
-- Pure LUK mage
-- Pure LUK magician
+- LUK mage/magician \[not to be confused with INT mages who put some points
+  into LUK, to wear equipment\]
+- INTless mage/magician \[not to be confused with other varieties of INTless
+  mage, e.g. STR mages and DEX mages\]
+- Pure LUK mage/magician
 
 ## Pros and cons
 
@@ -104,6 +103,15 @@ Pros:
   otherwise quite difficult to use.
 - Ability to effectively use claws that lack job requirements (e.g. the Magical
   Mitten).
+- Magelets feature all of the fun bits of playing an ordinary (INT-based) mage,
+  while also spicing it up with a unique challenge that sets them apart from
+  all other varieties of mage.
+- You can boop. You can boop just about anything, in fact. With all of your APs
+  spent on LUK, your WACC is so high that a simple swing of your staff (or
+  wand&hellip; or even sword, for that matter) is highly unlikely to produce a
+  &ldquo;**MISS**&rdquo;, unless the target is considerably higher level than
+  yourself. The result is a beautiful &ldquo;**1**&rdquo; every time, a.k.a. a
+  boop. Boop!
 - Fortune and miracles follow in your wake.
 
 Cons:
@@ -269,16 +277,16 @@ counterparts, with a few exceptions:
   While it is common for ordinary mages to keep their Spell Booster at level 6
   for a while, magelets will want to do the same, but at **level 11** (the
   point at and beyond which the boosting effect is at its largest). The
-  reasoning here is that magelets have a hard time one-shotting their foes, for
-  the most part, and Element Amplification works as a percentage of the raw
-  (read: before MDEF) damage that is done per-strike. As a result, while
-  Element Amplification is extremely beneficial for magelets, during early-ish
-  third job, the magelet&rsquo;s extra damage due to Element Amplification is
-  _somewhat eclipsed by the variance in the magelet&rsquo;s damage output_
-  (natural variance, as well as variance due to the targets&rsquo; MDEF). Spell
-  Booster helps enormously to get in the extra attacks needed to subdue each
-  foe. Also, poison DoT effects are not affected by Element Amplification
-  anyways.
+  reasoning here is that magelets have a hard time one-shotting (or
+  two-shotting) their foes, for the most part, and Element Amplification works
+  as a percentage of the raw (read: before MDEF) damage that is done
+  per-strike. As a result, while Element Amplification is extremely beneficial
+  for magelets, during early-ish third job, the magelet&rsquo;s extra damage
+  due to Element Amplification is _somewhat eclipsed by the variance in the
+  magelet&rsquo;s damage output_ (natural variance, as well as variance due to
+  the targets&rsquo; MDEF). Spell Booster helps enormously to get in the extra
+  attacks needed to subdue each foe. Also, poison DoT effects are not affected
+  by Element Amplification anyways.
 
 Personally, I play an ice/lightning magelet. For this reason, I will reproduce
 my skill builds here, for ice/lightning magelets only. Magelets of the other
