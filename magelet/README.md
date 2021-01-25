@@ -855,4 +855,5 @@ buffs:
 
 The clear winner here is the Dexterity Pill, although the Archer Elixir is
 quite useful as well, due to having the largest AVOID buff (equalling that of
-maxed Bless).
+maxed Bless). Personally, I swear by Dexterity Pills, and rarely enter combat
+without one active.

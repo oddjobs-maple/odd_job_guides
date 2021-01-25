@@ -7,7 +7,8 @@ Guns To Scabbards, Swords To Holsters: The Swashbuckler
 Bringing A Sword To A Gunfight: The Swashbuckler
 -->
 
-[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+"CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <blockquote cite="https://www.gutenberg.org/files/1257/1257-h/1257-h.htm">
 <i>Et vous faites bien. Maniez le mousquet et l’épée, mon cher, vous vous tirez
@@ -26,7 +27,8 @@ Abbe. That’s his province.
 </blockquote>
 
 ![A swashbuckler, variously wielding a short gun and a pair of Sky
-Skis](./swashbuckler.png "A swashbuckler, variously wielding a short gun and a pair of Sky Skis")
+Skis](./swashbuckler.png
+"A swashbuckler, variously wielding a short gun and a pair of Sky Skis")
 
 The **swashbuckler** is an odd job/odd build in MapleStory that represents
 everything from the winsome outlaw, to the rugged highwayman of the sea, to the
