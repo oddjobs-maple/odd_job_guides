@@ -1,11 +1,13 @@
 # Guns To Scabbards, Swords To Holsters: The Swashbuckler
 
-<!--
-Blade In Hand, Gun In Holster: The Swashbuckler
-Ravishing Rascal, Rugged Rifler: The Swashbuckler
-Guns To Scabbards, Swords To Holsters: The Swashbuckler
-Bringing A Sword To A Gunfight: The Swashbuckler
--->
+<details>
+<summary>Alternate titles</summary>
+
+- Bringing A Sword To A Gunfight: The Swashbuckler
+- Blade In Hand, Gun In Holster: The Swashbuckler
+- Ravishing Rascal, Rugged Rifler: The Swashbuckler
+
+</details>
 
 [![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -17,7 +19,7 @@ regarde.</i>
 <br />
 &#x2042;
 <br />
-And you’ll do well. Handle the musket and the sword, my dear fellow. You will
+And you’ll do well. Handle the musket and the sword, my dear fellow. You’ll
 come off splendidly at those two exercises; but pass the pen over to Monsieur
 Abbe. That’s his province.
 <br />
@@ -113,6 +115,7 @@ instead of simply &ldquo;STR&rdquo;. Other names for this job include:
 - Cowgirl/cowboy
 - STR slinger
 - Pure STR slinger
+- STRlaw
 - STR sair
 - Pure STR sair
 
@@ -165,9 +168,9 @@ Cons:
   otherwise) will be able to outperform you at range (although you will
   outperform them at melee, of course). Any warrior, bandit, or brawler build
   that could be considered &ldquo;standard&rdquo; or &ldquo;mainstream&rdquo;
-  in any way will likely be able to outperform you in melee from at least third
-  job onwards, and possibly earlier as well (although you will outperform them
-  at range, of course).
+  in any way will be able to outperform you in melee from at least third job
+  onwards, and probably earlier as well (although you will outperform them at
+  range, of course).
 - Swashbucklers, like woodsmen, suffer from [an almost complete lack of
   defences](https://tvtropes.org/pmwiki/pmwiki.php/Main/GlassCannon). Hopefully
   you&rsquo;re not playing permadeath!
@@ -338,7 +341,7 @@ switch to melee. But it does really work as advertised: it has an infinitely
 long duration (well, as long as the target never dies&hellip;), and will cause
 you to always strike the target any time that it&rsquo;s possible for you to do
 so (i.e. you&rsquo;re in range and aiming in the relevant direction),
-regardless of any other enemies that would obstruct your attack.
+regardless of any other other enemies that would obstruct your attack.
 
 Then we save up some SP, because Burst Fire is unfortunately only better DPS
 once it&rsquo;s at roughly level &ge;11 or so. It could possibly vary a bit,
@@ -549,30 +552,43 @@ weapons (&ldquo;ordinary&rdquo; methods of availability &mdash; that is, NPCs,
 #### Shields
 
 A gunslinger? Wearing a shield? Blasphemy! But with swashbucklers, anything is
-possible. When engaging in melee and using a one-handed weapon, you will, of
-course, want a shield. As usual, the Maple Shield is the most powerful, simply
-because it has three extra slots, and you&rsquo;ll be wanting to scroll for
-WATK (and/or STR). More accessible are the Stolen Fence (available from an NPC
-and as a monster drop) and the Pan Lid (available as a reasonably common
-monster drop). The Palette sports better defense than the Stolen Fence or Pan
-Lid, and the LUK that it grants is useful for the accuracy (and avoidability).
-My preference is the Stone Shield, if the implementation even has it, due to
-its superior defense. The Black Phoenix Shield (again, if the implementation
-even has it) is superior to either the Stolen Fence or the Pan Lid, and has
-twice as much MDEF (and WDEF) as the Maple Shield.
+possible &mdash; in fact, the
+&ldquo;[buckler](https://en.wikipedia.org/wiki/Buckler)&rdquo; in
+&ldquo;swashbuckler&rdquo; is from the Old French <i>bocler</i>, meaning
+&ldquo;[shield boss](https://en.wikipedia.org/wiki/Shield_boss)&rdquo;. When
+engaging in melee and using a one-handed weapon, you will, of course, want a
+shield. As usual, the Maple Shield is the most powerful, simply because it has
+three extra slots, and you&rsquo;ll be wanting to scroll for WATK (and/or STR).
+More accessible are the Stolen Fence (available from an NPC and as a monster
+drop) and the Pan Lid (available as a reasonably common monster drop). The
+Palette sports better defense than the Stolen Fence or Pan Lid, and the LUK
+that it grants is useful for the accuracy (and avoidability). My preference is
+the Stone Shield, if the implementation even has it, due to its superior
+defense. The Black Phoenix Shield (again, if the implementation even has it) is
+superior to either the Stolen Fence or the Pan Lid, and has twice as much MDEF
+(and WDEF) as the Maple Shield.
 
 #### Headgear
 
-Swashbucklers, unfortunately, do not have access to very much of the
-pirate-specific headgear. There is, however, one notable exception: if you are
-fortunate enough to be playing on an implementation that has the extended
-first-job quests (in the pirate&rsquo;s case, culminating in a battle with the
-Crocell boss monster), you can (and must!) obtain the level 18 Crocell Hat.
-This hat is so powerful as to almost be comparable to a Zakum Helmet.
+Because the two specialisations of pirate (gunslinger and brawler) are opposite
+in their AP dispositions &mdash; gunslingers typically prefer DEX, and
+secondarily STR, and vice versa for brawlers &mdash; the jobbed (viz.
+pirate-only) equipment, e.g. headgear, can be somewhat more viable for
+swashbucklers than it is for, say, woodsmen. Pirate-specific equipment still
+requires DEX (and STR, but that&rsquo;s not the issue), but only as much as the
+game designers expected _brawlers_ to attain. However, ordinary brawlers are
+not necessarily DEXless, whereas swashbucklers are. So pirate equips from level
+25 onwards will require you to get some DEX from your equipment in order to use
+them.
 
-If you cannot obtain the Crocell Hat, you still have some good options
-(&ldquo;ordinary&rdquo; methods of availability &mdash; that is, NPCs, (party)
-quests, monster drops, and crafting &mdash; are bolded):
+If you are fortunate enough to be playing on an implementation that has the
+extended first-job quests (in the pirate&rsquo;s case, culminating in a battle
+with the Crocell boss monster), you can (and must!) obtain the level 18 Crocell
+Hat. This hat is so powerful as to almost be comparable to a Zakum Helmet.
+
+If you cannot obtain the Crocell Hat, you still have some good non-raid-boss
+options (&ldquo;ordinary&rdquo; methods of availability &mdash; that is, NPCs,
+(party) quests, monster drops, and crafting &mdash; are bolded):
 
 | level | name                                                                                                                                                        | availability       | notable stats                                                             | notes                                                                                                                                                                                                                                                                                                                                                                 |
 | ----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------- | :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -610,46 +626,31 @@ you want to optimize for; obviously, the ideal Scar/Tar hat for a swashbuckler
 is generally a Scarlion Hat (DEX).
 
 When it comes to scrolling headgear, obviously you ideally want to scroll for
-DEX, but scrolling for ACC is similarly good, and even 10%/30% DEF scrolls can
-give a +1 ACC, which could be nice. Scrolling for HP is also viable for obvious
-reasons. All-stat hats can be effectively Chaos Scrolled, if you&rsquo;re
-feeling really saucy, or somehow have a large supply of Chaos Scrolls.
+DEX, but scrolling for WACC is similarly good, and even 10%/30% DEF scrolls can
+give a +1 WACC, which could be nice. Scrolling for HP is also viable, for
+obvious reasons. All-stat hats can be effectively Chaos Scrolled, if
+you&rsquo;re feeling really saucy, or somehow have a large supply of Chaos
+Scrolls.
 
 #### Clothing
 
-Again, like with headgear, woodsmen unfortunately largely lack access to
-bowman-specific attire of this kind (tops, bottoms, and overalls). This, again,
-puts the woodsman in a similar situation as their permabeginner counterparts.
-The idea here is to scroll an overall for DEX &mdash; unfortunately, tops
-cannot be scrolled for DEX, although you _could_ go the unusual-but-viable
-route of scrolling a bottom for DEX and scrolling a top for STR, or similar.
-This leaves you with essentially two options: bathrobes, and sauna robes.
+For pirate-specific attire of this kind (overalls), the situation is the same
+as with hats: they can easily be equipped, until you get to level &ge;25
+overalls, at which point you will, in order to equip these higher-level pirate
+overalls, need DEX from your equipment to make up for your DEXless nature. In
+any case (regardless of whether or not you use a pirate overall), the idea here
+is typically to scroll an overall for DEX &mdash; unfortunately, tops cannot be
+scrolled for DEX, although you _could_ go the unusual-but-viable route of
+scrolling a bottom for DEX and scrolling a top for STR, or similar.
 
-Bathrobes:
-
-- Are able to be purchased from an NPC, and thus highly available for scrolling.
-- Have a lower level requirement (20 &lt; 30).
-- Give a nice SPEED boost (+10 SPEED), but are defensively inferior (+20 WDEF
-  &lt; +30 WDEF; +0 AVOID &lt; +10 AVOID).
-
-Sauna robes, on the other hand:
-
-- Are more difficult to acquire, since you have to do a rather difficult quest
-  (and one that has a minimum level requirement of 30) just to get one.
-- Have a higher level requirement (30 &gt; 20).
-- Are defensively superior (+30 WDEF &gt; +20 WDEF; +10 AVOID &gt; +0 AVOID),
-  but do not grant any SPEED.
-
-The fact that bathrobes can be purchased from an NPC makes them, by and large,
-the clear favorite, since we really care about the scrolling outcome, not the
-base stats of the armour.
+Note that pirate-specific overalls that are level 40 or below can be purchased
+directly from NPCs.
 
 #### Footwear
 
-Again, not much bowman-specific footwear here, unless you have access to
-Amdusias Shoes, in which case, just use those. The plan here is to scroll for
-DEX (unless you end up with Facestompers, in which case you might(&#x203d;) try
-Chaos Scrolling before scrolling for DEX).
+Again, if you have access to Crocell Shoes, you will probably just use those.
+The plan here is to scroll for DEX (unless you end up with Facestompers, in
+which case you might(&#x203d;) try Chaos Scrolling before scrolling for DEX).
 
 The usual suspects here are:
 
@@ -667,12 +668,14 @@ The usual suspects here are:
 
 #### Gloves
 
-Again, no access to bowman-specific gloves. Generally, there are two kinds of
-gloves that you might want: gloves scrolled for WATK, and gloves scrolled for
-DEX/ACC. The usual suspects here are obvious: various colors of Work Gloves,
-Green Mittens, various colors of Markers, &amp;c. Scrolling for WATK is ideal,
-although scrolling for DEX/ACC can be useful when you are having accuracy
-troubles and/or troubles getting enough DEX to equip something.
+The situation for pirate-specific gloves is the same as that for
+pirate-specific headgear and overalls, although low-level pirate gloves are not
+very useful. Generally, there are two kinds of gloves that you might want:
+gloves scrolled for WATK, and gloves scrolled for DEX/ACC. The usual suspects
+here are obvious: various colors of Work Gloves, Green Mittens, various colors
+of Markers, &amp;c. Scrolling for WATK is ideal, although scrolling for DEX/ACC
+can be useful when you are having accuracy troubles and/or troubles getting
+enough DEX to equip something.
 
 #### Capes
 
@@ -718,16 +721,16 @@ scrolled with AVOID scrolls.
 
 #### Potions/food/drinks
 
-As a woodsman, you want all of the WATK that you can get. To this end, you will
-probably want potions/food/drinks that give WATK buffs. This is true regardless
-of whether you are engaging in melee, or in archery, particularly because your
-expected damage capabilities in both of these areas are going to be subpar when
-compared to ordinary (non-odd) jobs specialized in these areas (warriors and
-archers, respectively). Being smart with how you acquire and use WATK buffs can
-help to narrow this gap. For WATK buffs that are available from NPCs
-(&ldquo;WATK&sdot;s/meso&rdquo; is the magnitude of the WATK buff given,
-multiplied by the duration, divided by the price per unit, and
-&ldquo;meso/s&rdquo; is the cost of one second of the buff):
+As a swashbuckler, you want all of the WATK that you can get. To this end, you
+will probably want potions/food/drinks that give WATK buffs. This is true
+regardless of whether you are engaging in melee, or in shootin&rsquo;,
+particularly because your expected damage capabilities in both of these areas
+are going to be subpar when compared to ordinary (non-odd) jobs specialized in
+these areas (STR brawlers and DEX gunslingers, respectively). Being smart with
+how you acquire and use WATK buffs can help to narrow this gap. For WATK buffs
+that are available from NPCs (&ldquo;WATK&sdot;s/meso&rdquo; is the magnitude
+of the WATK buff given, multiplied by the duration, divided by the price per
+unit, and &ldquo;meso/s&rdquo; is the cost of one second of the buff):
 
 | name                    | WATK | WATK&sdot;s/meso | meso/s | duration | meso/unit | available from                                                                                                                                                                                              | notes                                                                                                                                                                                                                                           |
 | :---------------------- | ---: | ---------------: | -----: | -------: | --------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -745,7 +748,7 @@ multiplied by the duration, divided by the price per unit, and
 | Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
 | Coke Lite Pill          |   12 |            7.200 |  1.667 |    15:00 |     1,500 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
 | Coke Zero Pill          |   15 |            4.500 |  3.333 |    15:00 |     3,000 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
-| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 3 per stack, so they use up inventory space very inefficiently. |
+| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 1 per stack, so they use up inventory space very inefficiently. |
 
 The items here are in ascending order of WATK, breaking any ties by sorting in
 ascending order of WATK&sdot;s/meso. The two stand-out items here (in the
@@ -761,7 +764,7 @@ With Coke Town, Ciders are still useful (they are still the largest WATK buff),
 but Coke Pills are then firmly in first place with respect to WATK&sdot;s/meso,
 and Coke Zero Pills become very viable as well, due to being the largest WATK
 buff that is _inventory-space efficient_. Ciders are burdened by only stacking
-up to 3 per inventory slot<sup>\[1\]</sup> (they are **not** burdened by the
+up to 1 per inventory slot<sup>\[1\]</sup> (they are **not** burdened by the
 &minus;5 ACC debuff, because that is easily cancelled out); as a result, if you
 want the highest store-bought WATK buff possible, _and_ you haven&rsquo;t the
 inventory space for Ciders, Coke Zero Pills are your best bet &mdash; or
@@ -770,67 +773,27 @@ Ciders, Coke Pills, Coke Lite Pills, Coke Zero Pills, Warrior Pills, and
 Warrior Elixirs) are either not useful, or are situationally useful when you
 happen to be near an NPC that sells them.
 
-Also of note are accuracy potions/food/drinks. For woodsmen that are doing more
-of the &ldquo;melee specialised&rdquo; kind of build (see above), these are not
-really of much concern, since you get access to useful levels of the Focus
-skill relatively early on. For other woodsmen, I recommend the use of Sniper
-Pills (+10 WACC for 10 minutes, available for 500 mesos a pop in Ludibrium)
-until you get Focus to at least level 10. Of course, you only have to use these
-on an as-needed basis.
+Also of note are accuracy potions/food/drinks. I recommend the use of Sniper
+Pills (+10 WACC for 10 minutes, available for 500 mesos a pop in Ludibrium). Of
+course, you only have to use these on an as-needed basis, because you
+won&rsquo;t need them when a cleric/priest/bishop in your party is casting
+Bless on you.
 
 <details>
 <summary>Footnotes for &ldquo;Potions/food/drinks&rdquo;</summary>
 
 \[1\]: The actual maximum number of Ciders that stack per inventory slot can
-vary; the &ldquo;3&rdquo; figure used here is based on MapleLegends.
+vary; in MapleLegends, the number is instead 3.
 
 </details>
 
 #### Ammunition
 
-Like potions/food/drinks that give WATK buffs, ammunitions that give WATK buffs
-are a useful way to eke out a few extra WATK, whenever you are engaging in
-archery. Particularly, the cheapest kind are bronzed ammunition, which grant +1
-WATK and can be purchased from various NPCs (in the Aquarium, Ludibrium, KFT,
-Leafre, and the Omega Sector) for 10 mesos per unit (20k mesos for a ream of 2k
-units)<sup>\[1\]</sup>. More beneficial are colored ammunition (red for arrows,
-blue for quarrels), which grant a whopping +4 WATK, and can be purchased in
-Showa Town for 40 mesos per unit (80k mesos for a ream of 2k
-units)<sup>\[2\]</sup>; diamond ammunition grants the same bonus for half the
-price<sup>\[3\]</sup>, although diamond ammunition can only be purchased by
-those who are allies of the Raven Ninja Clan.
+Bullets are pretty straightforward; they get better as their level requirements
+increase. You want to always be using the highest-level bullets possible.
 
-Note that although we are using two thousand as a &ldquo;ream&rdquo; here
-&mdash; because that is the size of a stack of normal arrows<sup>\[4\]</sup>
-&mdash; bronzed ammunition stacks up to 1.8k per slot<sup>\[4\]</sup>, and
-colored ammunition up to 1k<sup>\[4\]</sup>. Also note that when Soul Arrow is
-active, you cannot benefit from any special ammunition.
-
-MapleLegends-specific note: Diamond ammunition is actually superior to coloured
-ammunition in MapleLegends, granting 5 WATK instead of 4. If possible, I
-recommend getting access to [Mo&rsquo;s
-store](https://bbb.hidden-street.net/npc/mo) (i.e. becoming an ally of the
-Raven Ninja Clan); he sells Ciders, diamond ammunition, All Cure Potions,
-Return to New Leaf City Scrolls, and some other possibly useful stuff.
-MapleLegends also tweaked prices to be generally cheaper for arrows and
-quarrels, and made them stack more readily per-slot. So you have little excuse
-to use Soul Arrow in MapleLegends!
-
-<details>
-<summary>Footnotes for &ldquo;Ammunition&rdquo;</summary>
-
-\[1\]: In MapleLegends: 2 mesos per unit (4k mesos for a ream of 2k units).
-
-\[2\]: In MapleLegends: 5|8 (arrows|quarrels, respectively) mesos per unit
-(10k|16k mesos for a ream of 2k units).
-
-\[3\]: In MapleLegends, diamond ammunition grants +5 WATK, not +4 WATK, and
-costs 10|16 (arrows|quarrels, respectively) mesos per unit (20k|32k mesos for a
-ream of 2k units).
-
-\[4\]: In MapleLegends, **all** arrow types stack up to a maximum of **five**
-thousand units per slot.
-
-</details>
+Armor-Piercing Bullets are available in implementations that have Neo Tokyo
+(e.g. MapleLegends), although they are very difficult to acquire. Use
+these&hellip; if you can.
 
 [mage]: https://forum.maplelegends.com/index.php?threads/guide-how-to-become-a-living-meme-the-str-corsair-mage-edition.30653/
