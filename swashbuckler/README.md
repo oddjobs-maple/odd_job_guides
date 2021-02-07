@@ -336,12 +336,13 @@ care](https://en.wikipedia.org/wiki/Don%27t-care_term)&rdquo;.
 
 We start off here by getting access to some of the meat of third job: Octopus
 and Gaviota (your summons!), and Homing Beacon. Homing Beacon is unfortunately
-only usable with a gun equipped, although it is possible to use it and then
-switch to melee. But it does really work as advertised: it has an infinitely
-long duration (well, as long as the target never dies&hellip;), and will cause
-you to always strike the target any time that it&rsquo;s possible for you to do
-so (i.e. you&rsquo;re in range and aiming in the relevant direction),
-regardless of any other other enemies that would obstruct your attack.
+only usable with a gun equipped; it is possible to use it and then switch to
+melee, but it does not function properly when attacking with a melee weapon.
+But it does otherwise really work as advertised: it has an infinitely long
+duration (well, as long as the target never dies&hellip;), and will cause you
+to always strike the target any time that it&rsquo;s possible for you to do so
+(i.e. you&rsquo;re in range and aiming in the relevant direction), regardless
+of any other other enemies that would obstruct your attack.
 
 Then we save up some SP, because Burst Fire is unfortunately only better DPS
 once it&rsquo;s at roughly level &ge;11 or so. It could possibly vary a bit,
@@ -510,6 +511,63 @@ weapon speed category cheatsheet (note that the names are ambiguous!):
 |     7 | Slow   |
 |     8 | Slow   |
 |     9 | Slower |
+
+<details>
+<summary>A note on attack periods</summary>
+
+When basic-attacking (bound to the `Ctrl` key by default), attack speeds work a
+little differently with spears and polearms than they do with other melee
+weapons. Given a particular speed category, a spear/polearm will attack more
+swiftly (i.e. have a smaller attack period) than a
+sword/axe/mace/dagger/knuckler/wand/staff. A general rule of thumb is that you
+can think of a spear/polearm as having a speed category 1 lower than what it
+nominally is; e.g. a speed 6 spear can be thought of as
+&ldquo;effectively&rdquo; speed 5. This rule of thumb breaks down once you are
+using a spear/polearm at a speed category that is less than 4, but that
+generally doesn&rsquo;t matter for swashbucklers, unless they are affected by
+Speed Infusion.
+
+However, it appears from my own testing that while Somersault Kick definitely
+does take speed category into account when determining attack period,
+**Somersault Kick ignores the weapon type when determining attack speed**. Here
+are some of the results I got from my own testing (by spamming Somersault Kick
+for 45-second intervals):
+
+| speed | type     | Kicks per 45 s | suspected attack period |
+| ----: | :------- | -------------: | ----------------------: |
+|     3 | gun      |             63 |                  720 ms |
+|     4 | 1H sword |             58 |                  780 ms |
+|     5 | gun      |             54 |                  840 ms |
+|     5 | polearm  |             54 |                  840 ms |
+|     5 | 1H sword |             54 |                  840 ms |
+|     6 | gun      |             52 |                  870 ms |
+|     6 | spear    |             52 |                  870 ms |
+
+As you can see, there appears to be no difference in Somersault Kick&rsquo;s
+attack period between a gun, a polearm/spear, and a non-polearm-non-spear melee
+weapon, as long as their speed categories are identical. This simplifies
+reasoning about weapon choice, and makes the table below easier to read.
+
+This mostly agrees with the figures stated in (**WARNING:** raw HTTP)
+[**LazyBui**&rsquo;s &ldquo;Attack Speed
+Reference&rdquo;](http://www.southperry.net/showthread.php?t=3217), with one
+exception: said reference states that Somersault Kick with a speed 6 knuckler
+is the same attack period as with speed 5, but my measurements suggest that
+speed 6 is actually somewhat slower (as one would expect). It&rsquo;s possible
+that knucklers are special here, and really aren&rsquo;t slower when going from
+speed 5 to speed 6, but that wouldn&rsquo;t matter for swashbucklers anyways
+(as they don&rsquo;t use knucklers). Based on my measurements and
+LazyBui&rsquo;s, the attack periods for Somersault Kick are probably:
+
+| speed | period |
+| ----: | -----: |
+|     2 | 660 ms |
+|     3 | 720 ms |
+|     4 | 780 ms |
+|     5 | 840 ms |
+|     6 | 870 ms |
+
+</details>
 
 The following table compares some of the swashbuckler&rsquo;s juiciest melee
 weapons (&ldquo;ordinary&rdquo; methods of availability &mdash; that is, NPCs,
