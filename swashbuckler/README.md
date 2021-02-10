@@ -806,17 +806,20 @@ unit, and &ldquo;meso/s&rdquo; is the cost of one second of the buff):
 | Warrior Elixir          |   12 |            1.152 | 10.417 |     8:00 |     5,000 | NLC                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 |
 | Coke Lite Pill          |   12 |            7.200 |  1.667 |    15:00 |     1,500 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
 | Coke Zero Pill          |   15 |            4.500 |  3.333 |    15:00 |     3,000 | Coke Town                                                                                                                                                                                                   | Requires access to Coke Town, which is somewhat unusual.                                                                                                                                                                                        |
-| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge                                                                                                                                                                               | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 1 per stack, so they use up inventory space very inefficiently. |
+| Cider                   |   20 |            6.000 |  3.333 |     5:00 |     1,000 | Showa, Dead Man&rsquo;s Gorge, Ninja Castle                                                                                                                                                                 | Gives a &minus;5 ACC debuff for its duration, but this is easily cancelled out by any other ACC buff (e.g. Focus, or Sniper Pills). Also, be warned that these only allow up to 1 per stack, so they use up inventory space very inefficiently. |
 
 The items here are in ascending order of WATK, breaking any ties by sorting in
 ascending order of WATK&sdot;s/meso. The two stand-out items here (in the
 absence of Coke Town) are the Warrior Pill and the Cider. Both are tied for
 first place w.r.t. WATK&sdot;s/meso, with the Warrior Pill being the low-cost
-but low-WATK alternative to the higher-cost but higher-WATK Cider. This makes
-Ciders great for doing big damage without breaking the bank or running into
-scarcity (as you might with items that give WATK buffs greater than +20), and
-Warrior Pills great for a WATK buff that you can have on at all times for a
-very low meso cost (just 0.833 meso/s!).
+but low-WATK alternative to the higher-cost, inventory-space inefficient, but
+higher-WATK Cider. This makes Ciders great for doing big damage without
+breaking the bank or running into scarcity (as you might with items that give
+WATK buffs greater than +20), and Warrior Pills great for a WATK buff that you
+can have on at all times for a very low meso cost (just 0.833 meso/s!).
+Actually, another stand-out item here is the Warrior Elixir; while its
+WATK&sdot;s/meso is fairly low, it gives the highest WATK buff without breaking
+your inventory (like Ciders might).
 
 With Coke Town, Ciders are still useful (they are still the largest WATK buff),
 but Coke Pills are then firmly in first place with respect to WATK&sdot;s/meso,
@@ -835,7 +838,8 @@ Also of note are accuracy potions/food/drinks. I recommend the use of Sniper
 Pills (+10 WACC for 10 minutes, available for 500 mesos a pop in Ludibrium). Of
 course, you only have to use these on an as-needed basis, because you
 won&rsquo;t need them when a cleric/priest/bishop in your party is casting
-Bless on you.
+Bless on you, or when your enemies simply don&rsquo;t have a high enough AVOID
+for it to matter.
 
 <details>
 <summary>Footnotes for &ldquo;Potions/food/drinks&rdquo;</summary>
