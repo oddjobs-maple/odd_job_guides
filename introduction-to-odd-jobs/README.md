@@ -256,7 +256,37 @@ When built “normally” — i.e. just enough DEX to equip one’s weapon, and 
 remaining AP into STR — dagger warriors are amongst the most powerful odd jobs,
 in terms of sheer DPS output.
 
+#### Related species
+
+- **Wand warrior:** Exclusively uses wands, instead of daggers.
+
 ### DEX warrior
+
+![From left to right: a DEXadin, a darksterity knight](dex-warriors.webp
+"From left to right: a DEXadin, a darksterity knight")
+
+Warriors who dump all of their AP (except for the 35 base STR necessary to job
+advance) into DEX are known as DEX warriors. Although DEX warriors deal
+considerably less damage than their non-odd counterparts, they are typically
+capable of using the same skillset, and their extreme agility comes with its
+own perks.
+
+DEX warriors are renowned for their godlike accuracy and incredibly stable
+damage output. They also have much more avoidability than STR-based warriors,
+and have no issues wielding the legendary Stonetooth Sword. And DEX _does_
+contribute to the magnitude of the warrior’s damage — this, combined with the
+arsenals provided by the various warrior classes, makes DEX warriors some of
+the most high-powered odd jobs overall.
+
+Because of their STRlessness, DEX warriors have unique equipment
+considerations. This often results in DEX warrior gear looking more like
+permabeginner gear than ordinary warrior gear.
+
+#### Related species
+
+- **LUK warrior:** Is pure LUK, instead of pure DEX. LUK warriors give up some
+  damage, damage stability, and WACC, in exchange for more avoidability, and
+  higher DPS with claws.
 
 ## 🧙 Mages
 
