@@ -339,7 +339,8 @@ Unlike permabeginners, however, STR mages have a wide variety of spells and
 other goodies at their disposal. STR mages are built much sturdier than
 permabeginners, thanks to Magic Guard, Magic Armor, etc. They also have —
 assuming that they’re not permamagicians — Teleport at their disposal, allowing
-them to “teleslash” their foes.
+them to “teleslash” their foes. They also get access to weapons like the Fusion
+Mace, which are designed for STR mages.
 
 Typically, STR mages follow one of two paths: cleric → priest → bishop, or
 fire/poison. As a bishop, the STR mage is incredibly durable, while providing
@@ -479,6 +480,52 @@ crossbows. If all else is equal, crossbows tend to be slightly more powerful
 than bows.
 
 ### Woods(wo)man
+
+![The woodswoman](woodswomen.webp "The woodswoman")
+
+An archer that is pure STR is called a woods(wo)man, or forester. With all of
+that STR, woods(wo)men are very proficient in basic-attacking, much like
+STRginners and STR mages. On the other hand, their archery skills are still
+formidable, which contributes to their versatility.
+
+In melee, the woods(wo)man benefits from a number of things:
+
+- Access to special “jobbed beginner” weapons, like the Monkey Wrench and Metal
+  Axe;
+- summons, e.g. Silver Hawk and Frostprey;
+- and a number of buffs, including Sharp Eyes, The Blessing of Amazon, and
+  Focus.
+
+In archery, the woods(wo)man benefits from many of the same things that a
+non-odd archer does. However, there are some crucial differences:
+
+- The woods(wo)man has difficulties wearing ordinary archer gear, due to their
+  DEXlessness. Maple weapons (e.g. the Maple Nishada) are extremely helpful
+  here, as is the Bow of Magical Destruction. Otherwise, woods(wo)man gear is
+  very similar to STRginner gear.
+- The woods(wo)man’s archery damage is naturally lower, but also more stable.
+- The woods(wo)man has to find a way to make up for their missing WACC.
+
+With their versatility, and their ability to use any archer skill at their
+disposal, woods(wo)men are exceptionally strong (for an odd job) in most
+situations. Their primary weakness is, of course, their fragility, although
+they usually fare better than permarchers and permabeginners in this respect.
+Woods(wo)men are also disadvantaged relative to gishes, because they must
+switch equipment in order to switch their combat style.
+
+Both bow users and crossbow users make strong woods(wo)men. Some claim that
+crossbow users are superior, because of their access to Snipe, but both have
+their strengths.
+
+<details>
+<summary>Further reading about the woods(wo)man</summary>
+
+- [deer (capreolina), “The Martial Classicist, The Strongest Drawing Arm In All
+  The Land: The Woodsman”, 2020-12-07,
+  _Oddjobs_.](https://oddjobs.codeberg.page/guides/woodsman/)
+  ([mirror](https://oddjobs-maple.github.io/guides/woodsman/))
+
+</details>
 
 ### Bow-whacker
 
