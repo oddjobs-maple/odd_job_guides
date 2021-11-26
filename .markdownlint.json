@@ -14,7 +14,8 @@
       "blockquote",
       "footer",
       "cite",
-      "br"
+      "br",
+      "kbd"
     ]
   },
   "MD035": { "style": "---" }

@@ -20,6 +20,23 @@ of odd jobs on the **Oddjobs**
 website](https://oddjobs.codeberg.page/odd-jobs.html). This guide also doesn’t
 cover any odd jobs that are unique to post-Big-Bang MapleStory.
 
+<details>
+<summary>Glossary of some terms used within this guide</summary>
+
+- **Basic-attack:** The most basic type of melee attack, which is bound to the
+  <kbd>Ctrl</kbd> key by default.
+- **WACC:** Weapon accuracy.
+- **MACC:** Magic accuracy.
+- **WDEF:** Weapon defence.
+- **MDEF:** Magic defence.
+- **MAXHP:** Maximum HP.
+- **MAXMP:** Maximum MP.
+- **DPS:** Damage per second.
+- **F/P:** Fire/poison.
+- **I/L:** Ice/lightning.
+
+</details>
+
 ## 🔰 Beginners
 
 ### Islander
@@ -309,6 +326,51 @@ Permamagicians are totally elementally neutral, unlike other kinds of
 spellcasting mages.
 
 ### STR mage
+
+![From left to right: a STR bishop, a STR
+cleric](str-mages.webp "From left to right: a STR bishop, a STR cleric")
+
+A mage who devotes their AP to STR (and possibly some DEX, for the WACC) is
+known as a STR mage. The main mode of combat for a STR mage is melee; they deal
+damage by basic-attacking, much like outland permabeginners.
+
+Unlike permabeginners, however, STR mages have a wide variety of spells and
+other goodies at their disposal. STR mages are built much sturdier than
+permabeginners, thanks to Magic Guard, Magic Armor, etc. They also have —
+assuming that they’re not permamagicians — Teleport at their disposal, allowing
+them to “teleslash” their foes.
+
+Typically, STR mages follow one of two paths: cleric → priest → bishop, or
+fire/poison. As a bishop, the STR mage is incredibly durable, while providing
+massive amounts of utility. From Heal (STR mages use this skill only
+defensively), to Bless, to Holy Symbol, to Doom, to Dispel, to Resurrection,
+etc., the STR bishop always has something to bring to the table. And the
+fire/poison mage gets spells like Slow, Seal, and most importantly: Poison
+Mist. Poison Mist’s lingering cloud ignores the STR F/P’s MACC, allowing them
+to poison any non-boss monster.
+
+Although they are much less popular, STR I/L mages and STR permamagicians are
+possible as well.
+
+#### Related species
+
+- **DEX mage:** Is pure DEX, but otherwise functions like a STR mage.
+
+<details>
+<summary>Further reading about the STR mage</summary>
+
+- [deer (cervid), “The Divinely Blessed Knight-Errant, The Holy Physician
+  Turned Armed Zealot: The STR Cleric”, 2020-10-30,
+  _Oddjobs_.](https://oddjobs.codeberg.page/guides/str-cleric/)
+  ([mirror](https://oddjobs-maple.github.io/guides/str-cleric/))
+- [Hyperhal (GreenMidori), “STR Mage v3”, 2007-03-04, _Hidden Street
+  Forums_.](https://www.hidden-street.net/forum/threads/14161-STR-Mage-v3)
+  ([archived](https://web.archive.org/web/20201228092416/https://www.hidden-street.net/forum/threads/14161-STR-Mage-v3))
+- [scan-9, “War mage (STR Mage) Guide”, 2007-12-05, _MapleTip
+  Forums_.](https://forums.mapletip.com/index.php?/topic/113500-war-mage-str-mage-guide/)
+  ([archived](https://web.archive.org/web/20140708111804/https://forums.mapletip.com/index.php?/topic/113500-war-mage-str-mage-guide/))
+
+</details>
 
 ### Magelet
 
