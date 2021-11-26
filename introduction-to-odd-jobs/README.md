@@ -108,7 +108,7 @@ MapleStory:
   Forums_.](https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/)
   ([archived](https://web.archive.org/web/20200806122805/https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/))
 - [숲속주민 \[_Supsokjumin_\] (또르르 \[_Ttoreureu_\]), “\[KMS\] 2017 Maplestory
-  Camper - The last active Islander”, 2017-12-19,
+  Camper — The last active Islander”, 2017-12-19,
   _YouTube_.](https://www.youtube.com/watch?v=s9SXRQGwvRA)
 
 </details>
@@ -191,11 +191,46 @@ although they are sluggish due to a lack of mobility skills and ranged attacks.
 
 Perhaps the most notable aspect of the permawarrior is the sheer variety of
 equipment that they are capable of using. Not only do they get full access to
-warrior-only equipment like ordinary warriors do, they are much less picky when
-it comes to weapon types. Polearms, swords, axes, blunt weapons, and even
-daggers are all very viable weapons for the permawarrior!
+warrior-only equipment like ordinary warriors do, but they are also much less
+picky when it comes to weapon types. Polearms, swords, axes, blunt weapons, and
+even daggers are all very viable weapons for the permawarrior!
 
 ### HP warrior
+
+![Two HP warriors, using Rage and Power
+Guard](hp-warriors.webp "Two HP warriors, using Rage and Power Guard")
+
+HP warriors (a.k.a. blood warriors) are statless warriors who put all of their
+AP into MAXHP. An HP warrior only adds enough STR to job advance, and then
+waits until they have Improved MaxHP Increase maxed before dumping all of their
+AP into MAXHP. This makes HP warriors _incredibly_ durable — they may hit the
+30k MAXHP cap at around level 90–100!
+
+The main tool in the HP warrior’s arsenal is typically Power Guard. Every time
+that the HP warrior touches a foe, a portion of the damage that they take is
+removed from their foe’s HP. This is often inefficient, but means that HP
+warriors can fight just about _any_ enemy by the time that they are level ≈41
+or so! It also means that HP warriors typically go the fighter or page route
+for second job advancement (spear(wo)men never get Power Guard). To maximise
+their Power Guard damage, the HP warrior seeks to lower their WDEF as much as
+possible — to that end, the debuff from Rage can be useful (in addition to
+being useful for the party).
+
+Rarely, HP warriors may go the spear(wo)man route in order to provide support
+for their party while still at a low level, in the form of Hyper Body and Iron
+Will.
+
+<details>
+<summary>Further reading about the HP warrior</summary>
+
+- [ShurikenRonan, “A Guide for an HP Warrior!”, 2006-05-07, _Sleepywood
+  Forums_.](https://web.archive.org/web/20120614133139/http://sleepywood.net/forum/showthread.php?t=891610)
+- [Chippage, “The Complete HP Warrior guide from Levels 1–30”, 2008-06-27,
+  _MapleTip
+  Forums_.](https://forums.mapletip.com/index.php?/topic/124215-the-complete-hp-warrior-guide-from-levels-1-30/)
+  ([archived](https://web.archive.org/web/20140708143118/https://forums.mapletip.com/index.php?/topic/124215-the-complete-hp-warrior-guide-from-levels-1-30/))
+
+</details>
 
 ### Dagger warrior
 
