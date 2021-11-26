@@ -29,7 +29,9 @@ cover any odd jobs that are unique to post-Big-Bang MapleStory.
 
 Islanders, like most characters, leave the Training Camp. But they never leave
 Maple Island! As a result, they are necessarily permabeginners, and they have a
-very limited set of monsters that they can fight.
+very limited set of monsters that they can fight. DEX is perhaps the most
+important stat for islanders, as it improves their minimum damage per hit, thus
+bringing them closer to one-shotting the monsters of Maple Island.
 
 Because Maple Island is totally isolated from the rest of the Maple World,
 islanders have a very unique set of equipment & scrolls that they can use. As a
@@ -38,17 +40,19 @@ characters, because they offer the chance to obtain special items that don’t
 occur naturally.
 
 Although they may appear severely limited at first glance, dedicated islanders
-are capable of achieving impressive levels. They also come in many flavours!
-DEX is perhaps the most important stat for islanders, as it improves their
-minimum damage per hit, thus bringing them closer to one-shotting the monsters
-of Maple Island — islanders with high DEX are known as “DEXlanders”. Likewise,
-islanders with high STR are known as “STRlanders”. Islanders who focus on LUK
-and use claws (like the Magical Mitten) may be known as “LUKlanders”. Islanders
-who add enough AP into STR, INT, & LUK to equip every weapon on the island
-(including the Leather Purse and the Metal Wand) may be known as
-“perfectlanders”. And, last but not least, islanders who exclusively make use
-of the Metal Wand are called “magelanders” — magelanders fight almost
-exclusively with the Three Snails skill.
+are capable of achieving impressive levels. They also come in many flavours!:
+
+#### Subspecies
+
+- Magelander: Exclusively uses the Metal Wand, and mostly fights by using the
+  Three Snails skill.
+- DEXlander: Has high DEX.
+- STRlander: Has high STR.
+- LUKlander: Has high LUK, and uses claws (e.g. the Magical Mitten).
+- Perfectlander: Has enough STR, INT, & LUK to equip any weapon on the island
+  (including the Leather Purse and the Metal Wand).
+- Hybridlander: Is a hybrid of two or more of the above. STR/DEX and DEX/LUK
+  hybrids are particularly common.
 
 <details>
 <summary>Further reading about the islander</summary>
@@ -119,5 +123,7 @@ exclusively with the Three Snails skill.
 ### Permapirate
 
 ### DEX brawler
+
+### Pugilist
 
 ### Swashbuckler
