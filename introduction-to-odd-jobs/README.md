@@ -392,11 +392,11 @@ significant LUK requirements, but no significant INT requirements.
 
 Magelets can thrive in any of the main three mage paths (fire/poison,
 ice/lightning, cleric/priest/bishop). F/P magelets benefit from the fact that
-poison effects (from e.g. Poison Breath or Poison Mist) ignore the mage’s TMA.
-I/L magelets benefit from the strong crowd control and raw DPS of I/L skills.
-And, last but not least, clerics/priests/bishops benefit from the fact that
-Heal damage scales with LUK, as well as from the awesome utility skills
-provided by bishops.
+poison effects (from Poison Breath or Poison Mist) ignore the mage’s TMA. I/L
+magelets benefit from the strong crowd control and raw DPS of I/L skills. And,
+last but not least, clerics/priests/bishops benefit from the fact that Heal
+damage scales with LUK, as well as from the awesome utility skills provided by
+bishops.
 
 #### Subspecies
 
@@ -412,6 +412,48 @@ provided by bishops.
 </details>
 
 ### Gish
+
+![From left to right: an F/P archgish, an I/L
+gish](gishes.webp "From left to right: an F/P archgish, an I/L gish")
+
+For some players, STR/DEX mages leave something to be desired — with no MACC,
+almost all offensive spells are useless. By adding some AP into LUK and/or INT,
+but otherwise adding AP like a STR/DEX mage, the gish is capable of harnessing
+both worlds: physical _and_ magical. The gish is in a special position to make
+good use of special items that have both physical and magical benefits, like
+the umbrellas, the Crimson Arcglaive, the Flamekeeper Cordon, the Kebob, the
+Flaming Katana, etc.
+
+Gishes must sacrifice some of the melee power of the STR/DEX mage in order to
+be proficient with magical attacks. Also, gishes are extremely unique in their
+reliance on every single stat: STR, DEX, INT, _and_ LUK! These two facts
+combine to make the gish perhaps the single most difficult job in MapleStory to
+play properly. Allocating AP and choosing gear for a gish is **not** for the
+faint of heart, and MACC issues (and some WACC issues) abound.
+
+However, for those willing to take on the challenge, gishes can be incredibly
+rewarding. Not only are they mixed attackers, but they are capable of
+alternating between modes of combat without switching equipment. Furthermore,
+like magelets, gishes can excel in any of the three main mage paths.
+
+#### Subspecies
+
+- **Gishlet:** Is an INTless gish, focusing only on STR/DEX and LUK.
+
+<details>
+<summary>Further reading about the gish</summary>
+
+- [cortical (GishGallop), “Project Gish”, 2021-03-16, _Oddjobs
+  Forum_.](https://oddjobs.flarum.cloud/d/11-project-gish)
+  ([archived](https://web.archive.org/web/20211126122154/https://oddjobs.flarum.cloud/d/11-project-gish))
+- [Hyperhal (GreenMidori), “STR Mage v3”, 2007-03-04, _Hidden Street
+  Forums_.](https://www.hidden-street.net/forum/threads/14161-STR-Mage-v3)
+  ([archived](https://web.archive.org/web/20201228092416/https://www.hidden-street.net/forum/threads/14161-STR-Mage-v3))
+- [deer and cortical (GishGallop), “Gish AP Calculator”, 2021-04-21,
+  _Oddjobs_.](https://oddjobs.codeberg.page/gish-ap-calc/)
+  ([mirror](https://oddjobs-maple.github.io/gish-ap-calc/))
+
+</details>
 
 ## 🏹 Archers
 
