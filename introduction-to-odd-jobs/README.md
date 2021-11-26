@@ -25,6 +25,7 @@ cover any odd jobs that are unique to post-Big-Bang MapleStory.
 
 - **Basic-attack:** The most basic type of melee attack, which is bound to the
   <kbd>Ctrl</kbd> key by default.
+- **TMA:** Total magic attack (total MATK).
 - **WACC:** Weapon accuracy.
 - **MACC:** Magic accuracy.
 - **WDEF:** Weapon defence.
@@ -373,6 +374,42 @@ possible as well.
 </details>
 
 ### Magelet
+
+![From left to right: an I/L magelet, a
+priestlet](magelets.webp "From left to right: an I/L magelet, a priestlet")
+
+A pure LUK mage is called a magelet. One way to think about magelets is that
+STR mages are to STRginners, as magelets are to LUKginners. And indeed, the
+magelet is adept at using claws. However, perhaps the most important trait of
+gishlets is that they have the same MACC as their non-odd counterparts! This
+allows magelets to make use of essentially all of their skills.
+
+Although magelets may deal less damage than their non-odd counterparts when
+spellcasting, magelets excel at avoidability, DPS with claws, and WACC (useful
+for last-hitting when training with Poison Mist). They also have some unique
+equipment choices, as there are several TMA-oriented weapons which have
+significant LUK requirements, but no significant INT requirements.
+
+Magelets can thrive in any of the main three mage paths (fire/poison,
+ice/lightning, cleric/priest/bishop). F/P magelets benefit from the fact that
+poison effects (from e.g. Poison Breath or Poison Mist) ignore the mage’s TMA.
+I/L magelets benefit from the strong crowd control and raw DPS of I/L skills.
+And, last but not least, clerics/priests/bishops benefit from the fact that
+Heal damage scales with LUK, as well as from the awesome utility skills
+provided by bishops.
+
+#### Subspecies
+
+- **Claw mage:** Is a magelet who only uses claws.
+
+<details>
+<summary>Further reading about the magelet</summary>
+
+- [deer (cervine, d33r), “Fate’s Warlock, Fortune’s Witch: The Magelet”,
+  2021-01-25, _Oddjobs_.](https://oddjobs.codeberg.page/guides/magelet/)
+  ([mirror](https://oddjobs-maple.github.io/guides/magelet/))
+
+</details>
 
 ### Gish
 
