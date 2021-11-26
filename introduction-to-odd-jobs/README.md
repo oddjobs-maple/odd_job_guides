@@ -459,6 +459,25 @@ like magelets, gishes can excel in any of the three main mage paths.
 
 ### Permarcher
 
+![Two permarchers](permarchers.webp "Two permarchers")
+
+Permarchers are one of five kinds of perma-first-jobbers (“perma-firsts”).
+Permarchers take first job advancement to archer, but never job advance beyond
+this point. This makes perma-firsts similar to permabeginners, in that they are
+defined by their refusal to job advance.
+
+Permarchers rely on the combination of Critical Shot with Double Shot (and/or
+Arrow Blow) for offence. On the other hand, they are almost totally lacking in
+defences (besides the +20 avoidability from Focus) — they don’t even get the
+MAXHP boost from taking second job advancement. This makes permarchers very
+fragile, and unable to hit more than one monster at a time. However,
+permarchers are just as “ranged” as any non-odd archer, and their single-target
+DPS is very impressive for an odd job.
+
+Permarchers are notable for being equally skilled in the use of bows and
+crossbows. If all else is equal, crossbows tend to be slightly more powerful
+than bows.
+
 ### Woods(wo)man
 
 ### Bow-whacker
