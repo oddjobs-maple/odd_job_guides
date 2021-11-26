@@ -292,6 +292,22 @@ permabeginner gear than ordinary warrior gear.
 
 ### Permamagician
 
+![Two permamagicians](permamagicians.webp "Two permamagicians")
+
+Permamagicians are one of five kinds of perma-first-jobbers (“perma-firsts”).
+Permamagicians take first job advancement to magician, but never job advance
+beyond this point. This makes perma-firsts similar to permabeginners, in that
+they are defined by their refusal to job advance.
+
+Permamagicians rely on Magic Claw (& Energy Bolt) for offence, and Magic Guard,
+Magic Armor, & Improved MaxMP Increase for defence. This makes permamagicians
+fairly survivable, but lacking in multi-target attacks. Permamagicians can also
+be sluggish, as their attacks do have some reach, but they lack the Teleport of
+other mages.
+
+Permamagicians are totally elementally neutral, unlike other kinds of
+spellcasting mages.
+
 ### STR mage
 
 ### Magelet
