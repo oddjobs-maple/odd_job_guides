@@ -76,6 +76,43 @@ are capable of achieving impressive levels. They also come in many flavours!:
 
 ### Camper
 
+![From left to right: a classic camper, an applelander](campers.webp
+"From left to right: a classic camper, an applelander")
+
+Campers are, like islanders, restricted by their location. But unlike
+islanders, they never make it out of the Training Camp! Campers are thus
+_extremely_ restricted: they never gain equipment, and they are forced to only
+fight monsters that give 1 EXP each. Most campers choose the Sword, as it has
+the fastest attack speed out of the three starter weapons.
+
+There may be different flavours of camper, depending on the version of
+MapleStory:
+
+#### Subspecies
+
+- **Classic camper:** Exists in an older version, where the camp is outdoors
+  and features Tutorial Jr. Sentinels.
+- **Applelander:** Is an Adventurer camper in a newer version, where the camp
+  is indoors, forces the player to wear a green apple suit, and features
+  Tutorial Leatties and Tutorial Drumming Rabbits.
+- **Roadie:** Is a Cygnus Knight camper, who trains along Empress’ Road. This
+  is the subspecies that is most similar to an islander, as the monsters there
+  do drop a few items.
+- **Snowlander:** Is an Aran camper, who fights only Tutorial Murus.
+
+<details>
+<summary>Further reading about the camper</summary>
+
+- [Readers (TZD) and BigBerginner, “Readers’ Extraordinary Permanent Beginner
+  Guide”, 2009-11-25, _MapleTip
+  Forums_.](https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/)
+  ([archived](https://web.archive.org/web/20200806122805/https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/))
+- [숲속주민 \[_Supsokjumin_\] (또르르 \[_Ttoreureu_\]), “\[KMS\] 2017 Maplestory
+  Camper - The last active Islander”, 2017-12-19,
+  _YouTube_.](https://www.youtube.com/watch?v=s9SXRQGwvRA)
+
+</details>
+
 ### Permabeginner (outland)
 
 ## Warriors
