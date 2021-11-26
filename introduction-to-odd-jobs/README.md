@@ -420,7 +420,7 @@ gish](gishes.webp "From left to right: an F/P archgish, an I/L gish")
 For some players, STR/DEX mages leave something to be desired — with no MACC,
 almost all offensive spells are useless. By adding some AP into LUK and/or INT,
 but otherwise adding AP like a STR/DEX mage, the gish is capable of harnessing
-both worlds: physical _and_ magical. The gish is in a special position to make
+both worlds: physical _and_ magical. The gish is in a unique position to make
 good use of special items that have both physical and magical benefits, like
 the umbrellas, the Crimson Arcglaive, the Flamekeeper Cordon, the Kebob, the
 Flaming Katana, etc.
