@@ -115,6 +115,64 @@ MapleStory:
 
 ### Permabeginner (outland)
 
+![From left to right: a STRginner, a wandginner, a DEXginner, and a
+besinner](outland-permabeginners.webp
+"From left to right: a STRginner, a wandginner, a DEXginner, and a besinner")
+
+While both islanders and campers are necessarily permabeginners, the term
+“permabeginner” is often used narrowly to refer to _outland_ permabeginners.
+Outland permabeginners have a whole Maple World to explore, but their arsenal
+remains much the same as their inland counterparts: pretty much just
+basic-attacking.
+
+Because they have access to more dangerous terrain, outland permabeginners care
+more about their _average_ damage per hit than inland permabeginners do, and
+can reach greater heights! But with the dangerous terrain, comes the
+realisation that beginners are strong at heart, but maybe not in body.
+Permabeginners have exceptionally poor MAXHP (although they benefit more from
+WDEF than other classes do), and basic-attacking eventually becomes too weak to
+competently fight monsters of the permabeginner’s own level.
+
+That being said, outland permabeginners are a perennially popular choice of
+main character for the odd-minded! Most focus on STR (sometimes with DEX added,
+to improve WACC), and tend to use polearms, swords, and daggers. Nevertheless,
+outland permabeginners are at least as diverse as their inland counterparts.
+
+Depending on the version of MapleStory, outland permabeginners may have access
+to special beginner-only weapons, like the level 20 Frozen Tuna, the Sake
+Bottle, and the almighty Maroon Mop.
+
+#### Subspecies
+
+- **STRginner:** Focuses on STR. This is the most common subspecies.
+- **Besinner/LUKginner:** Focuses on LUK, and uses claws (e.g. the Magical
+  Mitten).
+- **DEXginner:** Is pure DEX.
+- **Wandginner:** Exclusively uses wands as their weapons.
+
+<details>
+<summary>Further reading about the outland permabeginner</summary>
+
+- [Slime (OmokTeacher), “Slime’s Comprehensive Permanent Beginner Guide”,
+  2016-11-03, _MapleLegends
+  Forums_.](https://forum.maplelegends.com/index.php?threads/slimes-comprehensive-permanent-beginner-guide.9513/)
+  ([archived](https://web.archive.org/web/20211126061039/https://forum.maplelegends.com/index.php?threads/slimes-comprehensive-permanent-beginner-guide.9513/))
+- [Readers (TZD) and BigBerginner, “Readers’ Extraordinary Permanent Beginner
+  Guide”, 2009-11-25, _MapleTip
+  Forums_.](https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/)
+  ([archived](https://web.archive.org/web/20200806122805/https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/))
+- [LittleTLK, “Comprehensive Guide to Jobless Characters Part 2”, 2010-05-13,
+  _BasilMarket_.](https://web.archive.org/web/20100516173343/http://www.basilmarket.com/forum/1508788/0/Comprehensive_Guide_to_Jobless_Characters_Part_2.html)
+- [DuFyy, “DuFyy’s Beginner Guide”, 2010-06-20, _MapleAnime
+  Forums_.](https://www.mapleanime.com/forum/viewtopic.php?t=6216)
+  ([archived](https://web.archive.org/web/20201228114125/https://www.mapleanime.com/forum/viewtopic.php?t=6216))
+- [Disoriented (willekrona), “Disoriented’s Permanent Beginner Guide!”,
+  2016-06-03, _MapleRoyals
+  Forums_.](https://mapleroyals.com/forum/threads/disorienteds-permanent-beginner-guide.67505/)
+  ([archived](https://web.archive.org/web/20210101091315/https://mapleroyals.com/forum/threads/disorienteds-permanent-beginner-guide.67505/))
+
+</details>
+
 ## Warriors
 
 ### Permawarrior
