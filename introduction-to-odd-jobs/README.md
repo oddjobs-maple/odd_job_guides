@@ -44,15 +44,15 @@ are capable of achieving impressive levels. They also come in many flavours!:
 
 #### Subspecies
 
-- Magelander: Exclusively uses the Metal Wand, and mostly fights by using the
-  Three Snails skill.
-- DEXlander: Has high DEX.
-- STRlander: Has high STR.
-- LUKlander: Has high LUK, and uses claws (e.g. the Magical Mitten).
-- Perfectlander: Has enough STR, INT, & LUK to equip any weapon on the island
-  (including the Leather Purse and the Metal Wand).
-- Hybridlander: Is a hybrid of two or more of the above. STR/DEX and DEX/LUK
-  hybrids are particularly common.
+- **Magelander:** Exclusively uses the Metal Wand, and mostly fights by using
+  the Three Snails skill.
+- **DEXlander:** Has high DEX.
+- **STRlander:** Has high STR.
+- **LUKlander:** Has high LUK, and uses claws (e.g. the Magical Mitten).
+- **Perfectlander:** Has enough STR, INT, & LUK to equip any weapon on the
+  island (including the Leather Purse and the Metal Wand).
+- **Hybridlander:** Is a hybrid of two or more of the above. STR/DEX and
+  DEX/LUK hybrids are particularly common.
 
 <details>
 <summary>Further reading about the islander</summary>
