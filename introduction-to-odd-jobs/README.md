@@ -234,6 +234,28 @@ Will.
 
 ### Dagger warrior
 
+![From left to right: a dagger spearwoman, a dagger sader](dagger-warriors.webp
+"From left to right: a dagger spearwoman, a dagger sader")
+
+Warriors who exclusively use daggers as their weapons are known as dagger
+warriors. “STR daggers” — daggers that require significant STR and DEX to be
+equipped — are popular among ordinary bandits, but they are actually not
+exclusive to thieves. They’re exclusive to thieves _and_ warriors! Because
+these thief-warrior daggers _only_ require STR and DEX to be equipped (i.e. no
+LUK required), they naturally encourage the creation of dagger warriors.
+
+Like permawarriors, dagger warriors are essentially stuck with Power Strike &
+Slash Blast for life. However, unlike permawarriors, dagger warriors can take
+second job (and further job) advancements. This unlocks tons of useful goodies.
+Most notably: Rage, Threaten, Hyper Body, Berserk, Shout, Shield Mastery, and
+most of all, Combo Attack! This makes fighter → crusader → hero the natural
+class progression for dagger warriors, although other paths have their
+advantages as well. Note that Dragon Roar is not usable by dagger warriors.
+
+When built “normally” — i.e. just enough DEX to equip one’s weapon, and the
+remaining AP into STR — dagger warriors are amongst the most powerful odd jobs,
+in terms of sheer DPS output.
+
 ### DEX warrior
 
 ## 🧙 Mages
