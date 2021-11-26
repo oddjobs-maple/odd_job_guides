@@ -20,7 +20,7 @@ of odd jobs on the **Oddjobs**
 website](https://oddjobs.codeberg.page/odd-jobs.html). This guide also doesn’t
 cover any odd jobs that are unique to post-Big-Bang MapleStory.
 
-## Beginners
+## 🔰 Beginners
 
 ### Islander
 
@@ -173,9 +173,27 @@ Bottle, and the almighty Maroon Mop.
 
 </details>
 
-## Warriors
+## ⚔️ Warriors
 
 ### Permawarrior
+
+![Two permawarriors](permawarriors.webp "Two permawarriors")
+
+Permawarriors (a.k.a. permasword(wo)men) are one of five kinds of
+perma-first-jobbers (“perma-firsts”). Permawarriors take first job advancement
+to warrior/sword(wo)man, but never job advance beyond this point. This makes
+perma-firsts similar to permabeginners, in that they are defined by their
+refusal to job advance.
+
+Permawarriors rely on Power Strike & Slash Blast for offence, and Improved
+MaxHP Increase & Iron Body for defence. This makes them quite versatile,
+although they are sluggish due to a lack of mobility skills and ranged attacks.
+
+Perhaps the most notable aspect of the permawarrior is the sheer variety of
+equipment that they are capable of using. Not only do they get full access to
+warrior-only equipment like ordinary warriors do, they are much less picky when
+it comes to weapon types. Polearms, swords, axes, blunt weapons, and even
+daggers are all very viable weapons for the permawarrior!
 
 ### HP warrior
 
@@ -183,7 +201,7 @@ Bottle, and the almighty Maroon Mop.
 
 ### DEX warrior
 
-## Mages
+## 🧙 Mages
 
 ### Permamagician
 
@@ -193,7 +211,7 @@ Bottle, and the almighty Maroon Mop.
 
 ### Gish
 
-## Archers
+## 🏹 Archers
 
 ### Permarcher
 
@@ -201,7 +219,7 @@ Bottle, and the almighty Maroon Mop.
 
 ### Bow-whacker
 
-## Thieves
+## 🥷 Thieves
 
 ### Permarogue
 
@@ -213,7 +231,7 @@ Bottle, and the almighty Maroon Mop.
 
 ### Blood bandit
 
-## Pirates
+## 🏴‍☠️ Pirates
 
 ### Permapirate
 
