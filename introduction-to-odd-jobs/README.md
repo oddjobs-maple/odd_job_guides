@@ -25,6 +25,8 @@ cover any odd jobs that are unique to post-Big-Bang MapleStory.
 
 - **Basic-attack:** The most basic type of melee attack, which is bound to the
   <kbd>Ctrl</kbd> key by default.
+- **WATK:** Weapon attack.
+- **MATK:** Magic attack.
 - **TMA:** Total magic attack (total MATK).
 - **WACC:** Weapon accuracy.
 - **MACC:** Magic accuracy.
@@ -35,6 +37,8 @@ cover any odd jobs that are unique to post-Big-Bang MapleStory.
 - **DPS:** Damage per second.
 - **F/P:** Fire/poison.
 - **I/L:** Ice/lightning.
+- **CB:** Chief bandit.
+- **Crit(s):** Critical hit(s).
 
 </details>
 
@@ -529,17 +533,143 @@ their strengths.
 
 ### Bow-whacker
 
+Bow-whackers are archers who use (cross)bows, but cannot shoot arrows nor use
+Soul Arrow. Instead, they whack monsters using Power Knock-Back (PKB). PKB’s
+primary stat is DEX, and its secondary stat is STR, so bow-whackers tend to
+have the same AP build as a non-odd archer.
+
+Unfortunately, PKB’s mastery cannot be increased with other skills like Bow
+Mastery. And, passive sources of crits (i.e. Critical Shot) do not function
+with bow-whacks. Nevertheless, they are capable of dealing a reasonable amount
+of damage. Furthermore, PKB hits up to six monsters at once, making them
+effective at killing crowds of monsters in many situations. Bow-whackers
+otherwise benefit normally from other archer skills, like summons and buffs
+(even Sharp Eyes!).
+
 ## 🥷 Thieves
 
 ### Permarogue
 
+Permarogues are one of five kinds of perma-first-jobbers (“perma-firsts”).
+Permarogues take first job advancement to rogue, but never job advance beyond
+this point. This makes perma-firsts similar to permabeginners, in that they are
+defined by their refusal to job advance.
+
+Permarogues are mixed melee/ranged attackers, because they can use daggers in
+combination with Double Stab, as well as claws in combination with Lucky Seven.
+
+Due to Lucky Seven’s built in mastery and generally favourable damage formula,
+permarogues are perhaps the strongest perma-firsts in terms of single-target
+DPS. Although they lack Haste, they are somewhat more mobile than permarchers,
+because they can attack in mid-air. However, like permarchers, they are very
+fragile — they don’t get a MAXHP bonus from second job advancement, and are
+left with just the 20 avoidability from Nimble Body.
+
 ### Brigand
+
+A bandit/CB/shadower who does not use daggers, and is LUKless, is called a
+brigand (or a highway(wo)man). Brigands are typically played similarly to
+STRginners, focusing on STR, and using weapons like polearms and swords.
+
+Unlike permabeginners, however, brigands get some special goodies:
+
+- Access to special “jobbed beginner” weapons, like the Monkey Wrench and Metal
+  Axe;
+- special attacking skills like Disorder, Steal, and even Meso Explosion;
+- and a number of buffs, including Dark Sight, Haste, Meso Guard, etc.
+
+As a result of naturally higher MAXHP and the benefit of Meso Guard, brigands
+are much more survivable than permabeginners.
+
+#### Related species
+
+- **Grim reaper:** Is any job that exclusively uses the Scythe.
+- **Carpenter:** Is any job that exclusively uses the Saw.
 
 ### LUKless assassin
 
+LUKless (assas)sins are assassins/hermits/nightlords who are LUKless, adding
+their AP into STR/DEX instead. This makes the LUKless sin similar to the
+brigand, but instead taking the _other_ main thief path. As a result, LUKless
+sins are often played similarly to STRginners.
+
+Like brigands, LUKless sins get access to “jobbed beginner” weapons, Disorder,
+and buffs like Dark Sight and Haste. However, even in melee, LUKless sins
+differentiate themselves from brigands:
+
+- LUKless sins get Flash Jump, but do not get Steal nor Meso Explosion.
+- LUKless sins get unique buffs like Meso Up and Alchemist.
+- LUKless sins are more fragile, as they don’t have access to Meso Guard.
+
+However, LUKless sins are not just known for their melee prowess; they are
+perfectly adept with claws, as well. Both STR and DEX contribute to damage with
+claws (excepting Lucky Seven, Triple Throw, and Shadow Meso), making their claw
+use similar to a woods(wo)man using a (cross)bow. Note that this similarity
+applies to weapon choice; the LUKless sin is usually stuck with Maple claws,
+Shinobi Bracers, etc.
+
+In first job, claw use is limited to basic-attacking. In second job, Drain
+becomes an effective attacking skill, and they also get access to Claw Mastery,
+Critical Throw, and Claw Booster. In third job, Avenger and Shadow Meso are
+both very effective attacking skills: the former for mobbing, and the latter
+for single-target. Shadow Meso is unique in that it ignores all stats (STR,
+DEX, LUK, WATK, etc.), and ignores Claw Mastery & Critical Throw. Although this
+means that Shadow Meso can’t improve once it’s at maximum level, it’s also the
+secret to LUKless hermits being one of the most powerful odd jobs with respect
+to single-target DPS. They also get Shadow Partner at this point, further
+increasing their damage with claws.
+
+#### Subspecies and related species
+
+- **STR (assas)sin/STRmit/STRlord:** Is a LUKless sin with more STR than DEX.
+- **DEX (assas)sin/DEXmit/DEXlord:** Is a LUKless sin with more DEX than STR.
+- **Grim reaper:** Is any job that exclusively uses the Scythe.
+- **Carpenter:** Is any job that exclusively uses the Saw.
+
 ### LUKless bandit
 
+LUKless (ban)dits (often referred to loosely as “DEXdits”) are
+bandits/CBs/shadowers who are LUKless, adding their AP into STR/DEX instead.
+This makes the LUKless dit similar to the brigand, but without the restriction
+preventing them from using daggers. LUKless dits are thus partly defined by
+using daggers as their primary weapon.
+
+Indeed, this makes the LUKless bandit more similar to the DEX warrior than to
+the brigand. Like the DEX warrior, the LUKless dit:
+
+- Can make good use of any skills that they have access to.
+- Has much more WACC than their non-odd counterparts.
+- Has incredibly stable damage. In fact, LUKless dits are usually superior in
+  this regard; a LUKless dit with level ≥19 Dagger Mastery does _nearly the
+  same exact damage_ every time that they use Savage Blow.
+
+Unlike DEX warriors, LUKless dits don’t have more avoidability than their
+non-odd counterparts. In fact, they have less.
+
+LUKless dits normally add just enough STR to equip their daggers, and put the
+remaining AP into DEX. STR and DEX contribute equally to their damage, and DEX
+increases WACC and AVOID, whereas STR does not.
+
+#### Subspecies
+
+- **(Pure) DEXdit:** Is pure DEX, i.e. a LUKless dit who is also STRless. This
+  subspecies has a harder time equipping daggers and shields.
+
 ### Blood bandit
+
+Blood (ban)dits (a.k.a. HP dits) are statless bandits/CBs/shadowers who put all
+of their AP into MAXHP. A blood dit only adds enough DEX to job advance, and
+then dumps all of their AP into MAXHP. This, in combination with Meso Guard
+from third job, makes blood dits _incredibly_ durable — a blood dit with Meso
+Guard is virtually unkillable.
+
+The main tool in the blood dit’s arsenal is Meso Explosion. Meso Explosion’s
+damage ignores the blood dit’s stats (STR, DEX, LUK, WATK, etc.), but obviously
+requires exploding a lot of money. This is often costly, but means that blood
+dits can fight just about _any_ enemy by the time that they are level 70–80 or
+so! It also means that the blood dit has to wait another 30–35 levels to
+mature, in comparison to an HP warrior. For the blood dit, the road to Meso
+Explosion is long, but incredibly rewarding!
 
 ## 🏴‍☠️ Pirates
 
