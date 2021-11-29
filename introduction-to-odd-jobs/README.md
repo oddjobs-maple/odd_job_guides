@@ -709,6 +709,31 @@ Explosion is long, but incredibly rewarding!
 
 ### Permapirate
 
+![Two permapirates](permapirates.webp "Two permapirates")
+
+Permapirates are one of five kinds of perma-first-jobbers (“perma-firsts”).
+Permapirates take first job advancement to pirate, but never job advance beyond
+this point. This makes perma-firsts similar to permabeginners, in that they are
+defined by their refusal to job advance.
+
+Permapirates are mixed melee/ranged attackers, because they can make use of
+Somersault Kick & Flash Fist for melee, as well as Double Shot for range.
+However, unlike the permarogue, the permapirate’s primary stat depends on what
+skill they’re using: for the melee skills, STR is preferable; and for Double
+Shot, DEX is preferable. This means that most permapirates tend to specialise
+in either melee _or_ range. Having roughly equal STR & DEX is also possible, to
+mix melee & range more thoroughly.
+
+Because permapirates have both melee and ranged attacks, as well as both
+single-target attacks and multi-target attacks, they are perhaps the most
+versatile perma-firsts. Furthermore, both Double Shot with high DEX, as well as
+Flash Fist with high STR, are very potent for dealing single-target DPS.
+Permapirates are also the most mobile perma-firsts, as they have the Dash
+skill, and all of their attacks are usable in mid-air. However, like
+permarchers & permarogues, they are very fragile — they don’t get a MAXHP bonus
+from second job advancement, and are left with just the 20 avoidability from
+Bullet Time.
+
 ### DEX brawler
 
 ### Pugilist
