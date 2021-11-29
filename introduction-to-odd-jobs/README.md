@@ -487,7 +487,7 @@ than bows.
 
 ![The woodswoman](woodswomen.webp "The woodswoman")
 
-An archer that is pure STR is called a woods(wo)man, or forester. With all of
+An archer who is pure STR is called a woods(wo)man, or forester. With all of
 that STR, woods(wo)men are very proficient in basic-attacking, much like
 STRginners and STR mages. On the other hand, their archery skills are still
 formidable, which contributes to their versatility.
@@ -763,7 +763,7 @@ play quite as nicely with pure DEX builds, meaning that a DEX warrior often
 
 #### Related species
 
-- **LUK brawler/LUKaneer/Luccaneer/LUK bucc/lucc bucc:** Is pure LUK, instead
+- **LUK brawler/LUKaneer/luccaneer/LUK bucc/lucc bucc:** Is pure LUK, instead
   of pure DEX.
 - **Bullet bucc/gun brawler:** Is a brawler/marauder/buccaneer who exclusively
   uses guns.
@@ -800,3 +800,62 @@ non-odd brawler/marauder/buccaneer.
   not wearing a weapon.
 
 ### Swashbuckler
+
+![Two swashbucklers](swashbucklers.webp "Two swashbucklers")
+
+A gunslinger/outlaw/corsair who is pure STR is called a swashbuckler. With all
+of that STR, swashbucklers are very proficient in the use of Somersault Kick.
+On the other hand, their firearm skills are still formidable, which contributes
+to their versatility. This makes the swashbuckler kind of like “the pirate
+version of woods(wo)man”, but from here, they diverge considerably.
+
+Like the woods(wo)man, the swashbuckler has difficulties wearing pirate
+equipment (the Maple Cannon Shooter is the most powerful gun for a
+swashbuckler), has lower — but more stable — ranged damage than their non-odd
+counterparts, and has lower WACC than their non-odd counterparts.
+
+However, in melee, the usual weapon of choice for the swashbuckler is a spear
+(e.g. Sky Ski), although knucklers, swords, and daggers can also be quite good.
+This is because Somersault Kick always “stabs”, so weapons that do favourable
+damage when stabbing work well with Somersault Kick. Because Somersault Kick
+hits up to six monsters at once, and because the swashbuckler’s gun-based
+multi-target attacks are lacklustre, Somersault Kick with a melee weapon is the
+swashbuckler’s main method for taking down multiple monsters.
+
+In fourth job, Aerial Strike works similarly to Somersault Kick, so it is also
+typically used with a spear. In fact, Aerial Strike — as used by a swashbuckler
+holding a powerful spear — is among _the_ most powerful area-of-effect attacks
+in the game.
+
+With a gun, the swashbuckler’s single-target DPS is very impressive by odd job
+standards, and their melee and ranged combat are both bolstered by their
+handy-dandy summons! The swashbuckler is also very mobile, with skills like
+Dash, Wings, and Recoil Shot.
+
+All of the above combine to make the swashbuckler both versatile, and powerful.
+Their primary weakness is, of course, their fragility, although they usually
+fare better than permapirates and permabeginners in this respect. Swashbucklers
+are also disadvantaged relative to gishes, because they must switch equipment
+in order to switch their combat style.
+
+#### Related species
+
+- **Armed brawler:** Is a brawler/marauder/buccaneer who does not use knucklers
+  nor guns. Like the swashbuckler, they tend to use spears like e.g. the Sky
+  Ski, in combination with Somersault Kick.
+- **Punch slinger/knuckle slinger:** Is a gunslinger/outlaw/corsair who only
+  uses a knuckler, or no weapon at all.
+
+<details>
+<summary>Further reading about the swashbuckler</summary>
+
+- [deer (hydropotina), “Guns To Scabbards, Swords To Holsters: The
+  Swashbuckler”, 2021-02-10,
+  _Oddjobs_.](https://oddjobs.codeberg.page/guides/swashbuckler/)
+  ([mirror](https://oddjobs-maple.github.io/guides/swashbuckler/))
+- [Fraiche, “\[Guide\] How to become a living meme: the STR Corsair Mage
+  edition”, 2020-05-21, _MapleLegends
+  Forums_.](https://forum.maplelegends.com/index.php?threads/guide-how-to-become-a-living-meme-the-str-corsair-mage-edition.30653/)
+  ([archived](https://web.archive.org/web/20211129181337/https://forum.maplelegends.com/index.php?threads/guide-how-to-become-a-living-meme-the-str-corsair-mage-edition.30653/))
+
+</details>
