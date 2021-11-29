@@ -533,6 +533,8 @@ their strengths.
 
 ### Bow-whacker
 
+![A bow-whacker](bow-whacker.webp "A bow-whacker")
+
 Bow-whackers are archers who use (cross)bows, but cannot shoot arrows nor use
 Soul Arrow. Instead, they whack monsters using Power Knock-Back (PKB). PKB’s
 primary stat is DEX, and its secondary stat is STR, so bow-whackers tend to
@@ -550,6 +552,8 @@ otherwise benefit normally from other archer skills, like summons and buffs
 
 ### Permarogue
 
+![Two permarogues](permarogues.webp "Two permarogues")
+
 Permarogues are one of five kinds of perma-first-jobbers (“perma-firsts”).
 Permarogues take first job advancement to rogue, but never job advance beyond
 this point. This makes perma-firsts similar to permabeginners, in that they are
@@ -566,6 +570,8 @@ fragile — they don’t get a MAXHP bonus from second job advancement, and are
 left with just the 20 avoidability from Nimble Body.
 
 ### Brigand
+
+![Two brigands](brigands.webp "Two brigands")
 
 A bandit/CB/shadower who does not use daggers, and is LUKless, is called a
 brigand (or a highway(wo)man). Brigands are typically played similarly to
@@ -586,7 +592,22 @@ are much more survivable than permabeginners.
 - **Grim reaper:** Is any job that exclusively uses the Scythe.
 - **Carpenter:** Is any job that exclusively uses the Saw.
 
+<details>
+<summary>Further reading about the brigand</summary>
+
+- [OresPlz (binomine), “Guide to Perma Beginners”, 2009-12-28, _Maplestory
+  Mesos Guide
+  Blogger_.](https://maplestorymesos2009.blogspot.com/2009/12/guide-to-perma-beginners.html)
+  ([archived](https://web.archive.org/web/20210103204521/https://maplestorymesos2009.blogspot.com/2009/12/guide-to-perma-beginners.html))
+- [DrakeCalvin, “Okay, could someone tell me where a brigand should grind?”,
+  2010-11-23,
+  _BasilMarket_.](https://web.archive.org/web/20200221183446/https://www.basilmarket.com/Okay-could-someone-tell-me-where-a-brigand-should-grind-Thread-bwkbz-1)
+
+</details>
+
 ### LUKless assassin
+
+![Two LUKless sins](lukless-sins.webp "Two LUKless sins")
 
 LUKless (assas)sins are assassins/hermits/nightlords who are LUKless, adding
 their AP into STR/DEX instead. This makes the LUKless sin similar to the
@@ -628,14 +649,16 @@ increasing their damage with claws.
 
 ### LUKless bandit
 
+![Two LUKless dits](lukless-dits.webp "Two LUKless dits")
+
 LUKless (ban)dits (often referred to loosely as “DEXdits”) are
 bandits/CBs/shadowers who are LUKless, adding their AP into STR/DEX instead.
 This makes the LUKless dit similar to the brigand, but without the restriction
 preventing them from using daggers. LUKless dits are thus partly defined by
 using daggers as their primary weapon.
 
-Indeed, this makes the LUKless bandit more similar to the DEX warrior than to
-the brigand. Like the DEX warrior, the LUKless dit:
+Indeed, this makes the LUKless dit more similar to the DEX warrior than to the
+brigand. Like the DEX warrior, the LUKless dit:
 
 - Can make good use of any skills that they have access to.
 - Has much more WACC than their non-odd counterparts.
@@ -657,6 +680,8 @@ increases WACC and AVOID, whereas STR does not.
 
 ### Blood bandit
 
+![A blood bandit](blood-dit.webp "A blood bandit")
+
 Blood (ban)dits (a.k.a. HP dits) are statless bandits/CBs/shadowers who put all
 of their AP into MAXHP. A blood dit only adds enough DEX to job advance, and
 then dumps all of their AP into MAXHP. This, in combination with Meso Guard
@@ -670,6 +695,15 @@ dits can fight just about _any_ enemy by the time that they are level 70–80 or
 so! It also means that the blood dit has to wait another 30–35 levels to
 mature, in comparison to an HP warrior. For the blood dit, the road to Meso
 Explosion is long, but incredibly rewarding!
+
+<details>
+<summary>Further reading about the blood bandit</summary>
+
+- [Linyah (Marty), “\[In-Depth\] Shadower Guide”, 2014-05-05, _MapleRoyals
+  Forums_.](https://mapleroyals.com/forum/threads/in-depth-shadower-guide.8122/)
+  ([archived](https://web.archive.org/web/20160716031114/http://mapleroyals.com:80/forum/threads/in-depth-shadower-guide.8122/))
+
+</details>
 
 ## 🏴‍☠️ Pirates
 
