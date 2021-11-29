@@ -386,7 +386,7 @@ priestlet](magelets.webp "From left to right: an I/L magelet, a priestlet")
 A pure LUK mage is called a magelet. One way to think about magelets is that
 STR mages are to STRginners, as magelets are to LUKginners. And indeed, the
 magelet is adept at using claws. However, perhaps the most important trait of
-gishlets is that they have the same MACC as their non-odd counterparts! This
+magelets is that they have the same MACC as their non-odd counterparts! This
 allows magelets to make use of essentially all of their skills.
 
 Although magelets may deal less damage than their non-odd counterparts when
