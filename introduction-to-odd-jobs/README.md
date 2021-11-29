@@ -770,4 +770,33 @@ play quite as nicely with pure DEX builds, meaning that a DEX warrior often
 
 ### Pugilist
 
+![Two pugilists](pugilists.webp "Two pugilists")
+
+Any build that never equips any weapons is called a pugilist. As it turns out,
+only pirates are capable of attacking without a weapon, so all pugilists are
+pirates. Furthermore, attacking with no weapon is — in _some_ ways — treated
+similarly to using a knuckler. So, most pugilists are
+brawlers/marauders/buccaneers; of course,
+permapirates/gunslingers/outlaws/corsairs are possible as well.
+
+All brawler-oriented skills from first, second, third, and fourth job are
+usable bare-handed, with two exceptions: Knuckler Mastery and Knuckler Booster.
+This means that pugilist brawlers are at a mastery (the pugilist has 10%
+mastery for life), WACC, and attack speed disadvantage compared to their
+non-odd counterparts. Because bare hands have a speed category of 4, the
+pugilist brawler is no longer at an attack speed disadvantage once they have
+Speed Infusion.
+
+The unusual damage formula for attacking without a weapon equipped, combined
+with the severe WATK disadvantage due to not having a weapon, makes the
+pugilist’s damage very subpar by non-odd standards. However, they are quite
+powerful overall, by odd job standards, and function very similarly to a
+non-odd brawler/marauder/buccaneer.
+
+#### Subspecies
+
+- **Empty-handed pugilist/shieldless pugilist:** Does not use a shield.
+- **Shield pugilist:** Uses a shield to make up for some of the WATK lost by
+  not wearing a weapon.
+
 ### Swashbuckler
