@@ -736,6 +736,38 @@ Bullet Time.
 
 ### DEX brawler
 
+![Two DEX brawlers](dex-brawlers.webp "Two DEX brawlers")
+
+Brawlers/marauders/buccaneers who dump all of their AP into DEX are known as
+DEX brawlers. Although DEX brawlers generally deal considerably less damage
+than their non-odd counterparts, they are typically capable of using the same
+skillset, and their extreme agility comes with its own perks:
+
+- DEX brawlers are known for their extreme avoidability. Brawlers gain a
+  whopping **1\.5** avoidability per point of DEX, making DEX brawlers fully
+  capable of hitting the 999 avoidability cap.
+- DEX brawlers have the highest WACC in the game — yes, even more than DEX
+  warriors!
+- The DEX brawler’s melee damage is much more stable than that of their non-odd
+  counterparts.
+- With Double Shot and a gun, DEX brawlers are capable ranged combatants as
+  well! This makes DEX brawlers (and some closely related odd jobs) the most
+  naturally durable ranged attackers in the game, odd or otherwise.
+
+However, compared to the DEX _warrior_, the DEX brawler is lacking in both
+survivability and weapon choices. Brawlers are naturally sturdy, but not as
+much as warriors. And unlike the DEX warrior, the DEX brawler is pretty much
+stuck with Maple weapons no matter what. The brawler’s skillset also doesn’t
+play quite as nicely with pure DEX builds, meaning that a DEX warrior often
+(but not always) has the DPS advantage.
+
+#### Related species
+
+- **LUK brawler/LUKaneer/Luccaneer/LUK bucc/lucc bucc:** Is pure LUK, instead
+  of pure DEX.
+- **Bullet bucc/gun brawler:** Is a brawler/marauder/buccaneer who exclusively
+  uses guns.
+
 ### Pugilist
 
 ### Swashbuckler
