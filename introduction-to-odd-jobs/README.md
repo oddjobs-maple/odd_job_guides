@@ -25,8 +25,8 @@ cover any odd jobs that are unique to post-Big-Bang MapleStory.
 
 - **Basic-attack:** The most basic type of melee attack, which is bound to the
   <kbd>Ctrl</kbd> key by default.
-- **WATK:** Weapon attack.
-- **MATK:** Magic attack.
+- **WATK:** Weapon attack (as a stat).
+- **MATK:** Magic attack (as a stat).
 - **TMA:** Total magic attack (total MATK).
 - **WACC:** Weapon accuracy.
 - **MACC:** Magic accuracy.
@@ -34,7 +34,7 @@ cover any odd jobs that are unique to post-Big-Bang MapleStory.
 - **MDEF:** Magic defence.
 - **MAXHP:** Maximum HP.
 - **MAXMP:** Maximum MP.
-- **DPS:** Damage per second.
+- **DPS:** Damage per second (damage/s).
 - **F/P:** Fire/poison.
 - **I/L:** Ice/lightning.
 - **CB:** Chief bandit.
@@ -58,7 +58,7 @@ bringing them closer to one-shotting the monsters of Maple Island.
 Because Maple Island is totally isolated from the rest of the Maple World,
 islanders have a very unique set of equipment & scrolls that they can use. As a
 result, events are more important to islanders than they are to other
-characters, because they offer the chance to obtain special items that don’t
+characters, because events offer the chance to obtain special items that don’t
 occur naturally.
 
 Although they may appear severely limited at first glance, dedicated islanders
@@ -397,11 +397,11 @@ significant LUK requirements, but no significant INT requirements.
 
 Magelets can thrive in any of the main three mage paths (fire/poison,
 ice/lightning, cleric/priest/bishop). F/P magelets benefit from the fact that
-poison effects (from Poison Breath or Poison Mist) ignore the mage’s TMA. I/L
-magelets benefit from the strong crowd control and raw DPS of I/L skills. And,
-last but not least, clerics/priests/bishops benefit from the fact that Heal
-damage scales with LUK, as well as from the awesome utility skills provided by
-bishops.
+poison effects (from Poison Breath, Poison Mist, Element Composition) ignore
+the mage’s TMA. I/L magelets benefit from the strong crowd control and raw DPS
+of I/L skills. And, last but not least, clerics/priests/bishops benefit from
+the fact that Heal damage scales with LUK, as well as from the awesome utility
+skills provided by bishops.
 
 #### Subspecies
 
@@ -479,7 +479,7 @@ fragile, and unable to hit more than one monster at a time. However,
 permarchers are just as “ranged” as any non-odd archer, and their single-target
 DPS is very impressive for an odd job.
 
-Permarchers are notable for being equally skilled in the use of bows and
+Permarchers are notable for being equally skilled in the use of bows and of
 crossbows. If all else is equal, crossbows tend to be slightly more powerful
 than bows.
 
@@ -497,8 +497,7 @@ In melee, the woods(wo)man benefits from a number of things:
 - Access to special “jobbed beginner” weapons, like the Monkey Wrench and Metal
   Axe;
 - summons, e.g. Silver Hawk and Frostprey;
-- and a number of buffs, including Sharp Eyes, The Blessing of Amazon, and
-  Focus.
+- and a number of buffs, e.g. Sharp Eyes, The Blessing of Amazon, Focus, etc.
 
 In archery, the woods(wo)man benefits from many of the same things that a
 non-odd archer does. However, there are some crucial differences:
@@ -562,7 +561,7 @@ defined by their refusal to job advance.
 Permarogues are mixed melee/ranged attackers, because they can use daggers in
 combination with Double Stab, as well as claws in combination with Lucky Seven.
 
-Due to Lucky Seven’s built in mastery and generally favourable damage formula,
+Due to Lucky Seven’s built-in mastery and generally favourable damage formula,
 permarogues are perhaps the strongest perma-firsts in terms of single-target
 DPS. Although they lack Haste, they are somewhat more mobile than permarchers,
 because they can attack in mid-air. However, like permarchers, they are very
@@ -618,8 +617,8 @@ Like brigands, LUKless sins get access to “jobbed beginner” weapons, Disorde
 and buffs like Dark Sight and Haste. However, even in melee, LUKless sins
 differentiate themselves from brigands:
 
-- LUKless sins get Flash Jump, but do not get Steal nor Meso Explosion.
-- LUKless sins get unique buffs like Meso Up and Alchemist.
+- LUKless sins get Flash Jump, but don’t get Steal nor Meso Explosion.
+- LUKless sins get unique buffs, like Meso Up and Alchemist.
 - LUKless sins are more fragile, as they don’t have access to Meso Guard.
 
 However, LUKless sins are not just known for their melee prowess; they are
@@ -740,11 +739,11 @@ Bullet Time.
 
 Brawlers/marauders/buccaneers who dump all of their AP into DEX are known as
 DEX brawlers. Although DEX brawlers generally deal considerably less damage
-than their non-odd counterparts, they are typically capable of using the same
-skillset, and their extreme agility comes with its own perks:
+than their non-odd counterparts, they are capable of using the same skillset,
+and their extreme agility comes with its own perks:
 
 - DEX brawlers are known for their extreme avoidability. Brawlers gain a
-  whopping **1\.5** avoidability per point of DEX, making DEX brawlers fully
+  whopping **1\.5** avoidability per point of DEX\*, making DEX brawlers fully
   capable of hitting the 999 avoidability cap.
 - DEX brawlers have the highest WACC in the game — yes, even more than DEX
   warriors!
@@ -761,6 +760,14 @@ stuck with Maple weapons no matter what. The brawler’s skillset also doesn’t
 play quite as nicely with pure DEX builds, meaning that a DEX warrior often
 (but not always) has the DPS advantage.
 
+<details>
+<summary>Footnotes for “DEX brawler”</summary>
+
+\*This is not true in MapleLegends, where brawlers/marauders/buccaneers gain
+only 0\.25 avoidability per point of DEX.
+
+</details>
+
 #### Related species
 
 - **LUK brawler/LUKaneer/luccaneer/LUK bucc/lucc bucc:** Is pure LUK, instead
@@ -772,10 +779,10 @@ play quite as nicely with pure DEX builds, meaning that a DEX warrior often
 
 ![Two pugilists](pugilists.webp "Two pugilists")
 
-Any build that never equips any weapons is called a pugilist. As it turns out,
-only pirates are capable of attacking without a weapon, so all pugilists are
-pirates. Furthermore, attacking with no weapon is — in _some_ ways — treated
-similarly to using a knuckler. So, most pugilists are
+Any character who never equips any weapons is called a pugilist. As it turns
+out, only pirates are capable of attacking without a weapon, so all pugilists
+are pirates. Furthermore, attacking with no weapon is — in _some_ ways —
+treated similarly to using a knuckler. So, most pugilists are
 brawlers/marauders/buccaneers; of course,
 permapirates/gunslingers/outlaws/corsairs are possible as well.
 
@@ -807,7 +814,7 @@ A gunslinger/outlaw/corsair who is pure STR is called a swashbuckler. With all
 of that STR, swashbucklers are very proficient in the use of Somersault Kick.
 On the other hand, their firearm skills are still formidable, which contributes
 to their versatility. This makes the swashbuckler kind of like “the pirate
-version of woods(wo)man”, but from here, they diverge considerably.
+version of woods(wo)man”, but these two odd jobs are actually very distinct.
 
 Like the woods(wo)man, the swashbuckler has difficulties wearing pirate
 equipment (the Maple Cannon Shooter is the most powerful gun for a
@@ -822,7 +829,7 @@ hits up to six monsters at once, and because the swashbuckler’s gun-based
 multi-target attacks are lacklustre, Somersault Kick with a melee weapon is the
 swashbuckler’s main method for taking down multiple monsters.
 
-In fourth job, Aerial Strike works similarly to Somersault Kick, so it is also
+In fourth job, Aerial Strike works similarly to Somersault Kick, so it’s also
 typically used with a spear. In fact, Aerial Strike — as used by a swashbuckler
 holding a powerful spear — is among _the_ most powerful area-of-effect attacks
 in the game.
