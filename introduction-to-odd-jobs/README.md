@@ -701,6 +701,9 @@ Explosion is long, but incredibly rewarding!
 - [Linyah (Marty), “\[In-Depth\] Shadower Guide”, 2014-05-05, _MapleRoyals
   Forums_.](https://mapleroyals.com/forum/threads/in-depth-shadower-guide.8122/)
   ([archived](https://web.archive.org/web/20160716031114/http://mapleroyals.com:80/forum/threads/in-depth-shadower-guide.8122/))
+- [Fiel, “Full Meso Explosion Formula”, 2010-06-10,
+  _Southperry_.](http://www.southperry.net/showthread.php?t=27895)
+  ([archived](https://web.archive.org/web/20210123231138/http://www.southperry.net/showthread.php?t=27895))
 
 </details>
 
