@@ -792,16 +792,24 @@ permapirates/gunslingers/outlaws/corsairs are possible as well.
 All brawler-oriented skills from first, second, third, and fourth job are
 usable bare-handed, with two exceptions: Knuckler Mastery and Knuckler Booster.
 This means that pugilist brawlers are at a mastery (the pugilist has 10%
-mastery for life), WACC, and attack speed disadvantage compared to their
-non-odd counterparts. Because bare hands have a speed category of 4, the
-pugilist brawler is no longer at an attack speed disadvantage once they have
-Speed Infusion.
+mastery\*), WACC, and attack speed disadvantage compared to their non-odd
+counterparts. Because bare hands have a speed category of 4, the pugilist
+brawler is no longer at an attack speed disadvantage once they have Speed
+Infusion.
 
 The unusual damage formula for attacking without a weapon equipped, combined
 with the severe WATK disadvantage due to not having a weapon, makes the
 pugilist’s damage very subpar by non-odd standards. However, they are quite
 powerful overall, by odd job standards, and function very similarly to a
 non-odd brawler/marauder/buccaneer.
+
+<details>
+<summary>Footnotes for “Pugilist”</summary>
+
+\*Level ≥11 of Super Transformation passively grants +5% mastery, so a pugilist
+with a high level of this skill has 15% mastery.
+
+</details>
 
 #### Subspecies
 
