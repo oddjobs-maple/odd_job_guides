@@ -26,61 +26,67 @@ menciona nada _odd jobs_ que son únicos a MapleStory post-Big-Bang.
 Glosario de algunos términos que estan usado dentro de esta guía
 </summary>
 
-- **Basic-attack:** The most basic type of melee attack, which is bound to the
-  <kbd>Ctrl</kbd> key by default.
-- **WATK:** Weapon attack (as a stat).
-- **MATK:** Magic attack (as a stat).
-- **TMA:** Total magic attack (total MATK).
-- **WACC:** Weapon accuracy.
-- **MACC:** Magic accuracy.
-- **WDEF:** Weapon defence.
-- **MDEF:** Magic defence.
-- **MAXHP:** Maximum HP.
-- **MAXMP:** Maximum MP.
-- **DPS:** Damage per second (damage/s).
-- **F/P:** Fire/poison.
-- **I/L:** Ice/lightning.
-- **CB:** Chief bandit.
-- **Crit(s):** Critical hit(s).
+- **Basic-attack:** El tipo de ataque melee más básico, que está conectado a la
+  tecla <kbd>Ctrl</kbd> por omisión.
+- **WATK:** Ataque de arma, como una estadística (inglés: “_**w**eapon
+  **at**tac**k**_”).
+- **MATK:** Ataque mágico, como una estadística (inglés: “_**m**agic
+  **at**tac**k**_”).
+- **TMA:** Ataque mágico total (MATK total).
+- **WACC:** Precisión de arma (inglés: _**w**eapon **acc**uracy_).
+- **MACC:** Precisión mágica (inglés: _**m**agic **acc**uracy_).
+- **WDEF:** Defensa de arma (inglés: _**w**eapon **def**ence_).
+- **MDEF:** Defensa mágica (inglés: _**m**agic **def**ence_).
+- **MAXHP:** HP máximo.
+- **MAXMP:** MP máximo.
+- **DPS:** Daño por segundo (daño/s).
+- **F/P:** (Mago de) fuego/ponzoña.
+- **I/L:** (Mago de) _ice/lightning_ (hielo/rayo).
+- **CB:** Cacique bandido (inglés: _chief bandit_).
+- **Crit(s):** Impacto crítico.
 
 </details>
 
 ## 🔰 Beginners
 
-### Islander
+### Isleño (inglés: _islander_)
 
-![From left to right: an ordinary islander, a magelander](islanders.webp
-"From left to right: an ordinary islander, a magelander")
+![De izquierda a derecha: un isleño ordinario, un magoisleño](islanders.webp
+"De izquierda a derecha: un isleño ordinario, un magoisleño")
 
-Islanders, like most characters, leave the Training Camp. But they never leave
-Maple Island! As a result, they are necessarily permabeginners, and they have a
-very limited set of monsters that they can fight. DEX is perhaps the most
-important stat for islanders, as it improves their minimum damage per hit, thus
-bringing them closer to one-shotting the monsters of Maple Island.
+Isleños, como la mayoría de personajes, salen del Campamento de Entrenamiento.
+Pero nunca salen de Isla Maple! Por consiguiente, necesariamente son
+_permabeginners_, y tienen una colección muy limitada de monstruos que ellos
+pueden luchar. DEX es posiblemente la estadística más importante para isleños,
+porque sube su daño mínimo por impacto, así acercandolos a matar los monstruos
+de Isla Maple con solo uno impacto.
 
-Because Maple Island is totally isolated from the rest of the Maple World,
-islanders have a very unique set of equipment & scrolls that they can use. As a
-result, events are more important to islanders than they are to other
-characters, because events offer the chance to obtain special items that don’t
-occur naturally.
+Debido a que Isla Maple es totalmente aislada del resto del Mundo Maple,
+isleños tienen una colección muy única de equipo y rollos que pueden usar. Por
+lo tanto, eventos especiales son más importante para isleños que son para otras
+personajes, porque eventos especiales ofrecen un oportunidad obtener ítems
+especiales que no existen naturalmente.
 
-Although they may appear severely limited at first glance, dedicated islanders
-are capable of achieving impressive levels. They also come in many flavours!:
+Aunque ellos tal vez parecen muy limitados a primera vista, isleños dedicados
+tienen la capacidad conseguir niveles impresionantes. Tambien, hay muchas
+variedades!:
 
 #### Subspecies
 
-- **Magelander:** Exclusively uses the Metal Wand, and mostly fights by using
-  the Three Snails skill.
-- **DEXlander:** Has high DEX.
-- **STRlander:** Has high STR.
-- **LUKlander:** Has high LUK, and uses claws (e.g. the Magical Mitten).
-- **Perfectlander:** Has enough STR, INT, & LUK to equip any weapon on the
-  island (including the Leather Purse and the Metal Wand).
-- **Hybridlander:** Is a hybrid of two or more of the above. STR/DEX and
-  DEX/LUK hybrids are particularly common.
+- **Magoisleño (inglés: _magelander_):** Solo usa la _Metal Wand_, y
+  principalmente lucha con la habilidad _Three Snails_.
+- **Isleño DEX (inglés: _DEXlander_):** Tiene DEX alta.
+- **Isleño STR (inglés: _STRlander_):** Tiene STR alta.
+- **Isleño LUK (inglés: _LUKlander_):** Tiene LUK alta, y usa garras (p\.ej. el
+  _Magical Mitten_).
+- **Perfectisleño (inglés: _perfectlander_):** Tiene STR, INT, y LUK suficiente
+  para equipar cualquiera arma sobre la isla (incluyendo la _Leather Purse_ y
+  la _Metal Wand_).
+- **Isleño híbrido (inglés: _hybridlander_):** Es un híbrido de dos o más de
+  las anteriores. Híbridos de STR/DEX y de DEX/LUK son especialmente común.
 
 <details>
-<summary>Further reading about the islander</summary>
+<summary>Otras lecturas sobre el isleño</summary>
 
 - [MrBrandini (Cacophobia), “Brandini’s Islander Guide”, 2007-11-05, _MapleTip
   Forums_.](https://forums.mapletip.com/index.php?/topic/111589-brandinis-islander-guide/)
