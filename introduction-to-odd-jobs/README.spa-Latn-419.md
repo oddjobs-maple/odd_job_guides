@@ -12,7 +12,7 @@ encontrado maneras creativas y interesantes violar estas normas. En muchos
 casos, estas violaciones tienen su propio tipo de estructura — una cierta
 lógica a esas. Tanto así, a menudo se piensa en estas construcciones de
 personaje extrañas como “_jobs_” (clases/empleos) por sí mismo. Estos llamados
-“_odd jobs_” (clases/empleos extrañxs) son el sujeto de esta guía introductoria
+“_odd jobs_” (clases/empleos extraños) son el sujeto de esta guía introductoria
 corta.
 
 Esta guía provee un resumen conciso de algunos de los _odd jobs_ más importante
@@ -26,8 +26,8 @@ menciona nada _odd jobs_ que son únicos a MapleStory post-Big-Bang.
 Glosario de algunos términos que estan usado dentro de esta guía
 </summary>
 
-- **Basic-attack:** El tipo de ataque melee más básico, que está conectado a la
-  tecla <kbd>Ctrl</kbd> por omisión.
+- **Ataque-básico:** El tipo de ataque melee más básico (inglés:
+  _basic-attack_), que está conectado a la tecla <kbd>Ctrl</kbd> por omisión.
 - **WATK:** Ataque de arma, como una estadística (inglés: “_**w**eapon
   **at**tac**k**_”).
 - **MATK:** Ataque mágico, como una estadística (inglés: “_**m**agic
@@ -47,7 +47,7 @@ Glosario de algunos términos que estan usado dentro de esta guía
 
 </details>
 
-## 🔰 Beginners
+## 🔰 Novatos (inglés: _beginners_)
 
 ### Isleño (inglés: _islander_)
 
@@ -55,11 +55,11 @@ Glosario de algunos términos que estan usado dentro de esta guía
 "De izquierda a derecha: un isleño ordinario, un magoisleño")
 
 Isleños, como la mayoría de personajes, salen del Campamento de Entrenamiento.
-Pero nunca salen de Isla Maple! Por consiguiente, necesariamente son
-_permabeginners_, y tienen una colección muy limitada de monstruos que ellos
-pueden luchar. DEX es posiblemente la estadística más importante para isleños,
-porque sube su daño mínimo por impacto, así acercandolos a matar los monstruos
-de Isla Maple con solo uno impacto.
+¡Pero nunca salen de Isla Maple! Por consiguiente, necesariamente son novatos
+(inglés: _beginners_) permanentes, y tienen una colección muy limitada de
+monstruos que ellos pueden luchar. DEX es posiblemente la estadística más
+importante para isleños, porque sube su daño mínimo por impacto, así
+acercandolos a matar los monstruos de Isla Maple con solo uno impacto.
 
 Debido a que Isla Maple es totalmente aislada del resto del Mundo Maple,
 isleños tienen una colección muy única de equipo y rollos que pueden usar. Por
@@ -68,10 +68,10 @@ personajes, porque eventos especiales ofrecen un oportunidad obtener ítems
 especiales que no existen naturalmente.
 
 Aunque ellos tal vez parecen muy limitados a primera vista, isleños dedicados
-tienen la capacidad conseguir niveles impresionantes. Tambien, hay muchas
+tienen la capacidad conseguir niveles impresionantes. Tambien, ¡hay muchas
 variedades!:
 
-#### Subspecies
+#### Subespecies
 
 - **Magoisleño (inglés: _magelander_):** Solo usa la _Metal Wand_, y
   principalmente lucha con la habilidad _Three Snails_.
@@ -112,14 +112,14 @@ manzana](campers.webp
 "De izquierda a derecha: una campista clásica, una campista de manzana")
 
 Campistas son, como isleños, restringido por su ubicación. Pero diferente de
-isleños, nunca salen del Campamento de Entrenamiento! Por lo tanto, campistas
+isleños, ¡nunca salen del Campamento de Entrenamiento! Por lo tanto, campistas
 son _extremadamente_ restringido: nunca ganan equipo, y están obligados a solo
 luchar contra monstruos que cada da 1 EXP. La mayoría de campistas elige la
 _Sword_, porque ataca la más rapida entre las tres armas de inicio.
 
 Hay variedades diferentes de campista, según la versión de MapleStory:
 
-#### Subspecies
+#### Subespecies
 
 - **Campista clásica:** Existe en una versión mayor, donde el campamento está
   al aire libre, y presenta los _Tutorial Jr. Sentinels_.
@@ -146,45 +146,50 @@ Hay variedades diferentes de campista, según la versión de MapleStory:
 
 </details>
 
-### Permabeginner (outland)
+### Novato permanente (de allá) (inglés: _permabeginner (outland)_)
 
-![From left to right: a STRginner, a wandginner, a DEXginner, and a
-besinner](outland-permabeginners.webp
-"From left to right: a STRginner, a wandginner, a DEXginner, and a besinner")
+![De izquierda a derecha: un novato STR, un novato de varita, un novato DEX, y
+un novato LUK](outland-permabeginners.webp
+"De izquierda a derecha:
+un novato STR, un novato de varita, un novato DEX, y un novato LUK")
 
-While both islanders and campers are necessarily permabeginners, the term
-“permabeginner” is often used narrowly to refer to _outland_ permabeginners.
-Outland permabeginners have a whole Maple World to explore, but their arsenal
-remains much the same as their inland counterparts: pretty much just
-basic-attacking.
+Mientras ambos isleños y campistas necesariamente son novatos permanentes, el
+término “novato permanente” (inglés: _permabeginner_) a menudo se usa
+específicamente para referirse a novatos permanentes _afuera de la isla_ (“de
+allá”; inglés: _outland_). Novatos permanentes de allá tienen un Mundo Maple
+entero para explorar, pero su arsenal se queda más o menos lo mismo a sus
+homólogos del interior: prácticamente solo el ataque-básico.
 
-Because they have access to more dangerous terrain, outland permabeginners care
-more about their _average_ damage per hit than inland permabeginners do, and
-can reach greater heights! But with the dangerous terrain, comes the
-realisation that beginners are strong at heart, but maybe not in body.
-Permabeginners have exceptionally poor MAXHP (although they benefit more from
-WDEF than other classes do), and basic-attacking eventually becomes too weak to
-competently fight monsters of the permabeginner’s own level.
+Debido a su acceso a terreno más peligroso, su daño _promedio_ es más
+importante para los novatos permanentes de allá que para sus homólogos del
+interior, ¡y los de allá pueden lograr cumbres mayores! Pero con el terreno
+peligroso, va la realización que novatos tienen mucho coraje, pero quizás no
+mucha fortaleza. Novatos permanentes tienen MAXHP excepcionalmente deficiente
+(aunque benefician más de WDEF que otras clases), y los ataques-básicos tarde o
+temprano se vuelve demasiado débil para luchar competentemente contra monstruos
+del mismo nivel del novato.
 
-That being said, outland permabeginners are a perennially popular choice of
-main character for the odd-minded! Most focus on STR (sometimes with DEX added,
-to improve WACC), and tend to use polearms, swords, and daggers. Nevertheless,
-outland permabeginners are at least as diverse as their inland counterparts.
+Habiendo dicho eso, ¡el novato permanente de allá es una elección perennemente
+popular de personaje principal para los inclinado a _odd jobs_! La mayoría
+enfoca en STR (a veces con un poco de DEX, para aumentar su WACC), y tiende a
+usar armas de asta, espadas, y dagas. Sin embargo, novatos permanentes de allá
+son a menos tan diversos como sus homólogos del interior.
 
-Depending on the version of MapleStory, outland permabeginners may have access
-to special beginner-only weapons, like the level 20 Frozen Tuna, the Sake
-Bottle, and the almighty Maroon Mop.
+Según la versión de MapleStory, novatos permanentes de allá tal vez tienen
+acceso a armas especiales que solo novatos pueden empuñar, p\.ej. el _Frozen
+Tuna_, la _Sake Bottle_, y la _Maroon Mop_ todopoderosa.
 
-#### Subspecies
+#### Subespecies
 
-- **STRginner:** Focuses on STR. This is the most common subspecies.
-- **Besinner/LUKginner:** Focuses on LUK, and uses claws (e.g. the Magical
-  Mitten).
-- **DEXginner:** Is pure DEX.
-- **Wandginner:** Exclusively uses wands as their weapons.
+- **Novato STR (inglés: _STRginner_):** Enfoca en STR. Esta es la subespecies
+  más común.
+- **Novato-asesino/novato LUK (inglés: _besinner_/_LUKginner_):** Enfoca en
+  LUK, y usa garras (p\.ej. el _Magical Mitten_).
+- **Novato DEX (inglés: _DEXginner_):** Es puro DEX.
+- **Novato de varita (inglés: _wandginner_):** Solo usa varitas como armas.
 
 <details>
-<summary>Further reading about the outland permabeginner</summary>
+<summary>Otras lecturas sobre el novato permanente de allá</summary>
 
 - [Slime (OmokTeacher), “Slime’s Comprehensive Permanent Beginner Guide”,
   2016-11-03, _MapleLegends
