@@ -79,9 +79,9 @@ variedades!:
 - **Isleño STR (inglés: _STRlander_):** Tiene STR alta.
 - **Isleño LUK (inglés: _LUKlander_):** Tiene LUK alta, y usa garras (p\.ej. el
   _Magical Mitten_).
-- **Perfectisleño (inglés: _perfectlander_):** Tiene STR, INT, y LUK suficiente
-  para equipar cualquiera arma sobre la isla (incluyendo la _Leather Purse_ y
-  la _Metal Wand_).
+- **Isleño perfecto (inglés: _perfectlander_):** Tiene STR, INT, y LUK
+  suficiente para equipar cualquiera arma sobre la isla (incluyendo la _Leather
+  Purse_ y la _Metal Wand_).
 - **Isleño híbrido (inglés: _hybridlander_):** Es un híbrido de dos o más de
   las anteriores. Híbridos de STR/DEX y de DEX/LUK son especialmente común.
 
@@ -105,34 +105,36 @@ variedades!:
 
 </details>
 
-### Camper
+### Campista (inglés: _camper_)
 
-![From left to right: a classic camper, an applelander](campers.webp
-"From left to right: a classic camper, an applelander")
+![De izquierda a derecha: una campista clásica, una campista de
+manzana](campers.webp
+"De izquierda a derecha: una campista clásica, una campista de manzana")
 
-Campers are, like islanders, restricted by their location. But unlike
-islanders, they never make it out of the Training Camp! Campers are thus
-_extremely_ restricted: they never gain equipment, and they are forced to only
-fight monsters that give 1 EXP each. Most campers choose the Sword, as it has
-the fastest attack speed out of the three starter weapons.
+Campistas son, como isleños, restringido por su ubicación. Pero diferente de
+isleños, nunca salen del Campamento de Entrenamiento! Por lo tanto, campistas
+son _extremadamente_ restringido: nunca ganan equipo, y están obligados a solo
+luchar contra monstruos que cada da 1 EXP. La mayoría de campistas elige la
+_Sword_, porque ataca la más rapida entre las tres armas de inicio.
 
-There may be different flavours of camper, depending on the version of
-MapleStory:
+Hay variedades diferentes de campista, según la versión de MapleStory:
 
 #### Subspecies
 
-- **Classic camper:** Exists in an older version, where the camp is outdoors
-  and features Tutorial Jr. Sentinels.
-- **Applelander:** Is an Adventurer camper in a newer version, where the camp
-  is indoors, forces the player to wear a green apple suit, and features
-  Tutorial Leatties and Tutorial Drumming Rabbits.
-- **Roadie:** Is a Cygnus Knight camper, who trains along Empress’ Road. This
-  is the subspecies that is most similar to an islander, as the monsters there
-  do drop a few items.
-- **Snowlander:** Is an Aran camper, who fights only Tutorial Murus.
+- **Campista clásica:** Existe en una versión mayor, donde el campamento está
+  al aire libre, y presenta los _Tutorial Jr. Sentinels_.
+- **Campista de manzana (inglés: _applelander_):** Es una campista _Adventurer_
+  quien exista en una versión más joven, donde el campamento está adentro,
+  obliga el jugador llevar un traje de manzana verde, y presenta las _Tutorial
+  Leatties_ y los _Tutorial Drumming Rabbits_.
+- **Caminante (inglés: _roadie_):** Es una campista _Cygnus Knight_, quien
+  entrena a lo largo de _Empress’ Road_. Esta es la subespecie que es la más
+  similar a un isleño, porque los monstruos allá dejan caer unos pocos ítems.
+- **Campista de nieve (inglés: _snowlander_):** Es una campista Aran, quien
+  solo luchar contra las _Tutorial Murus_.
 
 <details>
-<summary>Further reading about the camper</summary>
+<summary>Otras lecturas sobre la campista</summary>
 
 - [Readers (TZD) and BigBerginner, “Readers’ Extraordinary Permanent Beginner
   Guide”, 2009-11-25, _MapleTip
