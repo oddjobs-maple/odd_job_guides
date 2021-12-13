@@ -15,9 +15,9 @@ personaje extrañas como “_jobs_” (clases/empleos) por sí mismo. Estos llam
 “_odd jobs_” (clases/empleos extraños) son el sujeto de esta guía introductoria
 corta.
 
-Esta guía provee un resumen conciso de algunos de los _odd jobs_ más importante
-y más común. Para una lista más detallada, puedes examinar [la lista de _odd
-jobs_ sobre el sitio web de
+Esta guía provee un resumen conciso de algunos de los _odd jobs_ más
+importantes y más comunes. Para una lista más detallada, puedes examinar [la
+lista de _odd jobs_ sobre el sitio web de
 **Oddjobs**](https://oddjobs.codeberg.page/odd-jobs.html). Esta guía tambien no
 menciona nada _odd jobs_ que son únicos a MapleStory post-Big-Bang.
 
@@ -63,9 +63,9 @@ acercandolos a matar los monstruos de Isla Maple con solo uno impacto.
 
 Debido a que Isla Maple es totalmente aislada del resto del Mundo Maple,
 isleños tienen una colección muy única de equipo y rollos que pueden usar. Por
-lo tanto, eventos especiales son más importante para isleños que son para otras
-personajes, porque eventos especiales ofrecen un oportunidad obtener ítems
-especiales que no existen naturalmente.
+lo tanto, eventos especiales son más importantes para isleños que son para
+otras personajes, porque eventos especiales ofrecen un oportunidad obtener
+ítems especiales que no existen naturalmente.
 
 Aunque ellos tal vez parecen muy limitados a primera vista, isleños dedicados
 tienen la capacidad conseguir niveles impresionantes. Tambien, ¡hay muchas
@@ -83,7 +83,7 @@ variedades!:
   suficiente para equipar cualquiera arma sobre la isla (incluyendo la _Leather
   Purse_ y la _Metal Wand_).
 - **Isleño híbrido (inglés: _hybridlander_):** Es un híbrido de dos o más de
-  las anteriores. Híbridos de STR/DEX y de DEX/LUK son especialmente común.
+  las anteriores. Híbridos de STR/DEX y de DEX/LUK son especialmente comunes.
 
 <details>
 <summary>Otras lecturas sobre el isleño</summary>
