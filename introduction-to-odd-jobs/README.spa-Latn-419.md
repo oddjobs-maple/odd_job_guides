@@ -1,11 +1,6 @@
 # Introducción A Los _Odd Jobs_
 
-En MapleStory, cada personaje se está construido en cierta manera. El jugador
-tiene que eligir cuales progresos de clase hace, como adjudicar su AP, como
-adjudicar su SP, y que equipo lleva en batalla. El jugador está libre hacer
-como lo quiere, siempre y cuando no viola algo de las reglas del juego. Sin
-embargo, el juego naturalmente recomienda que los jugadores hacen sus
-decisiones en uno de poco maneras limitadas.
+En MapleStory, cada personaje está se construye a cierta manera. El jugador tiene que eligir cuales progresos de clase hace, como adjudicar su AP, como adjudicar su SP, y que equipo usar en batalla. El jugador tiene libertad en hacer lo que quiera y jugar como quiera, siempre que no infrinja ninguna de las reglas del juego. Sin embargo, el juego naturalmente recomienda que los jugadores hagan sus decisiones en una de las pocas maneras limitadas.
 
 A pesar de las recomendaciónes del juego, jugadores de MapleStory siempre ha
 encontrado maneras creativas y interesantes violar estas normas. En muchos
@@ -211,7 +206,7 @@ Tuna_, la _Sake Bottle_, y la _Maroon Mop_ todopoderosa.
 
 </details>
 
-## ⚔️ Warriors
+## ⚔️ Guerreros
 
 ### Permawarrior
 
@@ -233,7 +228,7 @@ warrior-only equipment like ordinary warriors do, but they are also much less
 picky when it comes to weapon types. Polearms, swords, axes, blunt weapons, and
 even daggers are all very viable weapons for the permawarrior!
 
-### HP warrior
+### HP Guerreros
 
 ![Two HP warriors, using Rage and Power
 Guard](hp-warriors.webp "Two HP warriors, using Rage and Power Guard")
