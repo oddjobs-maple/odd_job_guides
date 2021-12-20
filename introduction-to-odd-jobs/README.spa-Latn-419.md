@@ -1,22 +1,24 @@
 # Introducción A Los _Odd Jobs_
 
-En MapleStory, cada personaje se construye a cierta manera. El jugador tiene que eligir cuales 
-progresos de clase hace, como adjudicar su AP, como adjudicar su SP, y que equipo usar en batalla. 
-El jugador tiene la libertad en hacer lo que quiera y jugar como quiera, siempre que no infrinja 
-ninguna de las reglas del juego. Sin embargo, el juego naturalmente recomienda que los jugadores 
+En MapleStory, cada personaje se construye a cierta manera. El jugador tiene
+que eligir cuales progresos de clase hace, como adjudicar su AP, como adjudicar
+su SP, y que equipo usar en batalla. El jugador tiene la libertad en hacer lo
+que quiera y jugar como quiera, siempre que no infrinja ninguna de las reglas
+del juego. Sin embargo, el juego naturalmente recomienda que los jugadores
 hagan sus decisiones en una de las pocas maneras limitadas.
 
-A pesar de las recomendaciónes del juego, los jugadores de MapleStory siempre han
-encontrado maneras creativas y interesantes de violar estas normas. En muchos
-casos, estas violaciones tienen su propio tipo de estructura — una cierta
-lógica. Tanto es así, que a menudo consideramos estas extrañas construcciones de personajes com   
-“_jobs_” (clases/empleos) por derecho propio. Estos llamados “_odd jobs_” son el tema de esta breve 
-guía introductoria.
+A pesar de las recomendaciónes del juego, los jugadores de MapleStory siempre
+han encontrado maneras creativas y interesantes de violar estas normas. En
+muchos casos, estas violaciones tienen su propio tipo de estructura — una
+cierta lógica. Tanto es así, que a menudo consideramos estas extrañas
+construcciones de personajes como “_jobs_” (clases/empleos) por derecho propio.
+Estos llamados “_odd jobs_” son el tema de esta breve guía introductoria.
 
-Esta guía ofrece un breve resumen de los _odd jobs_ más
-importantes y más comunes. Para una lista más detallada, puedes examinar [la
-lista de _odd jobs_ en el sitio web de **Oddjobs**](https://oddjobs.codeberg.page/odd-jobs.html). 
-Esta guía tampoco cubre los _odd jobs_ extraños que son exclusivos a MapleStory después del Big-Bang.
+Esta guía ofrece un breve resumen de los _odd jobs_ más importantes y más
+comunes. Para una lista más detallada, puedes examinar [la lista de _odd jobs_
+en el sitio web de **Oddjobs**](https://oddjobs.codeberg.page/odd-jobs.html).
+Esta guía tampoco cubre los _odd jobs_ extraños que son exclusivos a MapleStory
+después del Big-Bang.
 
 <details>
 <summary>
@@ -53,16 +55,16 @@ Glosario de algunos términos que estan usado dentro de esta guía
 
 Isleños, como la mayoría de personajes, salen del Campamento de Entrenamiento.
 ¡Pero nunca salen de Isla Maple! Como resultado, necesariamente son novatos
-(inglés: _beginners_) permanentes, y tienen un conjunto muy limitado de monstruos 
-contra los que pueden luchar. DEX quizás la estadística más importante para los isleños, 
-ya que mejora su daño mínimo por golpe, así acercandolos a matar los monstruos de Isla Maple con 
-solo uno ataque.
+(inglés: _beginners_) permanentes, y tienen un conjunto muy limitado de
+monstruos contra los que pueden luchar. DEX quizás la estadística más
+importante para los isleños, ya que mejora su daño mínimo por golpe, así
+acercandolos a matar los monstruos de Isla Maple con solo uno ataque.
 
-Debido a que Isla Maple está totalmente aislada del resto del Mundo Maple,
-los isleños tienen una colección muy única de equipo y rollos (pergaminos mágicos) que pueden usar. 
-Por lo tanto, eventos especiales son más importantes para isleños que para
-otros personajes, porque eventos especiales ofrecen a posibilidad de obtener objetos especiales que
-no se dan de forma natural.
+Debido a que Isla Maple está totalmente aislada del resto del Mundo Maple, los
+isleños tienen una colección muy única de equipo y rollos (pergaminos mágicos)
+que pueden usar. Por lo tanto, eventos especiales son más importantes para
+isleños que para otros personajes, porque eventos especiales ofrecen a
+posibilidad de obtener objetos especiales que no se dan de forma natural.
 
 Aunque ellos tal vez parecen muy limitados a primera vista, isleños dedicados
 tienen la capacidad de conseguir niveles impresionantes. Tambien, ¡hay muchas
@@ -83,7 +85,7 @@ variedades!:
   las anteriores. Híbridos de STR/DEX y de DEX/LUK son especialmente comunes.
 
 <details>
-<summary>Otras lecturas sobre el isleño</summary>
+<summary>Más información sobre el isleño</summary>
 
 - [MrBrandini (Cacophobia), “Brandini’s Islander Guide”, 2007-11-05, _MapleTip
   Forums_.](https://forums.mapletip.com/index.php?/topic/111589-brandinis-islander-guide/)
@@ -108,22 +110,24 @@ variedades!:
 manzana](campers.webp
 "De izquierda a derecha: una campista clásica, una campista de manzana")
 
-Los campistas, al igual que los isleños, están limitados por su ubicación. Pero a diferencia de los 
-isleños, ¡nunca salen del Campo de Entrenamiento! Por lo tanto, los campistas están muy 
-restringidos: nunca ganan equipo y sólo se ven obligados a luchar contra monstruos que dan 1 EXP 
-cada uno. La mayoría de los campistas eligen la Espada (_Sword_), ya que tiene la velocidad de 
-ataque más rápida de las tres armas iniciales.
+Los campistas, al igual que los isleños, están limitados por su ubicación. Pero
+a diferencia de los isleños, ¡nunca salen del Campo de Entrenamiento! Por lo
+tanto, los campistas están muy restringidos: nunca ganan equipo y sólo se ven
+obligados a luchar contra monstruos que dan 1 EXP cada uno. La mayoría de los
+campistas eligen la Espada (_Sword_), ya que tiene la velocidad de ataque más
+rápida de las tres armas iniciales.
 
-Puede haber diferentes tipos de campistas, dependiendo de la versión de MapleStory:
+Puede haber diferentes tipos de campistas, dependiendo de la versión de
+MapleStory:
 
 #### Subespecies
 
-- **Campista clásica:** Existe en una versión más antigua, en la que el campamento está al aire 
-libre y cuenta con _Tutorial Jr. Sentinels_.
+- **Campista clásica:** Existe en una versión más antigua, en la que el
+  campamento está al aire libre y cuenta con _Tutorial Jr. Sentinels_.
 - **Campista de manzana (inglés: _applelander_):** Es un campista _Adventurer_
-  quien exista en una versión más reciente,  en la que el campamento está en el interior,
-  obliga al jugador llevar un traje de manzana verde, y presenta las _Tutorial
-  Leatties_ y los _Tutorial Drumming Rabbits_.
+  quien exista en una versión más reciente,  en la que el campamento está en el
+  interior, obliga al jugador llevar un traje de manzana verde, y presenta las
+  _Tutorial Leatties_ y los _Tutorial Drumming Rabbits_.
 - **Caminante (inglés: _roadie_):** Es una campista _Cygnus Knight_, quien
   entrena a lo largo de _Empress’ Road_. Esta es la subespecie que es la más
   similar a un isleño, porque los monstruos allá dejan caer unos pocos ítems.
@@ -131,7 +135,7 @@ libre y cuenta con _Tutorial Jr. Sentinels_.
   solo lucha contra los _Tutorial Murus_.
 
 <details>
-<summary>Otras lecturas sobre el campista</summary>
+<summary>Más información sobre el campista</summary>
 
 - [Readers (TZD) and BigBerginner, “Readers’ Extraordinary Permanent Beginner
   Guide”, 2009-11-25, _MapleTip
@@ -143,47 +147,51 @@ libre y cuenta con _Tutorial Jr. Sentinels_.
 
 </details>
 
-### Novato permanente (Fuera de la isla) (inglés: _permabeginner (outland)_)
+### Novato permanente (fuera de la isla) (inglés: _permabeginner (outland)_)
 
 ![De izquierda a derecha: un novato STR, un novato de varita, un novato DEX, y
 un novato LUK](outland-permabeginners.webp
 "De izquierda a derecha:
 un novato STR, un novato de varita, un novato DEX, y un novato LUK")
 
-Aunque tanto los isleños como los campistas son necesariamente novatos permanentes, el
-término “novato permanente” (inglés: _permabeginner_) a menudo se utiliza
-para referirse a novatos permanentes _afuera de la isla_ (“Fuera de la isla”; inglés: _outland_). 
-Un Novato permanente tiene un Mundo Maple entero para explorar, pero su arsenal se queda más o menos 
-lo mismo que el de los isleños: prácticamente solo el ataque-básico.
+Aunque tanto los isleños como los campistas son necesariamente novatos
+permanentes, el término “novato permanente” (inglés: _permabeginner_) a menudo
+se utiliza para referirse a novatos permanentes _afuera de la isla_ (“fuera de
+la isla”; inglés: _outland_). Un novato permanente tiene un Mundo Maple entero
+para explorar, pero su arsenal se queda más o menos lo mismo que el de los
+isleños: prácticamente solo el ataque-básico.
 
 Como tienen acceso a un terreno más peligroso, su daño _promedio_ es más
-importante para los novatos permanentes _afuera de la isla_ que para sus homólogos de la
-isla, ¡y los novatos permanentes _afuera de la isla_ pueden alcanzar mayores cotas! Pero con el 
-terreno peligroso, llega la constatación de que los novatos permanentes son fuertes de corazón, pero 
-quizá no de cuerpo. Novatos permanentes tienen MAXHP excepcionalmente pobre
-(aunque benefician más de WDEF que otras clases), y sus ataques básicos acaban siendo demasiado 
-débil para luchar de forma competente contra monstruos del propio nivel del novato permanente.
+importante para los novatos permanentes _afuera de la isla_ que para sus
+homólogos de la isla, ¡y los novatos permanentes afuera de la isla pueden
+alcanzar mayores cotas! Pero con el terreno peligroso, llega la constatación de
+que los novatos permanentes son fuertes de corazón, pero quizá no de cuerpo.
+Novatos permanentes tienen MAXHP excepcionalmente pobre (aunque benefician más
+de WDEF que otras clases), y sus ataques básicos acaban siendo demasiado débil
+para luchar de forma competente contra monstruos del propio nivel del novato
+permanente.
 
-Dicho esto, ¡novatos permanentes son una opción siempre popular como personaje principal para los 
-inclinado a _odd jobs_!. La mayoría de ellos se centran en STR (a veces con DEX añadida, para 
-mejorar el WACC), y tienden a usar armas de asta, espadas y dagas. Sin embargo, novatos permanentes
-son al menos tan diversos como sus homólogos isleños.
+Dicho esto, ¡novatos permanentes son una opción siempre popular como personaje
+principal para los inclinado a _odd jobs_!. La mayoría de ellos se centran en
+STR (a veces con DEX añadida, para mejorar el WACC), y tienden a usar armas de
+asta, espadas y dagas. Sin embargo, novatos permanentes son al menos tan
+diversos como sus homólogos isleños.
 
-Según la versión de MapleStory, novatos permanentes (afuera de la isla) tal vez pueden tener acceso 
-a armas especiales que solo novatos pueden usar, p\.ej. el _Frozen Tuna_, la _Sake Bottle_, y el muy 
-poderoso _Maroon Mop_.
+Según la versión de MapleStory, novatos permanentes (afuera de la isla) tal vez
+pueden tener acceso a armas especiales que solo novatos pueden usar, p\.ej. el
+_Frozen Tuna_, la _Sake Bottle_, y el muy poderoso _Maroon Mop_.
 
 #### Subespecies
 
-- **Novato STR (inglés: _STRginner_):** Se centra en STR. Esta es la subespecies
-  más común.
-- **Novato-asesino/novato LUK (inglés: _besinner_/_LUKginner_):** Se centra en LUK, 
-y usa garras (p\.ej. el _Magical Mitten_).
+- **Novato STR (inglés: _STRginner_):** Se centra en STR. Esta es la
+  subespecies más común.
+- **Novato-asesino/novato LUK (inglés: _besinner_/_LUKginner_):** Se centra en
+  LUK, y usa garras (p\.ej. el _Magical Mitten_).
 - **Novato DEX (inglés: _DEXginner_):** Es puro DEX.
 - **Novato de varita (inglés: _wandginner_):** Solo usa varitas como armas.
 
 <details>
-<summary>Otras lecturas sobre el novato permanente de allá</summary>
+<summary>Más información sobre el novato permanente fuera de la isla</summary>
 
 - [Slime (OmokTeacher), “Slime’s Comprehensive Permanent Beginner Guide”,
   2016-11-03, _MapleLegends
@@ -211,44 +219,52 @@ y usa garras (p\.ej. el _Magical Mitten_).
 
 ![Dos guerreros permanentes](permawarriors.webp "Dos guerreros permanentes")
 
-Los guerreros permanentes (también conocidos como _permasword(wo)men_) son unos de los cinco tipos de
-perma-primeros trabajos ("perma-primeros"). Los perma-guerreros ascienden al primer puesto de trabajo
-a guerrero/espadachín, pero nunca avanzan más allá de este punto. Esto hace que los perma-primeros 
-son similares a los novatos permanentes, en el sentido de que se definen por no avanzar su trabajo.
+Los guerreros permanentes (también conocidos como _permasword(wo)men_) son unos
+de los cinco tipos de perma-primeros trabajos (“perma-primeros”). Los
+perma-guerreros ascienden al primer puesto de trabajo a guerrero/espadachín,
+pero nunca avanzan más allá de este punto. Esto hace que los perma-primeros son
+similares a los novatos permanentes, en el sentido de que se definen por no
+avanzar su trabajo.
 
-Los Guerreros permanentes utilizan _"Power Strike"_ y _"Slash Blast"_ offensivamente y _"MaxHP 
-Increase"_ y _"Iron Body"_ como habilidades defensivas. Esto los hace bastante versátiles,
-aunque son lentos debido a la falta de habilidades de movilidad y ataques a distancia.
+Los guerreros permanentes utilizan _Power Strike_ y _Slash Blast_
+offensivamente y _MaxHP Increase_ y _Iron Body_ como habilidades defensivas.
+Esto los hace bastante versátiles, aunque son lentos debido a la falta de
+habilidades de movilidad y ataques a distancia.
 
 Quizás el aspecto más notable del guerrero permanente es la gran variedad de
-equipo que son capaces de utilizar. No sólo tienen acceso a todos
-los equipos exclusivos de los guerreros ordinarios, sino que también son mucho menos exigentes en 
-cuanto a los tipos de armas. Ellos pueden utilizar astas, espadas, hachas, armas contundentes e 
-incluso dagas. Todas estas armas son muy viables para el guerrero permanente.
+equipo que son capaces de utilizar. No sólo tienen acceso a todos los equipos
+exclusivos de los guerreros ordinarios, sino que también son mucho menos
+exigentes en cuanto a los tipos de armas. Ellos pueden utilizar astas, espadas,
+hachas, armas contundentes e incluso dagas. Todas estas armas son muy viables
+para el guerrero permanente.
 
-### HP Guerreros
+### HP guerreros
 
 ![Dos HP guerreros, usando Rage y Power
 Guard](hp-warriors.webp "Dos HP guerreros, usando Rage y Power Guard")
 
-Los HP guerreros (también conocidos como _"guerreros de sangre"_ (a.k.a. blood warriors) son 
-guerreros sin puntos de habilidad. Ellos ponen todo de su AP en MAXHP. Un guerrero HP sólo añade 
-suficiente STR para avanzar en el trabajo, y luego espera hasta que tenga el máximo en la habilidad 
-_"Improved MaxHP Increase"_, antes de aumentar todo su AP en MAXHP. Esto hace que los guerreros HP 
-son _increíblemente_ duraderos y pueden alcanzar el tope de ¡30k MAXHP en torno al nivel 90-100!
+Los HP guerreros (también conocidos como “guerreros de sangre”) son guerreros
+sin puntos de habilidad. Ellos ponen todo de su AP en MAXHP. Un guerrero HP
+sólo añade suficiente STR para avanzar en el trabajo, y luego espera hasta que
+tenga el máximo en la habilidad _Improved MaxHP Increase_, antes de aumentar
+todo su AP en MAXHP. Esto hace que los guerreros HP son _increíblemente_
+duraderos y pueden alcanzar el tope de ¡30k MAXHP en torno al nivel 90-100!
 
-La principal herramienta en el arsenal del guerrero HP normalmente es "Power Guard". Cada vez
-que el guerrero de HP toca a un enemigo, una parte del daño que recibe es reflectado y daña al 
-enemigo. Esto es a menudo ineficiente, pero significa que los HP guerreros pueden luchar contra casi 
-cualquier enemigo cuando son de nivel ≈41 más o menos. También significa que los guerreros de HP 
-suelen ir por la ruta del luchador (fighter) o del paje (page) cuanda avanzan en su segundo trabajo 
-(los/las lanceros/as (ingl. spear(wo)men) nunca consiguen la Guardia de Poder). Para maximizar
-el daño de _"Power Guard"_, el guerrero HP busca bajar su WDEF tanto como sea posible.
-para ellos, el debuff de la habilidad _"Rage"_ puede ser útil (además de ser útil para el grupo).
+La principal herramienta en el arsenal del guerrero HP normalmente es _Power
+Guard_. Cada vez que el guerrero de HP toca a un enemigo, una parte del daño
+que recibe es reflectado y daña al enemigo. Esto es a menudo ineficiente, pero
+significa que los HP guerreros pueden luchar contra casi cualquier enemigo
+cuando son de nivel ≈41 más o menos. También significa que los guerreros de HP
+suelen ir por la ruta del luchador (_fighter_) o del paje (_page_) cuanda
+avanzan en su segundo trabajo (los/las lanceros/as (inglés: _spear(wo)men_)
+nunca consiguen la Guardia de Poder). Para maximizar el daño de _Power Guard_,
+el guerrero HP busca bajar su WDEF tanto como sea posible. Para ellos, el
+debuff de la habilidad _Rage_ puede ser útil (además de ser útil para el
+grupo).
 
-En raras ocasiones, los guerreros de HP pueden optar por la routa de lanceros (spear(wo)men) para 
-dar apoyo a su grupo. Mientras están en un nivel bajo, puedes hacer uso de las habilidades _"Hyper 
-Body"_ y _"Iron Will"_.
+En raras ocasiones, los guerreros de HP pueden optar por la routa de lanceros
+(_spear(wo)men_) para dar apoyo a su grupo. Mientras están en un nivel bajo,
+puedes hacer uso de las habilidades _Hyper Body_ e _Iron Will_.
 
 <details>
 <summary>Más información sobre el HP guerrero</summary>
@@ -264,33 +280,33 @@ Body"_ y _"Iron Will"_.
 
 ### Guerrero de la daga
 
-![De izquierda a derecha: un lancero de la daga, un cruzado de la daga](dagger-warriors.webp
+![De izquierda a derecha: un lancero de la daga, un cruzado de la
+daga](dagger-warriors.webp
 "De izquierda a derecha: un lancero de la daga, un cruzado de la daga")
 
-Los guerreros que utilizan exclusivamente dagas como arma se conocen como guerreros de la daga. Las 
-"dagas de STR" - dagas que requieren una cantidad significativa de STR y DEX para ser equipadas- son 
-populares entre los bandidos ordinarios, pero en realidad no son exclusivas a los ladrones _(ingl. 
-thieves)_. ¡Esas armas son exclusivas a ladrones _y_ a guerreros! Porque estas dagas de 
-ladrón-guerrero _sólo_ requieren STR y DEX para ser equipadas (es decir, no requieren
-LUK), fomentan naturalmente la creación de guerreros con daga.
+Los guerreros que utilizan exclusivamente dagas como arma se conocen como
+guerreros de la daga. Las “dagas de STR” — dagas que requieren una cantidad
+significativa de STR y DEX para ser equipadas — son populares entre los
+bandidos ordinarios, pero en realidad no son exclusivas a los ladrones (inglés:
+_thieves_). ¡Esas armas son exclusivas a ladrones _y_ a guerreros! Porque estas
+dagas de ladrón-guerrero _sólo_ requieren STR y DEX para ser equipadas (es
+decir, no requieren LUK), fomentan naturalmente la creación de guerreros con
+daga.
 
-Al igual a los guerreros permanentes, _los guerreros de la daga_ tienen que usar _Power Strike_ y 
-_Slash Blast_ por vida. Sin embargo, a diferencia a los perma guerreros, _los guerreros de la daga_ 
-pueden avancar de segundo trabajo (y despues de eso tercero y cuarto). Más adelante, esto les da
-muchas herramientas de uso.
-Las más notables son: "Rage", "Threaten", "Hyper Body", "Berserk", "Shout", "Shield Mastery", y
-sobre todo, ¡"Combo Attack"! Esto hace que luchador (Fighter)→ cruzado (Crusader)→ héroe (Hero) es 
-la progresión de clase de guerreros de la daga mas usada. Aunque otros caminos tienen sus
-ventajas también. Tengan en cuenta que los guerreros con daga no pueden utilizar Rugido del Dragón _
-(Roar)_.
+Al igual a los guerreros permanentes, los guerreros de la daga tienen que usar
+_Power Strike_ y _Slash Blast_ por vida. Sin embargo, a diferencia a los
+perma-guerreros, los guerreros de la daga pueden avancar de segundo trabajo (y
+despues de eso, tercero y cuarto). Más adelante, esto les da muchas
+herramientas de uso. Las más notables son: _Rage_, _Threaten_, _Hyper Body_,
+_Berserk_, _Shout_, _Shield Mastery_, y sobre todo, ¡_Combo Attack_! Esto hace
+que luchador (_fighter_) → cruzado (_crusader_) → héroe (_hero_) es la
+progresión de clase de guerreros de la daga mas usada. Aunque otros caminos
+tienen sus ventajas también. Tengan en cuenta que los guerreros con daga no
+pueden utilizar Rugido del Dragón (_Dragon Roar_).
 
-When built “normally” — i.e. just enough DEX to equip one’s weapon, and the
-remaining AP into STR — dagger warriors are amongst the most powerful odd jobs,
-in terms of sheer DPS output.
-
-Cuando se construye a manera "normal" - es decir, con suficiente DEX para equipar su arma, y el
-AP restante en STR - los guerreros con daga son unos de los más poderosos "odd-jobs"
-en términos de DPS.
+Cuando se construye a manera “normal” — es decir, con suficiente DEX para
+equipar su arma, y el AP restante en STR — los guerreros con daga son unos de
+los más poderosos “_odd jobs_” en términos de DPS.
 
 #### Especies relacionadas
 
@@ -298,37 +314,34 @@ en términos de DPS.
 
 ### DEX guerrero
 
-![De izquierda a derecha: un DEXadin, un caballero ("darksterity")] (dex-warriors.webp 
-"De izquierda a derecha: un DEXadin, un caballero "darksterity")
+![De izquierda a derecha: un DEXadin, un caballero
+“darksterity”](dex-warriors.webp
+"De izquierda a derecha: un DEXadin, un caballero “darksterity”")
 
-Guerreros que vuelcan todos sus AP (excepto los 35 STR de base necesarios para avanzar en el trabajo)
-son conocidos como guerreros de DEX. Aunque los guerreros de DEX infligen menos daño que guerreros 
-"normales", son capaces de utilizar el mismo conjunto de habilidades, y su extrema agilidad viene 
-con sus propias ventajas.
+Guerreros que vuelcan todos sus AP (excepto los 35 STR de base necesarios para
+avanzar en el trabajo) son conocidos como guerreros de DEX. Aunque los
+guerreros de DEX infligen menos daño que guerreros “normales”, son capaces de
+utilizar el mismo conjunto de habilidades, y su extrema agilidad viene con sus
+propias ventajas.
 
-DEX warriors are renowned for their godlike accuracy and incredibly stable
-damage output. They also have much more avoidability than STR-based warriors,
-and have no issues wielding the legendary Stonetooth Sword. And DEX _does_
-contribute to the magnitude of the warrior’s damage — this, combined with the
-arsenals provided by the various warrior classes, makes DEX warriors some of
-the most high-powered odd jobs overall.
+Los DEX guerreros son famosos por su precisión divina y su increíblemente
+estabilidad de daño. También tienen mucha más capacidad de evasión
+(_avoidability_) que los guerreros basados en STR, y no tienen problemas para
+blandir la legendaria Espada Diente de Piedra (_Stonetooth Sword_). DEX
+contribuye a la magnitud del daño del guerrero — esto, combinado con los
+arsenales proporcionados por las distintas clases de guerreros, hace que los
+guerreros con DEX son unos de los mas potentes “_odd jobs_” en general.
 
-Los DEX guerreros son famosos por su precisión divina y su increíblemente estabilidad
-de daño. También tienen mucha más capacidad de evasión _(avoidability)_ que los guerreros basados en 
-STR, y no tienen problemas para blandir la legendaria Espada Diente de Piedra (Stonetooth Sword). 
-DEX contribuye a la magnitud del daño del guerrero - esto, combinado con los arsenales 
-proporcionados por las distintas clases de guerreros, hace que los guerreros con DEX son unos de los 
-mas potentes "odd jobs" en general.
-
-Debido a que no tienen STR, los DEX guerreros tienen consideraciones únicas en cuanto a su equipo.
-consideraciones. Esto a menudo hace que el equipo de los DEX guerreros se parezca más
-al equipo de los novatos permanentes que al equipo de guerreros ordinarios.
+Debido a que no tienen STR, los DEX guerreros tienen consideraciones únicas en
+cuanto a su equipo. Esto a menudo hace que el equipo de los DEX guerreros se
+parezca más al equipo de los novatos permanentes que al equipo de guerreros
+ordinarios.
 
 #### Especies relacionadas
 
-- **LUK guerrero:** Es pura LUK, en lugar de pura DEX. Los guerreros de LUK renuncian a algo de
-  daño, estabilidad de daño, y WACC, a cambio de más capacidad de evasión _(avoidability)_, y
-  mas DPS con garras.
+- **LUK guerrero:** Es pura LUK, en lugar de pura DEX. Los guerreros de LUK
+  renuncian a algo de daño, estabilidad de daño, y WACC, a cambio de más
+  capacidad de evasión (_avoidability_), y mas DPS con garras.
 
 ## 🧙 Magos
 
@@ -336,22 +349,23 @@ al equipo de los novatos permanentes que al equipo de guerreros ordinarios.
 
 ![Dos magos permanentes](permamagicians.webp "Dos magos permanentes")
 
-Los Magos permanentes son uno de los cinco tipos de perma-primeros trabajos ("perma-primeros") 
-_(ingl. “perma-firsts”)_. Los permamágicos ascienden al trabajo de mago, pero nunca avanzan
-más allá de este punto. Esto hace que los perma-primeros se parezcan a novatos permanentes, 
-en el sentido de que se definen por su niegamiento a avanzar de trabajo.
+Los magos permanentes son uno de los cinco tipos de perma-primeros trabajos
+(“perma-primeros”) (inglés: _perma-firsts_). Los permamágicos ascienden al
+trabajo de mago, pero nunca avanzan más allá de este punto. Esto hace que los
+perma-primeros se parezcan a novatos permanentes, en el sentido de que se
+definen por su niegamiento a avanzar de trabajo.
 
-Magos permanentes confían en la habilidad _"Magic Claw"_ (y "Energy Bolt") para atacar, y usan los 
-hechizos defensivos como "Magic Guard", "Magic Armor", e "Improved MaxMP Increase".
-Esto hace que los _"permamagos"_ son bastante resistentes, pero carecen la capacidad de atacar a 
-varios enemigos al mismo tiempo. Los permamagos también pueden ser lentos, ya que sus ataques tienen 
-cierto alcance, pero carecen del Teleport de otros magos.
+Magos permanentes confían en la habilidad _Magic Claw_ (y _Energy Bolt_) para
+atacar, y usan los hechizos defensivos como _Magic Guard_, _Magic Armor_, e
+_Improved MaxMP Increase_. Esto hace que los “permamagos” son bastante
+resistentes, pero carecen la capacidad de atacar a varios enemigos al mismo
+tiempo. Los permamagos también pueden ser lentos, ya que sus ataques tienen
+cierto alcance, pero carecen del _Teleport_ de otros magos.
 
-Los permamagos son totalmente neutrales en cuanto a elementos, a diferencia de otros tipos de
-magos hechiceros.
+Los permamagos son totalmente neutrales en cuanto a elementos, a diferencia de
+otros tipos de magos hechiceros.
 
-
-### Mago de la Fuerza (ingl. STR mage)
+### Mago de la fuerza (inglés: _STR mage_)
 
 ![From left to right: a STR bishop, a STR
 cleric](str-mages.webp "From left to right: a STR bishop, a STR cleric")
