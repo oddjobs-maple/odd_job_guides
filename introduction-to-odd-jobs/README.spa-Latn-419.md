@@ -353,38 +353,43 @@ magos hechiceros.
 
 ### Mago de la Fuerza (ingl. STR mage)
 
-![From left to right: a STR bishop, a STR
-cleric](str-mages.webp "From left to right: a STR bishop, a STR cleric")
+![De la izquierda a la derecha: un obispo de la fuerza (STR Bishop), un clérigo
+de la fuerza (STR Cleric)](str-mages.webp "De la izquierda a la derecha: un obispo de la fuerza (STR Bishop), un clérigo
+de la fuerza (STR Cleric)")
 
-A mage who devotes their AP to STR (and possibly some DEX, for the WACC) is
-known as a STR mage. The main mode of combat for a STR mage is melee; they deal
-damage by basic-attacking, much like outland permabeginners.
+Un mago que dedica su AP a STR (y posiblemente algo de DEX, para el WACC) es
+conocido como un Mago de la Fuerza (ingl. STR mage) o mago STR. 
+El principal modo de combate de un mago STR es el cuerpo a cuerpo; infligen
+daño al medio de ataques básicos, al igual que los novatos permanentes.
 
-Unlike permabeginners, however, STR mages have a wide variety of spells and
-other goodies at their disposal. STR mages are built much sturdier than
-permabeginners, thanks to Magic Guard, Magic Armor, etc. They also have —
-assuming that they’re not permamagicians — Teleport at their disposal, allowing
-them to “teleslash” their foes. They also get access to weapons like the Fusion
-Mace, which are designed for STR mages.
+Sin embargo, a diferencia de los novatos permanentes, los magos de la fuerza tienen una gran variedad de hechizos y
+y otros recursos a su disposición. Los magos STR son mucho más resistentes que los
+que los novatos, gracias a sus habilidades "Magic Guard", "Magic Armor", etc. También tienen,
+suponiendo que no sean permamágicos, disposición ha su habilidad "Teleport", que les permite
+attacar a sus enemigos durante el movimiente de "Teleport" "(teleslash"). También tienen acceso a armas como por ejemplo el
+"Fusion Mace"Fusión Mace, que son diseñadas specificadamente para los magos STR.
 
-Typically, STR mages follow one of two paths: cleric → priest → bishop, or
-fire/poison. As a bishop, the STR mage is incredibly durable, while providing
-massive amounts of utility. From Heal (STR mages use this skill only
-defensively), to Bless, to Holy Symbol, to Doom, to Dispel, to Resurrection,
-etc., the STR bishop always has something to bring to the table. And the
-fire/poison mage gets spells like Slow, Seal, and most importantly: Poison
-Mist. Poison Mist’s lingering cloud ignores the STR F/P’s MACC, allowing them
-to poison any non-boss monster.
+Normalmente, los magos de la fuerza siguen uno de los dos caminos: clérigo (Cleric) → sacerdote (Priest) → obispo (Bishop),
+o del mago fuego/veneno _(Fire/Poison)_. Como obispo, el mago STR es increíblemente duradero, a la vez que puede usar
+una cantidad masiva de utilidades. Desde la habilida "Heal" (los magos STR sólo utilizan esta habilidad
+defensivamente), a "Bless", "Holy Symbol", "Doom", "Dispel", hasta "Ressurection", y muchos mas. El obispo STR siempre 
+tiene algo que aportar. Y el mago de fuego/veneno tiene hechizos como "Slow", "Seal", y el más importante: "Poison Mist".
+La nube persistente de Niebla Venenosa _("Poison Mist")_ ignora el MACC del mago de fuego/veneno de STR (F/P STR Mage), 
+permitiéndole envenenar a cualquier monstruo que no sea un monstro-jefe (boss monster).
+
 
 Although they are much less popular, STR I/L mages and STR permamagicians are
 possible as well.
 
-#### Related species
+Aunque son mucho menos populares, los magos de hielo y rayo _(STR I/L mages)_ y los permamagos de la fuerza _(STR 
+permamagicians)_ son también son posibles.
 
-- **DEX mage:** Is pure DEX, but otherwise functions like a STR mage.
+#### Especies relacionadas
+
+- **DEX mago:** Es pura DEX, pero por lo demás funciona como un mago STR.
 
 <details>
-<summary>Further reading about the STR mage</summary>
+<summary>Más información sobre el mago de la fuerza (mago STR)</summary>
 
 - [deer (cervid), “The Divinely Blessed Knight-Errant, The Holy Physician
   Turned Armed Zealot: The STR Cleric”, 2020-10-30,
@@ -401,35 +406,35 @@ possible as well.
 
 ### Magelet
 
-![From left to right: an I/L magelet, a
-priestlet](magelets.webp "From left to right: an I/L magelet, a priestlet")
+![De izquierda a derecha: un magelet hielo/rayo, un
+priestlet](magelets.webp "De izquierda a derecha: un magelet hielo/rayo, un priestlet")
 
-A pure LUK mage is called a magelet. One way to think about magelets is that
-STR mages are to STRginners, as magelets are to LUKginners. And indeed, the
-magelet is adept at using claws. However, perhaps the most important trait of
-magelets is that they have the same MACC as their non-odd counterparts! This
-allows magelets to make use of essentially all of their skills.
+Un mago con puro LUK se llama magelet. Una forma de pensar sobre los magelets es que
+los magos STR son para los STRginners, como los magelets son para los LUKginners. Y de hecho, el
+magelet es experto en el uso de garras. Sin embargo, quizás el rasgo más importante de los
+¡los magelets es que tienen el mismo MACC que sus contrapartes "non-odd"!
+Esto permite a los magelets hacer uso de todas sus habilidades.
 
-Although magelets may deal less damage than their non-odd counterparts when
-spellcasting, magelets excel at avoidability, DPS with claws, and WACC (useful
-for last-hitting when training with Poison Mist). They also have some unique
-equipment choices, as there are several TMA-oriented weapons which have
-significant LUK requirements, but no significant INT requirements.
+Aunque los magelets pueden infligir menos daño que sus contrapartes cuando usan
+hechizos, los magelets sobresalen en evasión _(avoidability)_, DPS con garras, y WACC (útil para
+terminar sus enemigos _(ingl. last-hitting)_ cuando entrenan con "Poison Mist"). También tienen algunas opciones 
+especiales de equipo, ya que hay varias armas orientadas a la TMA que tienen
+requisitos significativos de LUK, pero no de INT.
 
-Magelets can thrive in any of the main three mage paths (fire/poison,
-ice/lightning, cleric/priest/bishop). F/P magelets benefit from the fact that
-poison effects (from Poison Breath, Poison Mist, Element Composition) ignore
-the mage’s TMA. I/L magelets benefit from the strong crowd control and raw DPS
-of I/L skills. And, last but not least, clerics/priests/bishops benefit from
-the fact that Heal damage scales with LUK, as well as from the awesome utility
-skills provided by bishops.
+Los Magelets pueden prosperar en cualquiera de los tres caminos principales de los magos (fuego/veneno,
+hielo/rayo, clérigo/sacerdote/obispo). Los magelets de fuego/veneno benefician del hecho de que
+efectos de veneno (de "Poison Breath", "Poison Mist", "Element Composition") ignoran
+la TMA del mago. Los magos hielo/rayo benefician del fuerte control de masas _(crowd control)_ y del DPS bruto
+de las habilidades hielo/rayo. Y, por último, pero no menos importante, los clérigos/sacerdotes/obispos benefician de
+el hecho de que el daño de "Heal" escala con LUK, así como de las increíbles habilidades de utilidad
+de los obispos.
 
-#### Subspecies
+#### Subespecies
 
-- **Claw mage:** Is a magelet who only uses claws.
+- **Mago con garras:** Es un mago que sólo usa garras.
 
 <details>
-<summary>Further reading about the magelet</summary>
+<summary>Más información sobre el magelet</summary>
 
 - [deer (cervine, d33r), “Fate’s Warlock, Fortune’s Witch: The Magelet”,
   2021-01-25, _Oddjobs_.](https://oddjobs.codeberg.page/guides/magelet/)
@@ -439,35 +444,40 @@ skills provided by bishops.
 
 ### Gish
 
-![From left to right: an F/P archgish, an I/L
-gish](gishes.webp "From left to right: an F/P archgish, an I/L gish")
+![De izquierda a derecha: un archimago fuego/veneno , un gish hielo/rayo
+](gishes.webp "De izquierda a derecha: un archimago fuego/veneno , un gish hielo/rayo")
 
-For some players, STR/DEX mages leave something to be desired — with no MACC,
-almost all offensive spells are useless. By adding some AP into LUK and/or INT,
-but otherwise adding AP like a STR/DEX mage, the gish is capable of harnessing
-both worlds: physical _and_ magical. The gish is in a unique position to make
-good use of special items that have both physical and magical benefits, like
-the umbrellas, the Crimson Arcglaive, the Flamekeeper Cordon, the Kebob, the
-Flaming Katana, etc.
+Para algunos jugadores, los magos de STR/DEX dejan que desear - sin MACC,
+casi todos los hechizos ofensivos son inútiles. Añadiendo algo de AP en LUK y/o INT,
+pero añadiendo AP como un mago STR/DEX, el gish es capaz de aprovechar
+ambos mundos: físico _y_ mágico. El gish está en una posición única para hacer 
+un buen uso de los objetos especiales que tienen beneficios físicos y mágicos, como
+los paraguas _(ingl. umbrellas)_, el "Crimson Arcglaive", el "Flamekeeper Cordon", el "Kebob", la
+Katana Flamígera _(ingl. Flaming Katana)_, etc.
 
-Gishes must sacrifice some of the melee power of the STR/DEX mage in order to
-be proficient with magical attacks. Also, gishes are extremely unique in their
-reliance on every single stat: STR, DEX, INT, _and_ LUK! These two facts
-combine to make the gish perhaps the single most difficult job in MapleStory to
-play properly. Allocating AP and choosing gear for a gish is **not** for the
-faint of heart, and MACC issues (and some WACC issues) abound.
+Los Gishes deben sacrificar parte del poder cuerpo a cuerpo del mago STR/DEX para
+para poder dominar los ataques mágicos. Además, los gishes son extremadamente únicos en su
+dependencia de cada una de las estadísticas: ¡STR, DEX, INT, _y_ LUK! Estos dos hechos
+combinados hacen que el gish sea uno de los trabajos más difíciles de MapleStory de jugar correctamente.
+La asignación de AP y la elección de equipo para un gish no es para los débiles de corazón
+y tambien pueden occurar problemas de MACC (y algunos problemas de WACC).
 
 However, for those willing to take on the challenge, gishes can be incredibly
 rewarding. Not only are they mixed attackers, but they are capable of
 alternating between modes of combat without switching equipment. Furthermore,
 like magelets, gishes can excel in any of the three main mage paths.
 
-#### Subspecies
+Sin embargo, para aquellos que estén dispuestos a aceptar el reto, los gish pueden ser increíblemente
+gratificante. No sólo son atacantes mixtos, sino tambien son capaces de
+alternar entre modos de combate sin cambiar de equipo. Además,
+al igual que los magelets, los gishes pueden sobresalir en cualquiera de las tres vías principales de los magos.
 
-- **Gishlet:** Is an INTless gish, focusing only on STR/DEX and LUK.
+#### Subespecies
+
+- **Gishlet:** Es un gish sin INT, focusandose sólo en STR/DEX y LUK.
 
 <details>
-<summary>Further reading about the gish</summary>
+<summary>Más información sobre el gish</summary>
 
 - [cortical (GishGallop), “Project Gish”, 2021-03-16, _Oddjobs
   Forum_.](https://oddjobs.flarum.cloud/d/11-project-gish)
@@ -481,11 +491,11 @@ like magelets, gishes can excel in any of the three main mage paths.
 
 </details>
 
-## 🏹 Archers
+## 🏹 Arqueros
 
-### Permarcher
+### Arqueros permanente
 
-![Two permarchers](permarchers.webp "Two permarchers")
+![Dos arqueros permanentes](permarchers.webp "Dos arqueros permanentes")
 
 Permarchers are one of five kinds of perma-first-jobbers (“perma-firsts”).
 Permarchers take first job advancement to archer, but never job advance beyond
