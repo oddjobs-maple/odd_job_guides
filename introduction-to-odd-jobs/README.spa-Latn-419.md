@@ -493,7 +493,7 @@ al igual que los magelets, los gishes pueden sobresalir en cualquiera de las tre
 
 ## 🏹 Arqueros
 
-### Arqueros permanente
+### Arquero permanente
 
 ![Dos arqueros permanentes](permarchers.webp "Dos arqueros permanentes")
 
