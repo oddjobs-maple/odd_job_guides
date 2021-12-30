@@ -357,7 +357,7 @@ definen por su niegamiento a avanzar de trabajo.
 
 Magos permanentes confían en la habilidad _Magic Claw_ (y _Energy Bolt_) para
 atacar, y usan los hechizos defensivos como _Magic Guard_, _Magic Armor_, e
-_Improved MaxMP Increase_. Esto hace que los “permamagos” son bastante
+_Improved MaxMP Increase_. Esto hace que los permamagos son bastante
 resistentes, pero carecen la capacidad de atacar a varios enemigos al mismo
 tiempo. Los permamagos también pueden ser lentos, ya que sus ataques tienen
 cierto alcance, pero carecen del _Teleport_ de otros magos.
@@ -381,7 +381,7 @@ Sin embargo, a diferencia de los novatos permanentes, los magos de la fuerza
 tienen una gran variedad de hechizos y otros recursos a su disposición. Los
 magos STR son mucho más resistentes que los que los novatos, gracias a sus
 habilidades _Magic Guard_, _Magic Armor_, etc. También tienen, suponiendo que
-no sean permamágicos, disposición ha su habilidad _Teleport_, que les permite
+no sean permamagos, disposición ha su habilidad _Teleport_, que les permite
 atacar a sus enemigos durante el movimiente de _Teleport_ (“_teleslash_”).
 También tienen acceso a armas como por ejemplo el _Fusion Mace_, que son
 diseñadas specificadamente para los magos STR.
