@@ -17,8 +17,8 @@ Estos llamados “_odd jobs_” son el tema de esta breve guía introductoria.
 Esta guía ofrece un breve resumen de los _odd jobs_ más importantes y más
 comunes. Para una lista más detallada, puedes examinar [la lista de _odd jobs_
 en el sitio web de **Oddjobs**](https://oddjobs.codeberg.page/odd-jobs.html).
-Esta guía tampoco cubre los _odd jobs_ extraños que son exclusivos a MapleStory
-después del Big-Bang.
+Esta guía tampoco cubre los _odd jobs_ que son exclusivos a MapleStory después
+del Big-Bang.
 
 <details>
 <summary>
