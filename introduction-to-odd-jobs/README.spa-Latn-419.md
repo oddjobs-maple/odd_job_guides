@@ -219,12 +219,12 @@ _Frozen Tuna_, la _Sake Bottle_, y el muy poderoso _Maroon Mop_.
 
 ![Dos guerreros permanentes](permawarriors.webp "Dos guerreros permanentes")
 
-Los guerreros permanentes (también conocidos como _permasword(wo)men_) son unos
-de los cinco tipos de perma-primeros trabajos (“perma-primeros”). Los
-perma-guerreros ascienden al primer puesto de trabajo a guerrero/espadachín,
-pero nunca avanzan más allá de este punto. Esto hace que los perma-primeros son
-similares a los novatos permanentes, en el sentido de que se definen por no
-avanzar su trabajo.
+Los guerreros permanentes (también conocidos como _permasword(wo)men_) son uno
+de los cinco tipos de perma-primeros trabajos (“perma-primeros”; inglés:
+_perma-firsts_). Los perma-guerreros ascienden al trabajo de
+guerrero/espadachín, pero nunca avanzan más allá de este punto. Esto hace que
+los perma-primeros se parezcan a novatos permanentes, en el sentido de que se
+definen por su niegamiento a avanzar de trabajo.
 
 Los guerreros permanentes utilizan _Power Strike_ y _Slash Blast_
 offensivamente y _MaxHP Increase_ y _Iron Body_ como habilidades defensivas.
@@ -350,7 +350,7 @@ ordinarios.
 ![Dos magos permanentes](permamagicians.webp "Dos magos permanentes")
 
 Los magos permanentes son uno de los cinco tipos de perma-primeros trabajos
-(“perma-primeros”) (inglés: _perma-firsts_). Los permamágicos ascienden al
+(“perma-primeros”; inglés: _perma-firsts_). Los perma-magos ascienden al
 trabajo de mago, pero nunca avanzan más allá de este punto. Esto hace que los
 perma-primeros se parezcan a novatos permanentes, en el sentido de que se
 definen por su niegamiento a avanzar de trabajo.
@@ -369,7 +369,8 @@ otros tipos de magos hechiceros.
 
 ![De la izquierda a derecha: un obispo de la fuerza (STR bishop), un clérigo de
 la fuerza (STR cleric)](str-mages.webp
-"De la izquierda a derecha: un obispo de la fuerza (STR bishop), un clérigo de la fuerza (STR cleric)")
+"De la izquierda a derecha:
+un obispo de la fuerza (STR bishop), un clérigo de la fuerza (STR cleric)")
 
 Un mago que dedica su AP a STR (y posiblemente algo de DEX, para el WACC) es
 conocido como un mago de la fuerza (inglés: _STR mage_), o mago STR. El
@@ -420,42 +421,42 @@ los permamagos de la fuerza (_STR permamagicians_) también son posibles.
 
 </details>
 
-### Magelet
+### Maguito (inglés: _magelet_)
 
-![De izquierda a derecha: un magelet hielo/rayo, un
-priestlet](magelets.webp
-"De izquierda a derecha: un magelet hielo/rayo, un priestlet")
+![De izquierda a derecha: un maguito hielo/rayo, un
+sacerdotecito](magelets.webp
+"De izquierda a derecha: un maguito hielo/rayo, un sacerdotecito")
 
-Un mago con puro LUK se llama magelet. Una forma de pensar sobre los magelets
-es que los magos STR son para los _STRginners_, como los magelets son para los
-_LUKginners_. Y de hecho, el magelet es experto en el uso de garras. Sin
-embargo, quizás el rasgo más importante de los magelets es que ¡tienen el mismo
-MACC que sus contrapartes “_non-odd_”! Esto permite a los magelets hacer uso de
-todas sus habilidades.
+Un mago con puro LUK se llama maguito (inglés: _magelet_). Una forma de pensar
+sobre los maguitos es que los magos STR son para los _STRginners_, como los
+maguitos son para los _LUKginners_. Y de hecho, el maguito es experto en el uso
+de garras. Sin embargo, quizás el rasgo más importante de los maguitos es que
+¡tienen el mismo MACC que sus contrapartes “normales”! Esto permite a los
+maguitos hacer uso de todas sus habilidades.
 
-Aunque los magelets pueden infligir menos daño que sus contrapartes cuando usan
-hechizos, los magelets sobresalen en evasión (_avoidability_), DPS con garras,
+Aunque los maguitos pueden infligir menos daño que sus contrapartes cuando usan
+hechizos, los maguitos sobresalen en evasión (_avoidability_), DPS con garras,
 y WACC (útil para terminar sus enemigos (inglés: _last-hitting_) cuando
 entrenan con _Poison Mist_). También tienen algunas opciones especiales de
 equipo, ya que hay varias armas orientadas a la TMA que tienen requisitos
 significativos de LUK, pero no de INT.
 
-Los magelets pueden prosperar en cualquiera de los tres caminos principales de
-los magos (fuego/veneno, hielo/rayo, clérigo/sacerdote/obispo). Los magelets de
+Los maguitos pueden prosperar en cualquiera de los tres caminos principales de
+los magos (fuego/veneno, hielo/rayo, clérigo/sacerdote/obispo). Los maguitos de
 fuego/veneno benefician del hecho de que efectos de veneno (de _Poison Breath_,
 _Poison Mist_, _Element Composition_) ignoran la TMA del mago. Los magos
 hielo/rayo benefician del fuerte control de masas (inglés: _crowd control_) y
 del DPS bruto de las habilidades hielo/rayo. Y, por último, pero no menos
-importante, los clérigos/sacerdotes/obispos benefician de el hecho de que el
-daño de _Heal_ escala con LUK, así como de las increíbles habilidades de
+importante, los clériguitos/sacerdotecitos/obispitos benefician de el hecho de
+que el daño de _Heal_ escala con LUK, así como de las increíbles habilidades de
 utilidad de los obispos.
 
 #### Subespecies
 
-- **Mago con garras:** Es un mago que sólo usa garras.
+- **Mago con garras:** Es un mago quien sólo usa garras.
 
 <details>
-<summary>Más información sobre el magelet</summary>
+<summary>Más información sobre el maguito</summary>
 
 - [deer (cervine, d33r), “Fate’s Warlock, Fortune’s Witch: The Magelet”,
   2021-01-25, _Oddjobs_.](https://oddjobs.codeberg.page/guides/magelet/)
@@ -486,10 +487,10 @@ trabajos más difíciles de MapleStory de jugar correctamente. La asignación de
 AP y la elección de equipo para un gish no es para los débiles de corazón y
 tambien pueden occurar problemas de MACC (y algunos problemas de WACC).
 
-Sin embargo, para aquellos que estén dispuestos a aceptar el reto, los gish
+Sin embargo, para aquellos que estén dispuestos a aceptar el reto, los gishes
 pueden ser increíblemente gratificante. No sólo son atacantes mixtos, sino
 tambien son capaces de alternar entre modos de combate sin cambiar de equipo.
-Además, al igual que los magelets, los gishes pueden sobresalir en cualquiera
+Además, al igual que los maguitos, los gishes pueden sobresalir en cualquiera
 de las tres vías principales de los magos.
 
 #### Subespecies
@@ -517,62 +518,72 @@ de las tres vías principales de los magos.
 
 ![Dos arqueros permanentes](permarchers.webp "Dos arqueros permanentes")
 
-Permarchers are one of five kinds of perma-first-jobbers (“perma-firsts”).
-Permarchers take first job advancement to archer, but never job advance beyond
-this point. This makes perma-firsts similar to permabeginners, in that they are
-defined by their refusal to job advance.
+Los arqueros permanentes son uno de los cinco tipos de perma-primeros trabajos
+(“perma-primeros”; inglés: _perma-firsts_). Los perma-arqueros ascienden al
+trabajo arquero, pero nunca avanzan más allá de este punto. Esto hace que los
+perma-primeros se parezcan a novatos permanentes, en el sentido de que se
+definen por su niegamiento a avanzar de trabajo.
 
-Permarchers rely on the combination of Critical Shot with Double Shot (and/or
-Arrow Blow) for offence. On the other hand, they are almost totally lacking in
-defences (besides the +20 avoidability from Focus) — they don’t even get the
-MAXHP boost from taking second job advancement. This makes permarchers very
-fragile, and unable to hit more than one monster at a time. However,
-permarchers are just as “ranged” as any non-odd archer, and their single-target
-DPS is very impressive for an odd job.
+Los perma-arqueros confían en la combinación de _Critical Shot_ con _Double
+Shot_ (y/o _Arrow Blow_) en uso offensivo. Por otro lado, carecen casi por
+completo de defensas (excepto por los +20 de evasión (_avoidability_) de
+_Focus_) — ni siquiera obtienen el aumento de MAXHP al tomar el segundo avance
+de trabajo. Esto hace que los arqueros permanentes son muy frágiles, e
+incapaces de golpear a más de un monstruo a la vez. Sin embargo, los
+permarqueros son tan “a distancia” como cualquier otro arquero, y su DPS de un
+solo objetivo es muy impresionante para un trabajo extraño.
 
-Permarchers are notable for being equally skilled in the use of bows and of
-crossbows. If all else is equal, crossbows tend to be slightly more powerful
-than bows.
+Los permarqueros destacan por ser igual de hábiles en el uso de arcos y de
+ballestas. Si todo lo demás es igual, las ballestas tienden a ser ligeramente
+más potentes que los arcos.
 
-### Woods(wo)man
+### Mujer/hombre del bosque
 
-![The woodswoman](woodswomen.webp "The woodswoman")
+![La/el mujer/hombre del bosque](woodswomen.webp
+"La/el mujer/hombre del bosque")
 
-An archer who is pure STR is called a woods(wo)man, or forester. With all of
-that STR, woods(wo)men are very proficient in basic-attacking, much like
-STRginners and STR mages. On the other hand, their archery skills are still
-formidable, which contributes to their versatility.
+Un arquero que es puro STR se llama mujer/hombre del bosque (inglés:
+_woods(wo)man_), o leñador. Con todo ese STR, lxs mujeres/hombres del bosque
+son muy competentes en el ataque básico, como los novatos permanentes STR
+(inglés: _STRginners_) y los magos STR. Por otro lado, sus habilidades arqueras
+siguen siendo formidable, lo que contribuye a su versatilidad.
 
-In melee, the woods(wo)man benefits from a number of things:
+En el combate cuerpo a cuerpo, la/el mujer/hombre del bosque beneficia de
+varias cosas:
 
-- Access to special “jobbed beginner” weapons, like the Monkey Wrench and Metal
-  Axe;
-- summons, e.g. Silver Hawk and Frostprey;
-- and a number of buffs, e.g. Sharp Eyes, The Blessing of Amazon, Focus, etc.
+- Acceso a armas especiales para “novatos con trabajo” (inglés: “_jobbed
+  beginners_”), como la _Monkey Wrench_ y el _Metal Axe_;
+- invocaciones, como _Silver Hawk_ y _Frostprey_;
+- y una serie de potenciadores (inglés: _buffs_), como _Sharp Eyes_, _The
+  Blessing of Amazon_, _Focus_, etc.
 
-In archery, the woods(wo)man benefits from many of the same things that a
-non-odd archer does. However, there are some crucial differences:
+En el tiro con arco, la/el mujer/hombre del bosque beneficia de muchas de las
+mismas cosas que un que un arquero “normal”. Sin embargo, hay algunas
+diferencias cruciales:
 
-- The woods(wo)man has difficulties wearing ordinary archer gear, due to their
-  DEXlessness. Maple weapons (e.g. the Maple Nishada) are extremely helpful
-  here, as is the Bow of Magical Destruction. Otherwise, woods(wo)man gear is
-  very similar to STRginner gear.
-- The woods(wo)man’s archery damage is naturally lower, but also more stable.
-- The woods(wo)man has to find a way to make up for their missing WACC.
+- La/el mujer/hombre del bosque tiene dificultades para usar el equipo de
+  arquero ordinario, debido a su falta de DEX. Las armas maple (_Maple
+  weapons_) (p\.ej. _Maple Nishada_) son extremadamente útiles en este caso,
+  así como el _Bow of Magical Destruction_. Por lo demás, el equipo de leñador
+  es es muy similar al equipo del novato permanente STR.
+- El daño del leñador es naturalmente más bajo, pero también más estable.
+- La/el mujer/hombre del bosque tiene que encontrar una manera de compensar su
+  falta de WACC.
 
-With their versatility, and their ability to use any archer skill at their
-disposal, woods(wo)men are exceptionally strong (for an odd job) in most
-situations. Their primary weakness is, of course, their fragility, although
-they usually fare better than permarchers and permabeginners in this respect.
-Woods(wo)men are also disadvantaged relative to gishes, because they must
-switch equipment in order to switch their combat style.
+Con su versatilidad, y su capacidad de utilizar cualquier habilidad arquera a
+su disposición, lxs mujeres/hombres del bosque son excepcionalmente fuertes
+(para un _odd job_) en la mayoría de situaciones. Su principal debilidad es,
+por supuesto, su fragilidad, aunque suelen ser más resistentes que los
+perma-arqueros y los novatos permanentes en este aspecto. Lxs mujeres/hombres
+del bosque también están en desventaja con respecto a los gishes, ya que deben
+cambiar de equipo para cambiar su estilo de combate.
 
-Both bow users and crossbow users make strong woods(wo)men. Some claim that
-crossbow users are superior, because of their access to Snipe, but both have
-their strengths.
+Tanto los usuarios de arcos como los de ballestas son mujeres/hombres del
+bosque fuertes. Algunos afirman que los usuarios de ballesta son superiores,
+debido a su acceso a _Snipe_, pero ambos tienen sus puntos fuertes.
 
 <details>
-<summary>Further reading about the woods(wo)man</summary>
+<summary>Más información sobre la/el mujer/hombre del bosque</summary>
 
 - [deer (capreolina), “The Martial Classicist, The Strongest Drawing Arm In All
   The Land: The Woodsman”, 2020-12-07,
@@ -581,69 +592,81 @@ their strengths.
 
 </details>
 
-### Bow-whacker
+### _Bow-whacker_
 
-![A bow-whacker](bow-whacker.webp "A bow-whacker")
+![El bow-whacker](bow-whacker.webp "El bow-whacker")
 
-Bow-whackers are archers who use (cross)bows, but cannot shoot arrows nor use
-Soul Arrow. Instead, they whack monsters using Power Knock-Back (PKB). PKB’s
-primary stat is DEX, and its secondary stat is STR, so bow-whackers tend to
-have the same AP build as a non-odd archer.
+Los _bow-whackers_ son arqueros que utilizan arcos or ballestas, pero no pueden
+disparar flechas ni utilizar _Soul Arrow_. En su lugar, golpean a los monstruos
+utilizando el _Power Knock-Back_ (PKB). La estadística principal de PKB es DEX,
+y su estadística secundaria es STR. Los _bow-whackers_ tienden a tener la misma
+estructura de AP que un arquero “normal”.
 
-Unfortunately, PKB’s mastery cannot be increased with other skills like Bow
-Mastery. And, passive sources of crits (i.e. Critical Shot) do not function
-with bow-whacks. Nevertheless, they are capable of dealing a reasonable amount
-of damage. Furthermore, PKB hits up to six monsters at once, making them
-effective at killing crowds of monsters in many situations. Bow-whackers
-otherwise benefit normally from other archer skills, like summons and buffs
-(even Sharp Eyes!).
+Desafortunadamente, la maestría de PKB no se puede aumentar con otras
+habilidades como _Bow Mastery_. Y, las fuentes pasivas de críticos (p\.ej.
+_Critical Shot_) no funcionan con los golpes de arco (inglés: _bow-whacks_).
+Sin embargo, son capaces de infligir una cantidad razonable de daño. Además, el
+PKB golpea hasta seis monstruos a la vez, lo que los hace eficaz para matar a
+multitudes de monstruos en muchas situaciones. Los _bow-whackers_ por lo demás
+benefician normalmente de las otras habilidades de arqueros, como las
+invocaciones y los _buffs_ (¡incluso _Sharp Eyes_!).
 
-## 🥷 Thieves
+## 🥷 Ladrones
 
-### Permarogue
+### Pícaro permanente
 
-![Two permarogues](permarogues.webp "Two permarogues")
+![Dos perma-pícaros](permarogues.webp "Dos perma-pícaros")
 
-Permarogues are one of five kinds of perma-first-jobbers (“perma-firsts”).
-Permarogues take first job advancement to rogue, but never job advance beyond
-this point. This makes perma-firsts similar to permabeginners, in that they are
-defined by their refusal to job advance.
+Los pícaros permanentes son uno de los cinco tipos de perma-primeros trabajos
+(“perma-primeros”; inglés: _perma-firsts_). Los perma-pícaros ascienden al
+trabajo de pícaro, pero nunca avanzan más allá de este punto. Esto hace que los
+perma-primeros se parezcan a novatos permanentes, en el sentido de que se
+definen por su niegamiento a avanzar de trabajo.
 
-Permarogues are mixed melee/ranged attackers, because they can use daggers in
-combination with Double Stab, as well as claws in combination with Lucky Seven.
+Los perma-pícaros son atacantes mixtos de cuerpo-a-cuerpo/a-distancia
+(_melee_/_ranged_), porque pueden usar dagas en combinación con _Double Stab_,
+así como garras en combinación con _Lucky Seven_.
 
-Due to Lucky Seven’s built-in mastery and generally favourable damage formula,
-permarogues are perhaps the strongest perma-firsts in terms of single-target
-DPS. Although they lack Haste, they are somewhat more mobile than permarchers,
-because they can attack in mid-air. However, like permarchers, they are very
-fragile — they don’t get a MAXHP bonus from second job advancement, and are
-left with just the 20 avoidability from Nimble Body.
+Debido a la maestría incorporada de _Lucky Seven_ y a la fórmula de daño
+generalmente favorable, los perma-pícaros son tal vez los perma-primeros más
+fuertes en términos de DPS a un solo objetivo (inglés: _single-target DPS_).
+Aunque carecen _Haste_, son un poco mas móviles que los perma-arqueros porque
+pueden atacar en el aire. Sin embargo, al igual que los perma-arqueros, son muy
+fragiles porque no obtienen una bonificación de MAXHP por no avancar al segundo
+trabajo, y sólo les queda la capacidad de 20 evasión (_avoidability_) de la
+habilidad _Nimble Body_.
 
-### Brigand
+### Bandolero (inglés: _brigand_)
 
-![Two brigands](brigands.webp "Two brigands")
+![Dos bandoleros/brigands](brigands.webp "Dos bandoleros/brigands")
 
-A bandit/CB/shadower who does not use daggers, and is LUKless, is called a
-brigand (or a highway(wo)man). Brigands are typically played similarly to
-STRginners, focusing on STR, and using weapons like polearms and swords.
+Un bandido/CB/_shadower_ quien no usa dagas, y no tiene LUK, se llama bandolero
+(inglés: _brigand_), o hombre/mujer de la carretera (inglés: _highway(wo)man_).
+Los bandoleros se juegan normalmente de forma similar a los novatos permanentes
+STR (_STRginners_), centrándose en STR, y utilizando armas de asta y espadas.
 
-Unlike permabeginners, however, brigands get some special goodies:
+Sin embargo, a diferencia de los novatos permanentes, los bandoleros obtienen
+algunas ventajas especiales:
 
-- Access to special “jobbed beginner” weapons, like the Monkey Wrench and Metal
-  Axe;
-- special attacking skills like Disorder, Steal, and even Meso Explosion;
-- and a number of buffs, including Dark Sight, Haste, Meso Guard, etc.
+- Acceso a armas especiales para “novatos con trabajo” (inglés: “_jobbed
+  beginners_”), como _Monkey Wrench_ y _Metal Axe_;
+- habilidades de ataque especiales como _Disorder_, _Steal_, y tambien _Meso
+  Explosion_;
+- y una serie de potenciadores, _Dark Sight_, _Haste_, _Meso Guard_, etc.
 
-As a result of naturally higher MAXHP and the benefit of Meso Guard, brigands
-are much more survivable than permabeginners.
+Como resultado de una mayor potencia máxima natural (MAXHP) y el beneficio de
+_Meso Guard_, los bandoleros son mucho más resistentes que los novatos
+permanentes.
 
-#### Related species
+#### Especies relacionadas
 
-- **Grim reaper:** Is any job that exclusively uses the Scythe.
-- **Carpenter:** Is any job that exclusively uses the Saw.
+- **_Grim reaper_:** Es cualquier trabajo que utilice exclusivamente la guadaña
+  (_Scythe_).
+- **Carpintero (inglés: _carpenter_):** Es cualquier trabajo que utiliza
+  exclusivamente la sierra (_Saw_).
 
 <details>
-<summary>Further reading about the brigand</summary>
+<summary>Más información sobre los bandoleros/brigands</summary>
 
 - [OresPlz (binomine), “Guide to Perma Beginners”, 2009-12-28, _Maplestory
   Mesos Guide
@@ -655,99 +678,114 @@ are much more survivable than permabeginners.
 
 </details>
 
-### LUKless assassin
+### Asesino sin LUK
 
-![Two LUKless sins](lukless-sins.webp "Two LUKless sins")
+![Dos asesinos sin LUK](lukless-sins.webp "Dos asesinos sin LUK")
 
-LUKless (assas)sins are assassins/hermits/nightlords who are LUKless, adding
-their AP into STR/DEX instead. This makes the LUKless sin similar to the
-brigand, but instead taking the _other_ main thief path. As a result, LUKless
-sins are often played similarly to STRginners.
+Los asesinos sin LUK son asesinos (_assassins_)/ermitaños (_hermits_)/señores
+de la noche (_nightlords_) que no tienen LUK, añadiendo su AP en STR/DEX en
+lugar de LUK. Esto hace que el asesino sin LUK sea similar al bandolero
+(_brigand_), pero tomando el otro camino principal de los ladrones. Como
+resultado, los asesinos sin LUK se juegan a menudo de forma similar a los
+novatos de STR (_STRginners_).
 
-Like brigands, LUKless sins get access to “jobbed beginner” weapons, Disorder,
-and buffs like Dark Sight and Haste. However, even in melee, LUKless sins
-differentiate themselves from brigands:
+Al igual que los bandoleros, asesinos sin LUK tienen acceso a las armas de los
+“novatos con trabajo” (inglés: _jobbed beginners_), a la habilidad _Disorder_ y
+potenciadores como _Dark Sight_ y _Haste_. Sin embargo, incluso en el cuerpo a
+cuerpo, los asesinos sin LUK se diferencian de los bandoleros:
 
-- LUKless sins get Flash Jump, but don’t get Steal nor Meso Explosion.
-- LUKless sins get unique buffs, like Meso Up and Alchemist.
-- LUKless sins are more fragile, as they don’t have access to Meso Guard.
+- Asesinos sin LUK obtienen _Flash Jump_, pero no obtienen _Steal_ ni _Meso
+  Explosion_.
+- Asesinos sin LUK obtienen bonificaciones únicas, como _Meso Up_ y
+  _Alchemist_.
+- Asesinos sin LUK son más frágiles, ya que no tienen acceso a _Meso Guard_.
 
-However, LUKless sins are not just known for their melee prowess; they are
-perfectly adept with claws, as well. Both STR and DEX contribute to damage with
-claws (excepting Lucky Seven, Triple Throw, and Shadow Meso), making their claw
-use similar to a woods(wo)man using a (cross)bow. Note that this similarity
-applies to weapon choice; the LUKless sin is usually stuck with Maple claws,
-Shinobi Bracers, etc.
+Sin embargo, los asesinos sin LUK no sólo son conocidos por su destreza en el
+cuerpo a cuerpo; son perfectamente hábiles con las garras, también. Tanto STR
+como DEX contribuyen al daño con garras (exceptuando _Lucky Seven_, _Triple
+Throw_, y _Shadow Meso_), lo que hace que su uso de garras sea similar a la/al
+mujer/hombre del bosque cuando usan ballestas o arcos. Ten en cuenta que esta
+similitud se aplica a la elección del arma; el asesinos sin LUK suele usar
+garras de Maple y _Shinobi Bracers_, etc.
 
-In first job, claw use is limited to basic-attacking. In second job, Drain
-becomes an effective attacking skill, and they also get access to Claw Mastery,
-Critical Throw, and Claw Booster. In third job, Avenger and Shadow Meso are
-both very effective attacking skills: the former for mobbing, and the latter
-for single-target. Shadow Meso is unique in that it ignores all stats (STR,
-DEX, LUK, WATK, etc.), and ignores Claw Mastery & Critical Throw. Although this
-means that Shadow Meso can’t improve once it’s at maximum level, it’s also the
-secret to LUKless hermits being one of the most powerful odd jobs with respect
-to single-target DPS. They also get Shadow Partner at this point, further
-increasing their damage with claws.
+En el primer trabajo, el uso de las garras se limita a los ataques-básicos. En
+el segundo trabajo, _Drain_ se convierte en una habilidad de ataque efectiva, y
+también obtienen acceso a _Claw Mastery_, _Critical Throw_, y _Claw Booster_.
+En el tercer trabajo, _Avenger_ y _Shadow Meso_ son habilidades de ataque muy
+efectivas: la primera para atacar múltiples enemigos (inglés: _mobbing_), y la
+segunda para un solo objetivo. _Shadow Meso_ es único porque ignora todas las
+estadísticas (STR, DEX, LUK, WATK, etc.), e ignora _Claw Mastery_ y _Critical
+Throw_. Aunque esto significa que _Shadow Meso_ no puede mejorar una vez que
+está en el nivel máximo, también es el secreto para que los ermitaños sin LUK
+sean uno de los odd-jobs más poderosos con respecto DPS de un solo objetivo.
+También obtienen _Shadow Partner_ en este punto, aumentando aún más su daño con
+las garras.
 
-#### Subspecies and related species
+#### Subespecies y especies relacionadas
 
-- **STR (assas)sin/STRmit/STRlord:** Is a LUKless sin with more STR than DEX.
-- **DEX (assas)sin/DEXmit/DEXlord:** Is a LUKless sin with more DEX than STR.
-- **Grim reaper:** Is any job that exclusively uses the Scythe.
-- **Carpenter:** Is any job that exclusively uses the Saw.
+- **STR (ase)sino/STRmit/STRlord:** Es un asesino sin LUK con más STR que DEX.
+- **DEX (ase)sino/DEXmit/DEXlord:** Es un asesino sin LUK con más DEX que STR.
+- **_Grim reaper_:** Es cualquier trabajo que utilice exclusivamente la guadaña
+  (_Scythe_).
+- **Carpintero (inglés: _carpenter_):** Es cualquier trabajo que utiliza
+  exclusivamente la sierra (_Saw_).
 
-### LUKless bandit
+### Bandido sin LUK
 
-![Two LUKless dits](lukless-dits.webp "Two LUKless dits")
+![Dos bandidos sin LUK](lukless-dits.webp "Dos bandidos sin LUK")
 
-LUKless (ban)dits (often referred to loosely as “DEXdits”) are
-bandits/CBs/shadowers who are LUKless, adding their AP into STR/DEX instead.
-This makes the LUKless dit similar to the brigand, but without the restriction
-preventing them from using daggers. LUKless dits are thus partly defined by
-using daggers as their primary weapon.
+Los bandidos sin LUK (a menudo vagamente llamados “_DEXdits_”) son
+bandidos/CBs/_shadowers_ que no tienen LUK, añadiendo su AP a STR/DEX en su
+lugar. Esto hace que el bandido sin LUK sea similar al bandolero (_brigand_),
+pero sin la restricción que les impide usar dagas. Los “_dits_ sin LUK” se
+definen en parte por el uso de dagas como su arma principal.
 
-Indeed, this makes the LUKless dit more similar to the DEX warrior than to the
-brigand. Like the DEX warrior, the LUKless dit:
+De hecho, esto hace que el bandido sin LUK es más similar al guerrero DEX que
+al bandolero/_brigand_. Al igual que el guerrero DEX, el dit sin LUK:
 
-- Can make good use of any skills that they have access to.
-- Has much more WACC than their non-odd counterparts.
-- Has incredibly stable damage. In fact, LUKless dits are usually superior in
-  this regard; a LUKless dit with level ≥19 Dagger Mastery does _nearly the
-  same exact damage_ every time that they use Savage Blow.
+- Puede hacer buen uso de cualquier habilidad a la que tenga acceso.
+- Tiene mucho más WACC que sus contrapartes “normales”.
+- Tiene un daño increíblemente estable. De hecho, los _dits_ sin LUK suelen ser
+  superiores en en este aspecto; un _dit_ sin LUK con nivel ≥19 de _Dagger
+  Mastery_ hace _casi_ exactamente lo mismo daño cada vez que usa _Savage
+  Blow_.
 
-Unlike DEX warriors, LUKless dits don’t have more avoidability than their
-non-odd counterparts. In fact, they have less.
+A diferencia a los guerreros con DEX, los _dits_ sin LUK no tienen más
+capacidad de evasión (_avoidability_) que sus contrapartes “normales”. De
+hecho, tienen menos.
 
-LUKless dits normally add just enough STR to equip their daggers, and put the
-remaining AP into DEX. STR and DEX contribute equally to their damage, and DEX
-increases WACC and AVOID, whereas STR does not.
+Los bandidos sin LUK normalmente añaden lo suficiente de STR para equipar sus
+dagas, y ponen el AP restante en DEX. STR y DEX contribuyen por igual a su
+daño, y DEX aumenta el WACC y el AVOID, mientras que el STR no lo hace.
 
-#### Subspecies
+#### Subespecies
 
-- **(Pure) DEXdit:** Is pure DEX, i.e. a LUKless dit who is also STRless. This
-  subspecies has a harder time equipping daggers and shields.
+- **(Puro) _DEXdit_:** Es puro DEX; un bandido sin LUK que además no tiene STR.
+  Esta subespecie tiene más dificultades para equipar dagas y escudos.
 
-### Blood bandit
+### Bandido de sangre
 
-![A blood bandit](blood-dit.webp "A blood bandit")
+![Un bandido de sangre](blood-dit.webp "Un bandido de sangre")
 
-Blood (ban)dits (a.k.a. HP dits) are statless bandits/CBs/shadowers who put all
-of their AP into MAXHP. A blood dit only adds enough DEX to job advance, and
-then dumps all of their AP into MAXHP. This, in combination with Meso Guard
-from third job, makes blood dits _incredibly_ durable — a blood dit with Meso
-Guard is virtually unkillable.
+Los bandidos de sangre (también conocidos como “_dits_ de HP”) (inglés: _HP
+dits_) son bandidos/CBs/_shadowers_ que ponen todo de su AP en MAXHP. Un “_dit_
+de sangre” sólo añade suficiente DEX para avanzar en trabajo, y luego vuelca
+todo su AP en MAXHP. Esto, en combinación con _Meso Guard_ del tercer trabajo,
+hace a los bandidos de sangre _increíblemente_ duraderos — un dit de sangre con
+_Meso Guard_ es prácticamente imposible de matar.
 
-The main tool in the blood dit’s arsenal is Meso Explosion. Meso Explosion’s
-damage ignores the blood dit’s stats (STR, DEX, LUK, WATK, etc.), but obviously
-requires exploding a lot of money. This is often costly, but means that blood
-dits can fight just about _any_ enemy by the time that they are level 70–80 or
-so! It also means that the blood dit has to wait another 30–35 levels to
-mature, in comparison to an HP warrior. For the blood dit, the road to Meso
-Explosion is long, but incredibly rewarding!
+La principal herramienta del arsenal de los bandidos de sangre es _Meso
+Explosion_. El daño de _Meso Explosion_ ignora las estadísticas del _dit_ de
+sangre (STR, DEX, LUK, WATK, etc.), pero obviamente requiere explotar un montón
+de dinero. Esto suele ser costoso, pero significa que bandidos de sangre pueden
+luchar contra _casi cualquier_ enemigo en el momento en que son de nivel 70–80
+o más o menos. También significa que el bandido de sangre tiene que esperar
+otros 30–35 niveles para madurar, en comparación al guerrero HP (_HP warrior_).
+Para el bandido de sangre, el camino hacia _Meso Explosion_ es largo, ¡pero
+increíblemente gratificante!
 
 <details>
-<summary>Further reading about the blood bandit</summary>
+<summary>Más información sobre el bandido de sangre</summary>
 
 - [Linyah (Marty), “\[In-Depth\] Shadower Guide”, 2014-05-05, _MapleRoyals
   Forums_.](https://mapleroyals.com/forum/threads/in-depth-shadower-guide.8122/)
@@ -758,165 +796,180 @@ Explosion is long, but incredibly rewarding!
 
 </details>
 
-## 🏴‍☠️ Pirates
+## 🏴‍☠️ Piratas
 
-### Permapirate
+### Pirata permanente
 
-![Two permapirates](permapirates.webp "Two permapirates")
+![Dos perma-piratas](permapirates.webp "Dos perma-piratas")
 
-Permapirates are one of five kinds of perma-first-jobbers (“perma-firsts”).
-Permapirates take first job advancement to pirate, but never job advance beyond
-this point. This makes perma-firsts similar to permabeginners, in that they are
-defined by their refusal to job advance.
+Los piratas permanentes son uno de los cinco tipos de perma-primeros trabajos
+(“perma-primeros”; inglés: _perma-firsts_). Los perma-piratas ascienden al
+trabajo de pirata, pero nunca avanzan más allá de este punto. Esto hace que los
+perma-primeros se parezcan a los novatos permanentes, en el sentido de que
+ellos como los novatos permanentes nunca avanzan su trabajo.
 
-Permapirates are mixed melee/ranged attackers, because they can make use of
-Somersault Kick & Flash Fist for melee, as well as Double Shot for range.
-However, unlike the permarogue, the permapirate’s primary stat depends on what
-skill they’re using: for the melee skills, STR is preferable; and for Double
-Shot, DEX is preferable. This means that most permapirates tend to specialise
-in either melee _or_ range. Having roughly equal STR & DEX is also possible, to
-mix melee & range more thoroughly.
+Los perma-piratas son atacantes mixtos de cuerpo a cuerpo y a distancia, ya que
+pueden hacer uso de _Somersault Kick_ y _Flash Fist_ para el cuerpo a cuerpo,
+así como _Double Shot_ para el alcance. Sin embargo, a diferencia del
+perma-pícaro, la estadística principal del pirata permanente depende de la
+habilidad que esté usando: para las habilidades de cuerpo a cuerpo, es
+preferible la STR; y para _Double Shot_, es preferible la DEX. Esto significa
+que la mayoría de los perma piratas tienden a especializarse en el cuerpo a
+cuerpo o en el alcance. También es posible tener más o menos el mismo STR y
+DEX, para mezclar los dos typos de ataque.
 
-Because permapirates have both melee and ranged attacks, as well as both
-single-target attacks and multi-target attacks, they are perhaps the most
-versatile perma-firsts. Furthermore, both Double Shot with high DEX, as well as
-Flash Fist with high STR, are very potent for dealing single-target DPS.
-Permapirates are also the most mobile perma-firsts, as they have the Dash
-skill, and all of their attacks are usable in mid-air. However, like
-permarchers & permarogues, they are very fragile — they don’t get a MAXHP bonus
-from second job advancement, and are left with just the 20 avoidability from
-Bullet Time.
+Dado que los perma-piratas tienen ataques tanto cuerpo a cuerpo como a
+distancia, así como ataques de un solo objetivo y ataques multiobjetivo, son
+quizás los perma primeros (_perma-firsts_) más versátiles. Además, tanto
+_Double Shot_ con DEX alta, como _Flash Fist_, con STR elevada, son muy
+potentes para infligir DPS a un solo objetivo. Los piratas permanentes son
+también los _perma-firsts_ más móviles, ya que tienen la habilidad _Dash_ y
+todos sus ataques son utilizables en el aire. Sin embargo, al igual que los
+permarqueros y perma-pícaros, son muy frágiles — no obtienen una bonificación
+de MAXHP por el avance del segundo trabajo, y sólo les queda la capacidad de
+evasión (_avoidability_) +20 de Tiempo de Bala (_Bullet Time_).
 
-### DEX brawler
+### DEX _brawler_/luchador
 
-![Two DEX brawlers](dex-brawlers.webp "Two DEX brawlers")
+![Dos DEX brawlers](dex-brawlers.webp "Dos DEX brawlers")
 
-Brawlers/marauders/buccaneers who dump all of their AP into DEX are known as
-DEX brawlers. Although DEX brawlers generally deal considerably less damage
-than their non-odd counterparts, they are capable of using the same skillset,
-and their extreme agility comes with its own perks:
+Los _brawlers_/_marauders_/_buccaneers_ que vuelcan todo su AP en DEX son
+conocidos como _DEX brawlers_, o luchadores de DEX. Aunque los _DEX brawlers_
+generalmente infligen mucho menos daño que homólogos sin DEX, son capaces de
+utilizar el mismo conjunto de habilidades, y su extrema agilidad tiene sus
+propias ventajas:
 
-- DEX brawlers are known for their extreme avoidability. Brawlers gain a
-  whopping **1\.5** avoidability per point of DEX\*, making DEX brawlers fully
-  capable of hitting the 999 avoidability cap.
-- DEX brawlers have the highest WACC in the game — yes, even more than DEX
-  warriors!
-- The DEX brawler’s melee damage is much more stable than that of their non-odd
-  counterparts.
-- With Double Shot and a gun, DEX brawlers are capable ranged combatants as
-  well! This makes DEX brawlers (and some closely related odd jobs) the most
-  naturally durable ranged attackers in the game, odd or otherwise.
+- Los _brawlers_ DEX son conocidos por su extrema capacidad de evasión. Los
+  luchadores ganan un **1\.5** de evasión por cada punto de DEX\*, lo que hace
+  que los luchadores de DEX sean capaces de alcanzar el tope de evasión de 999.
+- Los luchadores DEX tienen el WACC más alto del juego — sí, ¡incluso más que
+  los guerreros DEX!
+- El daño cuerpo a cuerpo de los luchadores DEX es mucho más estable que el de
+  sus homólogos sin DEX.
+- Con _Double Shot_ y un pistola, los luchadores DEX son capaces de combatir a
+  distancia también. Esto hace que los luchadores con DEX (y algunos _odd jobs_
+  relacionadas) son los atacantes a distancia más duraderos del juego,
+  incluyendo a trabajos “normales”.
 
-However, compared to the DEX _warrior_, the DEX brawler is lacking in both
-survivability and weapon choices. Brawlers are naturally sturdy, but not as
-much as warriors. And unlike the DEX warrior, the DEX brawler is pretty much
-stuck with Maple weapons no matter what. The brawler’s skillset also doesn’t
-play quite as nicely with pure DEX builds, meaning that a DEX warrior often
-(but not always) has the DPS advantage.
+Sin embargo, en comparación con el guerrero DEX, el luchador DEX carece de
+tanto en supervivencia como en opciones de armas. Los luchadores son
+naturalmente resistentes, pero no tanto como los guerreros. Y a diferencia del
+guerrero DEX, el brawler DEX prácticamente tiene que usar armas Maple sin otras
+optiones. El conjunto de habilidades del luchador tampoco no juega tan bien con
+las construcciones de DEX pura, lo que significa que los guerreros de DEX a
+menudo (pero _no siempre_) tiene la ventaja de DPS.
 
 <details>
-<summary>Footnotes for “DEX brawler”</summary>
+<summary>Notas a pie de página para “DEX brawler/luchador”</summary>
 
-\*This is not true in MapleLegends, where brawlers/marauders/buccaneers gain
-only 0\.25 avoidability per point of DEX.
+\*Esto no es cierto en MapleLegends, donde los
+_brawlers_/_marauders_/_buccaneers_ ganan sólo 0\.25 de evasión
+(_avoidability_) por punto de DEX.
 
 </details>
 
-#### Related species
+#### Especies relacionadas
 
-- **LUK brawler/LUKaneer/luccaneer/LUK bucc/lucc bucc:** Is pure LUK, instead
-  of pure DEX.
-- **Bullet bucc/gun brawler:** Is a brawler/marauder/buccaneer who exclusively
-  uses guns.
+- **LUK brawler/LUKaneer/luccaneer/LUK bucc/lucc bucc:** Es pura LUK, en lugar
+  de DEX puro.
+- **_Bullet bucc_/_gun brawler_:** Es un _brawler_/_marauder_/_buccaneer_ que
+  exclusivamente utiliza armas de fuego.
 
-### Pugilist
+### Pugilista
 
-![Two pugilists](pugilists.webp "Two pugilists")
+![Dos pugilistas](pugilists.webp "Dos pugilistas")
 
-Any character who never equips any weapons is called a pugilist. As it turns
-out, only pirates are capable of attacking without a weapon, so all pugilists
-are pirates. Furthermore, attacking with no weapon is — in _some_ ways —
-treated similarly to using a knuckler. So, most pugilists are
-brawlers/marauders/buccaneers; of course,
-permapirates/gunslingers/outlaws/corsairs are possible as well.
+Cualquier personaje que nunca equipa un arma se llama pugilista. Resulta que
+sólo los piratas son capaces de atacar sin un arma, por lo que todos los
+pugilistas son piratas. Además, atacar sin arma es — en _algunas_ formas —
+similar a usar un puño de acero (inglés: _knuckler_, _\[brass\] knuckles_). Por
+lo tanto, la mayoría de los pugilistas son _brawlers_/_marauders_/_buccaneers_.
+Por supuesto, también son posibles los
+perma-piratas/pistoleros/_outlaws_/_corsairs_.
 
-All brawler-oriented skills from first, second, third, and fourth job are
-usable bare-handed, with two exceptions: Knuckler Mastery and Knuckler Booster.
-This means that pugilist brawlers are at a mastery (the pugilist has 10%
-mastery\*), WACC, and attack speed disadvantage compared to their non-odd
-counterparts. Because bare hands have a speed category of 4, the pugilist
-brawler is no longer at an attack speed disadvantage once they have Speed
-Infusion.
+Todas las habilidades orientadas a los pugilistas del primer, segundo, tercer,
+y cuarto trabajo se pueden utilizar con las manos desnudas, con dos
+excepciones: _Knuckler Mastery_ y _Knuckler Booster_. Esto significa que los
+_brawlers_ pugilistas tienen una maestría (el pugilista tiene un 10% de
+maestría\*), WACC, y velocidad de ataque en desventaja en comparación a sus
+homólogos “normales”. Como las manos desnudas tienen la categoría de velocidad
+de 4, el pugilista ya no está en desventaja de velocidad de ataque una vez que
+tiene _Speed Infusion_.
 
-The unusual damage formula for attacking without a weapon equipped, combined
-with the severe WATK disadvantage due to not having a weapon, makes the
-pugilist’s damage very subpar by non-odd standards. However, they are quite
-powerful overall, by odd job standards, and function very similarly to a
-non-odd brawler/marauder/buccaneer.
+La inusual fórmula de daño para atacar sin un arma equipada, combinada con la
+desventaja de WATK por no tener un arma, hace que el daño del pugilista sea muy
+inferior a los estándares de trabajos “normales”. Sin embargo, son bastante
+poderosos en general, para los estándares de los _odd jobs_, y funcionan de
+manera muy similar a un _brawler_/_marauder_/_buccaneer_ “normal”.
 
 <details>
-<summary>Footnotes for “Pugilist”</summary>
+<summary>Notas a pie de página para “Pugilista”</summary>
 
-\*Level ≥11 of Super Transformation passively grants +5% mastery, so a pugilist
-with a high level of this skill has 15% mastery.
+\*El nivel ≥11 de _Super Transformation_ da pasivamente +5% de maestría, por lo
+que un pugilista con un nivel alto de esta habilidad tiene 15% de maestría.
 
 </details>
 
-#### Subspecies
+#### Subespecies
 
-- **Empty-handed pugilist/shieldless pugilist:** Does not use a shield.
-- **Shield pugilist:** Uses a shield to make up for some of the WATK lost by
-  not wearing a weapon.
+- **Pugilista mano vacía/pugilista sin escudo:** No utiliza escudo.
+- **Pugilista con escudo:** Utiliza un escudo para compensar parte del WATK
+  perdido por no llevar un arma.
 
-### Swashbuckler
+### _Swashbuckler_
 
-![Two swashbucklers](swashbucklers.webp "Two swashbucklers")
+![Dos swashbucklers](swashbucklers.webp "Dos swashbucklers")
 
-A gunslinger/outlaw/corsair who is pure STR is called a swashbuckler. With all
-of that STR, swashbucklers are very proficient in the use of Somersault Kick.
-On the other hand, their firearm skills are still formidable, which contributes
-to their versatility. This makes the swashbuckler kind of like “the pirate
-version of woods(wo)man”, but these two odd jobs are actually very distinct.
+Un pistolero/_outlaw_/_corsair_ quien es puro STR se llama _swashbuckler_. Con
+todo de esa STR, los _swashbucklers_ son muy competentes en el uso de
+_Somersault Kick_. Por otro lado, sus habilidades con las armas de fuego siguen
+siendo formidables, lo que contribuye a su versatilidad. Esto hace que el
+_swashbuckler_ sea una “versión pirata de la/del mujer/hombre del bosque”, pero
+estos dos _odd jobs_ son en realidad muy distintos.
 
-Like the woods(wo)man, the swashbuckler has difficulties wearing pirate
-equipment (the Maple Cannon Shooter is the most powerful gun for a
-swashbuckler), has lower — but more stable — ranged damage than their non-odd
-counterparts, and has lower WACC than their non-odd counterparts.
+Al igual a la/al mujer/hombre del bosque, el swashbuckler tiene dificultades
+para llevar equipo pirata (_Maple Cannon Shooter_ es el arma más potente para
+un _swashbuckler_). El _swashbuckler_ tiene un daño a distancia menor — pero
+más estable — que sus homólogos “normales”, y tiene un WACC más bajo que sus
+homólogos “normales”.
 
-However, in melee, the usual weapon of choice for the swashbuckler is a spear
-(e.g. Sky Ski), although knucklers, swords, and daggers can also be quite good.
-This is because Somersault Kick always “stabs”, so weapons that do favourable
-damage when stabbing work well with Somersault Kick. Because Somersault Kick
-hits up to six monsters at once, and because the swashbuckler’s gun-based
-multi-target attacks are lacklustre, Somersault Kick with a melee weapon is the
-swashbuckler’s main method for taking down multiple monsters.
+Sin embargo, en el cuerpo a cuerpo, el arma habitual del swashbuckler es una
+lanza (p\.ej. _Sky Ski_), aunque los puños de acero, las espadas, y las dagas
+también pueden ser bastante buenos. Esto se debe a que _Somersault Kick_
+siempre “apuñala”, por lo que las armas que hacen daño al apuñalar funcionan
+bien con _Somersault Kick_. Debido a que _Somersault Kick_ golpea hasta seis
+monstruos a la vez, y porque los ataques pistoleros multiobjetivos del
+_swashbuckler_ son mediocres, la _Somersault Kick_ con un arma cuerpo a cuerpo
+es la principal método del swashbuckler para atacar múltiples enemigos.
 
-In fourth job, Aerial Strike works similarly to Somersault Kick, so it’s also
-typically used with a spear. In fact, Aerial Strike — as used by a swashbuckler
-holding a powerful spear — is among _the_ most powerful area-of-effect attacks
-in the game.
+En el cuarto trabajo, _Aerial Strike_ funciona de forma similar a _Somersault
+Kick_, por lo que también típicamente se usa con una lanza. De hecho, _Aerial
+Strike_ — usado por un swashbuckler con una poderosa lanza — es uno de los
+ataques de área de efecto más poderosos del juego.
 
-With a gun, the swashbuckler’s single-target DPS is very impressive by odd job
-standards, and their melee and ranged combat are both bolstered by their
-handy-dandy summons! The swashbuckler is also very mobile, with skills like
-Dash, Wings, and Recoil Shot.
+Con una pistola, el DPS del swashbuckler a un solo objetivo es muy
+impresionante para los estándares de los _odd jobs_. Su combate cuerpo a cuerpo
+y a distancia se ven reforzados por sus sus útiles invocaciones. El
+swashbuckler también es muy móvil, con habilidades como _Dash_, _Wings_, y
+_Recoil Shot_.
 
-All of the above combine to make the swashbuckler both versatile, and powerful.
-Their primary weakness is, of course, their fragility, although they usually
-fare better than permapirates and permabeginners in this respect. Swashbucklers
-are also disadvantaged relative to gishes, because they must switch equipment
-in order to switch their combat style.
+Todo lo anterior se combina para que el swashbuckler sea versátil y poderoso.
+Su principal debilidad es, por supuesto, su fragilidad, aunque suelen ser
+mejores que los perma-piratas y los novatos permanentes en este aspecto. Los
+swashbucklers también están en desventaja con respecto a los gishes, porque
+deben cambiar de equipo para cambiar su estilo de combate.
 
-#### Related species
+#### Especies relacionadas
 
-- **Armed brawler:** Is a brawler/marauder/buccaneer who does not use knucklers
-  nor guns. Like the swashbuckler, they tend to use spears like e.g. the Sky
-  Ski, in combination with Somersault Kick.
-- **Punch slinger/knuckle slinger:** Is a gunslinger/outlaw/corsair who only
-  uses a knuckler, or no weapon at all.
+- **Luchador armado (inglés: _armed brawler_):** Es un
+  _brawler_/_marauder_/_buccaneer_ quien no usa puños de acero ni armas de
+  fuego. Al igual que el _swashbuckler_, tienden a utilizar lanzas como, por
+  ejemplo, el _Sky Ski_, en combinación con _Somersault Kick_.
+- **_Punch slinger_/_knuckle slinger_:** Es un pistolero/_outlaw_/_corsair_
+  quien sólo usa los puños de acero, o no usa ningún arma.
 
 <details>
-<summary>Further reading about the swashbuckler</summary>
+<summary>Más información sobre el swashbuckler</summary>
 
 - [deer (hydropotina), “Guns To Scabbards, Swords To Holsters: The
   Swashbuckler”, 2021-02-10,
