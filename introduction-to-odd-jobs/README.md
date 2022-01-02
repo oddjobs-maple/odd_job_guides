@@ -125,6 +125,9 @@ MapleStory:
 <details>
 <summary>Further reading about the camper</summary>
 
+- [zeroxlr (GoGoSnuggles), “Camping Guide”, 2021-05-11, _MapleLegends
+  Forums_.](https://forum.maplelegends.com/index.php?threads/camping-guide.40070/)
+  ([archived](https://web.archive.org/web/20220102114030/https://forum.maplelegends.com/index.php?threads/camping-guide.40070/))
 - [Readers (TZD) and BigBerginner, “Readers’ Extraordinary Permanent Beginner
   Guide”, 2009-11-25, _MapleTip
   Forums_.](https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/)
